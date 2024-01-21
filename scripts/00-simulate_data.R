@@ -1,19 +1,30 @@
 #### Preamble ####
-# Purpose: Simulates... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Simulation for data
+# Author: Yingzhi Zhang
+# Date: 20 January 2024
+# Contact: yingzhi.zhang@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
 
 
 #### Workspace setup ####
 library(tidyverse)
-# [...UPDATE THIS...]
+
 
 #### Simulate data ####
-# [...ADD CODE HERE...]
+set.seed(1099)
+
+category_name <- c("Chronic", "Refugees", "Families", "Youth", "Single-Adult")
+
+simulated_data <-
+  tibble(
+    "year" = rep(2017:2023, each = 5),
+    "category" = rep(category_name, times = 7),
+    "number" = round (runif(n = 7*5, min = 0, max = 1000), 0)
+      )
+
+head(simulated_data)
+
+
 
 
 
