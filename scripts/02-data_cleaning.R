@@ -57,14 +57,33 @@ head(cleaned_data)
 ### Save general cleaned data ####
 write_csv(cleaned_data, "outputs/data/cleaned_data.csv")
 
-### Generating data for type classification
+
+
+### Generating data for type classification ###
 crisis_type_data <-
   cleaned_data %>% 
   group_by(Year, Month, Type) %>%
-  summarize(Crisis_Count = n(), .groups = 'drop')
+  summarize(Number = n(), .groups = 'drop')
 
 head(crisis_type_data)
 
 #Save crisis_type data
 write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 
+
+
+### Generating data for Neighborhood ###
+neighbourhood_data <-
+  cleaned_data %>% 
+  group_by(Year, Neighbourhood_name) %>% 
+  summarise(Number = n(), .groups = 'drop')
+
+head(neighbourhood_data)
+
+#Save neighborhood_year data
+write_csv(neighbourhood_data, "outputs/data/neighbourhood_data.csv")
+  
+
+
+### Generating data for 
+  
