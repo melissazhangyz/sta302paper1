@@ -13,7 +13,7 @@ library(tidyverse)
 #### Simulate data ####
 set.seed(1099)
 
-category_name <- c("Chronic", "Refugees", "Families", "Youth", "Single-Adult")
+category_name <- c("Suicide Related", "Overdose", "Person in Crisis", "Elopee", "Jumper")
 
 simulated_data <-
   tibble(
