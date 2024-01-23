@@ -8,7 +8,7 @@
 #### Workspace setup ####
 library(tidyverse)
 library(janitor)
-library(tidyr)
+library(lubridate)
 
 #### Clean data ####
 raw_data <- read_csv("inputs/data/raw_data.csv")
@@ -22,16 +22,49 @@ cleaned_data <-
   raw_data %>% 
   select(objectid, event_year, event_month, event_dow, event_hour, event_type, 
          occurrence_created, apprehension_made, hood_158, neighbourhood_158) %>% 
-  rename(ID = objectid,
-         Year = event_year,
-         Month = event_month,
-         Day = event_dow,
-         Time = event_hour,
-         Type = event_type,
-         Occurence = occurrence_created,
-         Apprehension = apprehension_made,
-         Neighbourhood_number = hood_158,
-         Neighbourhood_name = neighbourhood_158)
+  rename(
+    ID = objectid,
+    Year = event_year,
+    Month = event_month,
+    Day = event_dow,
+    Time = event_hour,
+    Type = event_type,
+    Occurence = occurrence_created,
+    Apprehension = apprehension_made,
+    Neighbourhood_number = hood_158,
+    Neighbourhood_name = neighbourhood_158
+    ) %>% 
+  mutate(
+    Month = 
+      case_match(
+        Month,
+        "January" ~ "01",
+        "February" ~ "02",
+        "March" ~ "03",
+        "April" ~ "04",
+        "May" ~ "05",
+        "June" ~ "06",
+        "July" ~ "07",
+        "August" ~ "08",
+        "September" ~ "09",
+        "October" ~ "10",
+        "November" ~ "11",
+        "December" ~ "12"
+      )
+  ) 
+head(cleaned_data)
 
-#### Save data ####
+### Save general cleaned data ####
 write_csv(cleaned_data, "outputs/data/cleaned_data.csv")
+
+### Generating data for type classification
+crisis_type_data <-
+  cleaned_data %>% 
+  group_by(Year, Month, Type) %>%
+  summarize(Crisis_Count = n(), .groups = 'drop')
+
+head(crisis_type_data)
+
+#Save crisis_type data
+write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
+
