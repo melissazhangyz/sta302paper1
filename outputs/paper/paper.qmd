@@ -1,13 +1,9 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
-author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
+title: "A study of crisis and response in Toronto"
+author: Yingzhi Zhang
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "Quickly reacting to crisis is part of the responsibility of police in Toronto. These years, more and more cases of crisis are observed in the 180 neighbourhood in Toronto. Understanding the trend of different types of crisis and the time they happened provides a better picture of the civil life and happiness level in Toronto. In this study, a variety of tables and charts are makde to illustrate the changing patterns of crisis happened in Toronto."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -19,13 +15,16 @@ bibliography: references.bib
 #| message: false
 
 library(tidyverse)
+library(janitor)
+library(lubridate)
+library(ggplot2)
 library(palmerpenguins)
 ```
 
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. 
+Toronto Police Service (TPS) contains a large range of service to protect the civilians in the city of Toronto. Among them, Persons in Crisis (PIC) calls for service attended (CFSA) is one of the most emergent situations that requires immediate response. 
 
 The remainder of this paper is structured as follows. @sec-data....
 
@@ -33,7 +32,7 @@ The remainder of this paper is structured as follows. @sec-data....
 
 # Data {#sec-data}
 
-Some of our data is of penguins (@fig-bills), from @palmerpenguins.
+The data is downloaded and gathered from opendatatoronto.com.
 
 ```{r}
 #| label: fig-bills
@@ -51,7 +50,7 @@ ggplot(penguins, aes(x = island, fill = species)) +
 
 Talk more about it.
 
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
+And also planes. (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
 
 ```{r}
 #| label: fig-planes
@@ -60,47 +59,20 @@ And also planes (@fig-planes). (You can change the height and width, but don't w
 #| warning: false
 #| message: false
 
-analysis_data <- read_csv(here::here("outputs/data/analysis_data.csv"))
+analysis_data <- read_csv("/Users/zhii/Documents/UofT/3rd year/STA302/sta302paper1/outputs/data/crisis_type_data.csv")
 
 analysis_data |> 
-  ggplot(aes(x = width, y = length)) +
+  ggplot(aes(x = Year, y = Number)) +
   geom_point(alpha = 0.8) +
   theme_minimal() +
-  labs(x = "Wing width (mm)",
-       y = "Wing length (mm)")
+  labs(x = "Year",
+       y = "Number of crisis")
 ```
 
 Talk way more about it. 
 
 
 
-# Model
-
-The goal of our modelling strategy is twofold. Firstly,...
-
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
-
-## Model set-up
-
-Define $y_i$ as the number of seconds that the plane remained aloft. Then $\beta_i$ is the wing width and $\gamma_i$ is the wing length, both measured in millimeters.  
-
-\begin{align} 
-y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
-\mu_i &= \alpha + \beta_i + \gamma_i\\
-\alpha &\sim \mbox{Normal}(0, 2.5) \\
-\beta &\sim \mbox{Normal}(0, 2.5) \\
-\gamma &\sim \mbox{Normal}(0, 2.5) \\
-\sigma &\sim \mbox{Exponential}(1)
-\end{align}
-
-We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
-
-
-### Model justification
-
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
 
 
 # Results
@@ -109,7 +81,7 @@ Our results are summarized in @tbl-modelresults.
 
 ```{r}
 #| echo: false
-#| eval: true
+#| eval: false
 #| warning: false
 #| message: false
 
@@ -121,7 +93,7 @@ first_model <-
 
 ```{r}
 #| echo: false
-#| eval: true
+#| eval: false
 #| label: tbl-modelresults
 #| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
@@ -170,7 +142,7 @@ In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. 
 In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
 
 ```{r}
-#| eval: true
+#| eval: false
 #| echo: false
 #| message: false
 #| warning: false
@@ -198,7 +170,7 @@ posterior_vs_prior(first_model) +
 
 ```{r}
 #| echo: false
-#| eval: true
+#| eval: false
 #| message: false
 #| warning: false
 #| label: fig-stanareyouokay
