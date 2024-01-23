@@ -50,8 +50,14 @@ cleaned_data <-
         "October" ~ "10",
         "November" ~ "11",
         "December" ~ "12"
-      )
-  ) 
+      ) 
+    ) %>%  
+  mutate(
+    Year = as.integer(Year),
+    Time = as.integer(Time),
+    Neighbourhood_number = as.integer(Neighbourhood_number)
+    )
+
 head(cleaned_data)
 
 ### Save general cleaned data ####
