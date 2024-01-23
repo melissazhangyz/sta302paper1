@@ -85,5 +85,22 @@ write_csv(neighbourhood_data, "outputs/data/neighbourhood_data.csv")
   
 
 
-### Generating data for 
+### Generating data for time of the date
+time_data <-
+  cleaned_data %>% 
+  mutate(
+    time_of_day= 
+      case_when(
+        Time >= 0 & Time <= 6   ~ "Midnight",
+        Time >= 7 & Time <= 12  ~ "Morning",
+        Time >= 13 & Time <= 17 ~ "Afternoon",
+        Time >= 18 & Time <= 23 ~ "Night")
+    ) %>% 
+  group_by(Year, Month, Type, time_of_day) %>% 
+  summarise(Number = n(), .groups = 'drop')
+
+head(time_data)
+
+#Save time_of_day data
+write_csv(time_data, "outputs/data/time_data.csv")
   
