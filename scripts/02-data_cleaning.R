@@ -104,7 +104,7 @@ time_data <-
         Time >= 13 & Time <= 17 ~ "Afternoon",
         Time >= 18 & Time <= 23 ~ "Night")
     ) %>% 
-  group_by(Year, Month, Type, time_of_day) %>% 
+  group_by(Type, time_of_day) %>% 
   summarise(Number = n(), .groups = 'drop')
 
 head(time_data)
