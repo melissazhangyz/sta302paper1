@@ -1,361 +1,121 @@
-Year,Month,Type,Number
-2014,01,Overdose,14
-2014,01,Person in Crisis,188
-2014,01,Suicide-related,93
-2014,02,Overdose,27
-2014,02,Person in Crisis,173
-2014,02,Suicide-related,83
-2014,03,Overdose,19
-2014,03,Person in Crisis,174
-2014,03,Suicide-related,78
-2014,04,Overdose,27
-2014,04,Person in Crisis,243
-2014,04,Suicide-related,122
-2014,05,Overdose,14
-2014,05,Person in Crisis,107
-2014,05,Suicide-related,43
-2014,06,Overdose,23
-2014,06,Person in Crisis,184
-2014,06,Suicide-related,108
-2014,07,Overdose,22
-2014,07,Person in Crisis,239
-2014,07,Suicide-related,120
-2014,08,Overdose,23
-2014,08,Person in Crisis,226
-2014,08,Suicide-related,97
-2014,09,Overdose,43
-2014,09,Person in Crisis,316
-2014,09,Suicide-related,133
-2014,10,Overdose,11
-2014,10,Person in Crisis,139
-2014,10,Suicide-related,44
-2014,11,Overdose,18
-2014,11,Person in Crisis,128
-2014,11,Suicide-related,85
-2014,12,Overdose,21
-2014,12,Person in Crisis,202
-2014,12,Suicide-related,94
-2015,01,Overdose,15
-2015,01,Person in Crisis,100
-2015,01,Suicide-related,54
-2015,02,Overdose,23
-2015,02,Person in Crisis,213
-2015,02,Suicide-related,105
-2015,03,Overdose,23
-2015,03,Person in Crisis,175
-2015,03,Suicide-related,96
-2015,04,Overdose,23
-2015,04,Person in Crisis,206
-2015,04,Suicide-related,114
-2015,05,Overdose,7
-2015,05,Person in Crisis,97
-2015,05,Suicide-related,46
-2015,06,Overdose,14
-2015,06,Person in Crisis,179
-2015,06,Suicide-related,97
-2015,07,Overdose,28
-2015,07,Person in Crisis,215
-2015,07,Suicide-related,116
-2015,08,Overdose,31
-2015,08,Person in Crisis,272
-2015,08,Suicide-related,104
-2015,09,Overdose,22
-2015,09,Person in Crisis,214
-2015,09,Suicide-related,108
-2015,10,Overdose,17
-2015,10,Person in Crisis,121
-2015,10,Suicide-related,58
-2015,11,Overdose,24
-2015,11,Person in Crisis,284
-2015,11,Suicide-related,122
-2015,12,Overdose,24
-2015,12,Person in Crisis,259
-2015,12,Suicide-related,117
-2016,01,Overdose,27
-2016,01,Person in Crisis,200
-2016,01,Suicide-related,89
-2016,02,Overdose,33
-2016,02,Person in Crisis,219
-2016,02,Suicide-related,119
-2016,03,Overdose,29
-2016,03,Person in Crisis,249
-2016,03,Suicide-related,118
-2016,04,Overdose,29
-2016,04,Person in Crisis,222
-2016,04,Suicide-related,108
-2016,05,Overdose,31
-2016,05,Person in Crisis,284
-2016,05,Suicide-related,138
-2016,06,Overdose,31
-2016,06,Person in Crisis,200
-2016,06,Suicide-related,87
-2016,07,Overdose,11
-2016,07,Person in Crisis,113
-2016,07,Suicide-related,47
-2016,08,Overdose,30
-2016,08,Person in Crisis,376
-2016,08,Suicide-related,161
-2016,09,Overdose,45
-2016,09,Person in Crisis,339
-2016,09,Suicide-related,134
-2016,10,Overdose,31
-2016,10,Person in Crisis,197
-2016,10,Suicide-related,89
-2016,11,Overdose,24
-2016,11,Person in Crisis,170
-2016,11,Suicide-related,83
-2016,12,Overdose,30
-2016,12,Person in Crisis,265
-2016,12,Suicide-related,105
-2017,01,Overdose,26
-2017,01,Person in Crisis,210
-2017,01,Suicide-related,95
-2017,02,Overdose,36
-2017,02,Person in Crisis,275
-2017,02,Suicide-related,124
-2017,03,Overdose,15
-2017,03,Person in Crisis,172
-2017,03,Suicide-related,84
-2017,04,Overdose,31
-2017,04,Person in Crisis,203
-2017,04,Suicide-related,135
-2017,05,Overdose,47
-2017,05,Person in Crisis,304
-2017,05,Suicide-related,190
-2017,06,Overdose,16
-2017,06,Person in Crisis,158
-2017,06,Suicide-related,86
-2017,07,Overdose,40
-2017,07,Person in Crisis,259
-2017,07,Suicide-related,110
-2017,08,Overdose,37
-2017,08,Person in Crisis,179
-2017,08,Suicide-related,89
-2017,09,Overdose,42
-2017,09,Person in Crisis,301
-2017,09,Suicide-related,138
-2017,10,Overdose,16
-2017,10,Person in Crisis,139
-2017,10,Suicide-related,80
-2017,11,Overdose,33
-2017,11,Person in Crisis,273
-2017,11,Suicide-related,113
-2017,12,Overdose,25
-2017,12,Person in Crisis,174
-2017,12,Suicide-related,95
-2018,01,Overdose,34
-2018,01,Person in Crisis,229
-2018,01,Suicide-related,125
-2018,02,Overdose,26
-2018,02,Person in Crisis,198
-2018,02,Suicide-related,131
-2018,03,Overdose,27
-2018,03,Person in Crisis,163
-2018,03,Suicide-related,122
-2018,04,Overdose,45
-2018,04,Person in Crisis,297
-2018,04,Suicide-related,174
-2018,05,Overdose,38
-2018,05,Person in Crisis,248
-2018,05,Suicide-related,122
-2018,06,Overdose,56
-2018,06,Person in Crisis,350
-2018,06,Suicide-related,185
-2018,07,Overdose,40
-2018,07,Person in Crisis,242
-2018,07,Suicide-related,136
-2018,08,Overdose,56
-2018,08,Person in Crisis,306
-2018,08,Suicide-related,145
-2018,09,Overdose,46
-2018,09,Person in Crisis,303
-2018,09,Suicide-related,166
-2018,10,Overdose,16
-2018,10,Person in Crisis,85
-2018,10,Suicide-related,60
-2018,11,Overdose,56
-2018,11,Person in Crisis,261
-2018,11,Suicide-related,160
-2018,12,Overdose,43
-2018,12,Person in Crisis,285
-2018,12,Suicide-related,156
-2019,01,Overdose,22
-2019,01,Person in Crisis,156
-2019,01,Suicide-related,82
-2019,02,Overdose,66
-2019,02,Person in Crisis,319
-2019,02,Suicide-related,207
-2019,03,Overdose,12
-2019,03,Person in Crisis,99
-2019,03,Suicide-related,57
-2019,04,Overdose,56
-2019,04,Person in Crisis,293
-2019,04,Suicide-related,144
-2019,05,Overdose,44
-2019,05,Person in Crisis,234
-2019,05,Suicide-related,144
-2019,06,Overdose,32
-2019,06,Person in Crisis,222
-2019,06,Suicide-related,109
-2019,07,Overdose,33
-2019,07,Person in Crisis,172
-2019,07,Suicide-related,103
-2019,08,Overdose,66
-2019,08,Person in Crisis,330
-2019,08,Suicide-related,238
-2019,09,Overdose,31
-2019,09,Person in Crisis,214
-2019,09,Suicide-related,110
-2019,10,Overdose,49
-2019,10,Person in Crisis,265
-2019,10,Suicide-related,159
-2019,11,Overdose,39
-2019,11,Person in Crisis,284
-2019,11,Suicide-related,198
-2019,12,Overdose,63
-2019,12,Person in Crisis,308
-2019,12,Suicide-related,174
-2020,01,Overdose,40
-2020,01,Person in Crisis,154
-2020,01,Suicide-related,102
-2020,02,Overdose,28
-2020,02,Person in Crisis,159
-2020,02,Suicide-related,77
-2020,03,Overdose,57
-2020,03,Person in Crisis,316
-2020,03,Suicide-related,136
-2020,04,Overdose,66
-2020,04,Person in Crisis,254
-2020,04,Suicide-related,127
-2020,05,Overdose,57
-2020,05,Person in Crisis,250
-2020,05,Suicide-related,118
-2020,06,Overdose,54
-2020,06,Person in Crisis,311
-2020,06,Suicide-related,122
-2020,07,Overdose,24
-2020,07,Person in Crisis,184
-2020,07,Suicide-related,84
-2020,08,Overdose,39
-2020,08,Person in Crisis,217
-2020,08,Suicide-related,103
-2020,09,Overdose,66
-2020,09,Person in Crisis,323
-2020,09,Suicide-related,193
-2020,10,Overdose,99
-2020,10,Person in Crisis,315
-2020,10,Suicide-related,148
-2020,11,Overdose,75
-2020,11,Person in Crisis,295
-2020,11,Suicide-related,140
-2020,12,Overdose,73
-2020,12,Person in Crisis,323
-2020,12,Suicide-related,168
-2021,01,Overdose,89
-2021,01,Person in Crisis,361
-2021,01,Suicide-related,218
-2021,02,Overdose,49
-2021,02,Person in Crisis,148
-2021,02,Suicide-related,70
-2021,03,Overdose,40
-2021,03,Person in Crisis,190
-2021,03,Suicide-related,114
-2021,04,Overdose,42
-2021,04,Person in Crisis,140
-2021,04,Suicide-related,73
-2021,05,Overdose,115
-2021,05,Person in Crisis,411
-2021,05,Suicide-related,180
-2021,06,Overdose,71
-2021,06,Person in Crisis,267
-2021,06,Suicide-related,154
-2021,07,Overdose,131
-2021,07,Person in Crisis,405
-2021,07,Suicide-related,201
-2021,08,Overdose,35
-2021,08,Person in Crisis,106
-2021,08,Suicide-related,56
-2021,09,Overdose,81
-2021,09,Person in Crisis,224
-2021,09,Suicide-related,136
-2021,10,Overdose,101
-2021,10,Person in Crisis,333
-2021,10,Suicide-related,171
-2021,11,Overdose,47
-2021,11,Person in Crisis,186
-2021,11,Suicide-related,91
-2021,12,Overdose,119
-2021,12,Person in Crisis,303
-2021,12,Suicide-related,192
-2022,01,Overdose,71
-2022,01,Person in Crisis,216
-2022,01,Suicide-related,122
-2022,02,Overdose,60
-2022,02,Person in Crisis,236
-2022,02,Suicide-related,151
-2022,03,Overdose,62
-2022,03,Person in Crisis,290
-2022,03,Suicide-related,133
-2022,04,Overdose,67
-2022,04,Person in Crisis,281
-2022,04,Suicide-related,113
-2022,05,Overdose,44
-2022,05,Person in Crisis,251
-2022,05,Suicide-related,113
-2022,06,Overdose,92
-2022,06,Person in Crisis,367
-2022,06,Suicide-related,225
-2022,07,Overdose,75
-2022,07,Person in Crisis,304
-2022,07,Suicide-related,200
-2022,08,Overdose,14
-2022,08,Person in Crisis,132
-2022,08,Suicide-related,70
-2022,09,Overdose,65
-2022,09,Person in Crisis,356
-2022,09,Suicide-related,189
-2022,10,Overdose,55
-2022,10,Person in Crisis,205
-2022,10,Suicide-related,140
-2022,11,Overdose,34
-2022,11,Person in Crisis,211
-2022,11,Suicide-related,159
-2022,12,Overdose,57
-2022,12,Person in Crisis,230
-2022,12,Suicide-related,186
-2023,01,Overdose,36
-2023,01,Person in Crisis,187
-2023,01,Suicide-related,118
-2023,02,Overdose,47
-2023,02,Person in Crisis,213
-2023,02,Suicide-related,137
-2023,03,Overdose,44
-2023,03,Person in Crisis,166
-2023,03,Suicide-related,113
-2023,04,Overdose,68
-2023,04,Person in Crisis,237
-2023,04,Suicide-related,140
-2023,05,Overdose,51
-2023,05,Person in Crisis,128
-2023,05,Suicide-related,80
-2023,06,Overdose,76
-2023,06,Person in Crisis,270
-2023,06,Suicide-related,186
-2023,07,Overdose,90
-2023,07,Person in Crisis,237
-2023,07,Suicide-related,162
-2023,08,Overdose,88
-2023,08,Person in Crisis,315
-2023,08,Suicide-related,200
-2023,09,Overdose,82
-2023,09,Person in Crisis,235
-2023,09,Suicide-related,146
-2023,10,Overdose,75
-2023,10,Person in Crisis,234
-2023,10,Suicide-related,126
-2023,11,Overdose,81
-2023,11,Person in Crisis,326
-2023,11,Suicide-related,199
-2023,12,Overdose,81
-2023,12,Person in Crisis,298
-2023,12,Suicide-related,187
+Year,Month,Overdose,Person in Crisis,Suicide-related
+2014,01,14,188,93
+2014,02,27,173,83
+2014,03,19,174,78
+2014,04,27,243,122
+2014,05,14,107,43
+2014,06,23,184,108
+2014,07,22,239,120
+2014,08,23,226,97
+2014,09,43,316,133
+2014,10,11,139,44
+2014,11,18,128,85
+2014,12,21,202,94
+2015,01,15,100,54
+2015,02,23,213,105
+2015,03,23,175,96
+2015,04,23,206,114
+2015,05,7,97,46
+2015,06,14,179,97
+2015,07,28,215,116
+2015,08,31,272,104
+2015,09,22,214,108
+2015,10,17,121,58
+2015,11,24,284,122
+2015,12,24,259,117
+2016,01,27,200,89
+2016,02,33,219,119
+2016,03,29,249,118
+2016,04,29,222,108
+2016,05,31,284,138
+2016,06,31,200,87
+2016,07,11,113,47
+2016,08,30,376,161
+2016,09,45,339,134
+2016,10,31,197,89
+2016,11,24,170,83
+2016,12,30,265,105
+2017,01,26,210,95
+2017,02,36,275,124
+2017,03,15,172,84
+2017,04,31,203,135
+2017,05,47,304,190
+2017,06,16,158,86
+2017,07,40,259,110
+2017,08,37,179,89
+2017,09,42,301,138
+2017,10,16,139,80
+2017,11,33,273,113
+2017,12,25,174,95
+2018,01,34,229,125
+2018,02,26,198,131
+2018,03,27,163,122
+2018,04,45,297,174
+2018,05,38,248,122
+2018,06,56,350,185
+2018,07,40,242,136
+2018,08,56,306,145
+2018,09,46,303,166
+2018,10,16,85,60
+2018,11,56,261,160
+2018,12,43,285,156
+2019,01,22,156,82
+2019,02,66,319,207
+2019,03,12,99,57
+2019,04,56,293,144
+2019,05,44,234,144
+2019,06,32,222,109
+2019,07,33,172,103
+2019,08,66,330,238
+2019,09,31,214,110
+2019,10,49,265,159
+2019,11,39,284,198
+2019,12,63,308,174
+2020,01,40,154,102
+2020,02,28,159,77
+2020,03,57,316,136
+2020,04,66,254,127
+2020,05,57,250,118
+2020,06,54,311,122
+2020,07,24,184,84
+2020,08,39,217,103
+2020,09,66,323,193
+2020,10,99,315,148
+2020,11,75,295,140
+2020,12,73,323,168
+2021,01,89,361,218
+2021,02,49,148,70
+2021,03,40,190,114
+2021,04,42,140,73
+2021,05,115,411,180
+2021,06,71,267,154
+2021,07,131,405,201
+2021,08,35,106,56
+2021,09,81,224,136
+2021,10,101,333,171
+2021,11,47,186,91
+2021,12,119,303,192
+2022,01,71,216,122
+2022,02,60,236,151
+2022,03,62,290,133
+2022,04,67,281,113
+2022,05,44,251,113
+2022,06,92,367,225
+2022,07,75,304,200
+2022,08,14,132,70
+2022,09,65,356,189
+2022,10,55,205,140
+2022,11,34,211,159
+2022,12,57,230,186
+2023,01,36,187,118
+2023,02,47,213,137
+2023,03,44,166,113
+2023,04,68,237,140
+2023,05,51,128,80
+2023,06,76,270,186
+2023,07,90,237,162
+2023,08,88,315,200
+2023,09,82,235,146
+2023,10,75,234,126
+2023,11,81,326,199
+2023,12,81,298,187

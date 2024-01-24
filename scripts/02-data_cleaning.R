@@ -69,7 +69,8 @@ write_csv(cleaned_data, "outputs/data/cleaned_data.csv")
 crisis_type_data <-
   cleaned_data %>% 
   group_by(Year, Month, Type) %>%
-  summarize(Number = n(), .groups = 'drop')
+  summarize(Number = n(), .groups = 'drop') %>% 
+  spread(key = Type, value = Number, fill = 0)
 
 head(crisis_type_data)
 
@@ -82,7 +83,8 @@ write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 neighbourhood_data <-
   cleaned_data %>% 
   group_by(Year, Neighbourhood_name) %>% 
-  summarise(Number = n(), .groups = 'drop')
+  summarise(Number = n(), .groups = 'drop') %>% 
+  spread(key = Neighbourhood_name, value = Number, fill = 0)
 
 head(neighbourhood_data)
 

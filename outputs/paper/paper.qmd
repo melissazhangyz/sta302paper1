@@ -1,9 +1,9 @@
 ---
-title: "A study of crisis and response in Toronto"
+title: "A visualized study of crisis in Toronto"
 author: Yingzhi Zhang
 date: today
 date-format: long
-abstract: "Quickly reacting to crisis is part of the responsibility of police in Toronto. These years, more and more cases of crisis are observed in the 180 neighbourhood in Toronto. Understanding the trend of different types of crisis and the time they happened provides a better picture of the civil life and happiness level in Toronto. In this study, a variety of tables and charts are makde to illustrate the changing patterns of crisis happened in Toronto."
+abstract: "Mental health is one of the most important factor to examine resident's happiness level in the city. In Toronto, people can call for police service when encountering severe situation which is defined as a crisis. ..."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -18,16 +18,16 @@ library(tidyverse)
 library(janitor)
 library(lubridate)
 library(ggplot2)
-library(palmerpenguins)
 ```
 
 
 # Introduction
 
-Toronto Police Service (TPS) contains a large range of service to protect the civilians in the city of Toronto. Among them, Persons in Crisis (PIC) calls for service attended (CFSA) is one of the most emergent situations that requires immediate response. 
+Toronto police
 
-The remainder of this paper is structured as follows. @sec-data....
+Mental health + crisis
 
+Next Step
 
 
 # Data {#sec-data}
