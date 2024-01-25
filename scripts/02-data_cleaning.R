@@ -79,9 +79,16 @@ write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 
 
 ### Generating data for Neighborhood ###
+interested_neighbourhood <- c("Downtown Yonge East", "Yonge-Bay Corridor", 
+                              "University", "Church-Wellesley", "Annex", 
+                              "Lawrence Park North", "Banbury-Don Mills",
+                              "North Toronto", "Islington", "Wexford/Maryvale")
+
 neighbourhood_data <-
   cleaned_data %>% 
-  filter(Year <= 2017) %>% 
+  drop_na() %>% 
+  filter(Year <= 2017,
+         Neighbourhood_name %in% interested_neighbourhood) %>% 
   group_by(Year, Neighbourhood_number, Neighbourhood_name, Type) %>% 
   summarise(Number = n(), .groups = 'drop') %>% 
   mutate(
