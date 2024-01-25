@@ -68,9 +68,8 @@ write_csv(cleaned_data, "outputs/data/cleaned_data.csv")
 ### Generating data for type classification ###
 crisis_type_data <-
   cleaned_data %>% 
-  group_by(Year, Month, Type) %>%
-  summarize(Number = n(), .groups = 'drop') %>% 
-  spread(key = Type, value = Number, fill = 0)
+  group_by(Year, Type) %>%
+  summarize(Number_of_crisis_call = n(), .groups = 'drop')
 
 head(crisis_type_data)
 
@@ -82,9 +81,21 @@ write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 ### Generating data for Neighborhood ###
 neighbourhood_data <-
   cleaned_data %>% 
-  group_by(Year, Neighbourhood_name) %>% 
+  group_by(Year, Neighbourhood_number, Neighbourhood_name) %>% 
   summarise(Number = n(), .groups = 'drop') %>% 
-  spread(key = Neighbourhood_name, value = Number, fill = 0)
+  mutate(
+    Council = 
+      case_when(
+        Neighbourhood_number >= 1 & Neighbourhood_number <= 26 ~ "Etobicoke York",
+        Neighbourhood_number >= 27 & Neighbourhood_number <= 56 ~ "North York", 
+        Neighbourhood_number >= 57 & Neighbourhood_number <= 115 ~ "Downtown Toronto and East York",
+        Neighbourhood_number >= 116 & Neighbourhood_number <= 148 ~ "Scarborough",
+        Neighbourhood_number >= 149 & Neighbourhood_number <= 155 ~ "North York",
+        Neighbourhood_number >= 156 & Neighbourhood_number <= 157 ~ "Scarborough",
+        Neighbourhood_number >= 158 & Neighbourhood_number <= 161 ~ "Etobicoke York",
+        Neighbourhood_number >= 162 ~ "Downtown Toronto and East York"
+      )
+  )
 
 head(neighbourhood_data)
 
@@ -104,8 +115,7 @@ time_data <-
         Time >= 13 & Time <= 17 ~ "Afternoon",
         Time >= 18 & Time <= 23 ~ "Night")
     ) %>% 
-  group_by(Type, time_of_day) %>% 
-  summarise(Number = n(), .groups = 'drop')
+  group_by(Type, time_of_day)
 
 head(time_data)
 
