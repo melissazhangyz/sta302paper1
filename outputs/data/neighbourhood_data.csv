@@ -1,115 +1,115 @@
-Year,Neighbourhood_number,Neighbourhood_name,Type,Number,Council
-2014,42,Banbury-Don Mills,Overdose,2,North York
-2014,42,Banbury-Don Mills,Person in Crisis,8,North York
-2014,42,Banbury-Don Mills,Suicide-related,7,North York
-2014,79,University,Person in Crisis,23,Downtown Toronto and East York
-2014,79,University,Suicide-related,6,Downtown Toronto and East York
-2014,95,Annex,Person in Crisis,23,Downtown Toronto and East York
-2014,95,Annex,Suicide-related,27,Downtown Toronto and East York
-2014,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
-2014,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
-2014,119,Wexford/Maryvale,Overdose,3,Scarborough
-2014,119,Wexford/Maryvale,Person in Crisis,12,Scarborough
-2014,119,Wexford/Maryvale,Suicide-related,8,Scarborough
-2014,158,Islington,Person in Crisis,15,Etobicoke York
-2014,158,Islington,Suicide-related,4,Etobicoke York
-2014,167,Church-Wellesley,Overdose,1,Downtown Toronto and East York
-2014,167,Church-Wellesley,Person in Crisis,30,Downtown Toronto and East York
-2014,167,Church-Wellesley,Suicide-related,15,Downtown Toronto and East York
-2014,168,Downtown Yonge East,Overdose,9,Downtown Toronto and East York
-2014,168,Downtown Yonge East,Person in Crisis,73,Downtown Toronto and East York
-2014,168,Downtown Yonge East,Suicide-related,23,Downtown Toronto and East York
-2014,170,Yonge-Bay Corridor,Overdose,7,Downtown Toronto and East York
-2014,170,Yonge-Bay Corridor,Person in Crisis,96,Downtown Toronto and East York
-2014,170,Yonge-Bay Corridor,Suicide-related,33,Downtown Toronto and East York
-2014,173,North Toronto,Overdose,1,Downtown Toronto and East York
-2014,173,North Toronto,Person in Crisis,6,Downtown Toronto and East York
-2014,173,North Toronto,Suicide-related,3,Downtown Toronto and East York
-2015,42,Banbury-Don Mills,Overdose,1,North York
-2015,42,Banbury-Don Mills,Person in Crisis,13,North York
-2015,42,Banbury-Don Mills,Suicide-related,2,North York
-2015,79,University,Overdose,3,Downtown Toronto and East York
-2015,79,University,Person in Crisis,17,Downtown Toronto and East York
-2015,79,University,Suicide-related,15,Downtown Toronto and East York
-2015,95,Annex,Overdose,5,Downtown Toronto and East York
-2015,95,Annex,Person in Crisis,25,Downtown Toronto and East York
-2015,95,Annex,Suicide-related,15,Downtown Toronto and East York
-2015,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
-2015,105,Lawrence Park North,Person in Crisis,1,Downtown Toronto and East York
-2015,119,Wexford/Maryvale,Overdose,3,Scarborough
-2015,119,Wexford/Maryvale,Person in Crisis,11,Scarborough
-2015,119,Wexford/Maryvale,Suicide-related,5,Scarborough
-2015,158,Islington,Overdose,1,Etobicoke York
-2015,158,Islington,Person in Crisis,10,Etobicoke York
-2015,158,Islington,Suicide-related,7,Etobicoke York
-2015,167,Church-Wellesley,Overdose,3,Downtown Toronto and East York
-2015,167,Church-Wellesley,Person in Crisis,40,Downtown Toronto and East York
-2015,167,Church-Wellesley,Suicide-related,16,Downtown Toronto and East York
-2015,168,Downtown Yonge East,Overdose,7,Downtown Toronto and East York
-2015,168,Downtown Yonge East,Person in Crisis,64,Downtown Toronto and East York
-2015,168,Downtown Yonge East,Suicide-related,20,Downtown Toronto and East York
-2015,170,Yonge-Bay Corridor,Overdose,4,Downtown Toronto and East York
-2015,170,Yonge-Bay Corridor,Person in Crisis,105,Downtown Toronto and East York
-2015,170,Yonge-Bay Corridor,Suicide-related,36,Downtown Toronto and East York
-2015,173,North Toronto,Overdose,1,Downtown Toronto and East York
-2015,173,North Toronto,Person in Crisis,2,Downtown Toronto and East York
-2015,173,North Toronto,Suicide-related,5,Downtown Toronto and East York
-2016,42,Banbury-Don Mills,Overdose,3,North York
-2016,42,Banbury-Don Mills,Person in Crisis,17,North York
-2016,42,Banbury-Don Mills,Suicide-related,7,North York
-2016,79,University,Overdose,1,Downtown Toronto and East York
-2016,79,University,Person in Crisis,23,Downtown Toronto and East York
-2016,79,University,Suicide-related,15,Downtown Toronto and East York
-2016,95,Annex,Overdose,3,Downtown Toronto and East York
-2016,95,Annex,Person in Crisis,31,Downtown Toronto and East York
-2016,95,Annex,Suicide-related,14,Downtown Toronto and East York
-2016,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
-2016,105,Lawrence Park North,Person in Crisis,2,Downtown Toronto and East York
-2016,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
-2016,119,Wexford/Maryvale,Person in Crisis,17,Scarborough
-2016,119,Wexford/Maryvale,Suicide-related,10,Scarborough
-2016,158,Islington,Overdose,3,Etobicoke York
-2016,158,Islington,Person in Crisis,11,Etobicoke York
-2016,158,Islington,Suicide-related,3,Etobicoke York
-2016,167,Church-Wellesley,Overdose,5,Downtown Toronto and East York
-2016,167,Church-Wellesley,Person in Crisis,48,Downtown Toronto and East York
-2016,167,Church-Wellesley,Suicide-related,25,Downtown Toronto and East York
-2016,168,Downtown Yonge East,Overdose,9,Downtown Toronto and East York
-2016,168,Downtown Yonge East,Person in Crisis,84,Downtown Toronto and East York
-2016,168,Downtown Yonge East,Suicide-related,28,Downtown Toronto and East York
-2016,170,Yonge-Bay Corridor,Overdose,10,Downtown Toronto and East York
-2016,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Toronto and East York
-2016,170,Yonge-Bay Corridor,Suicide-related,43,Downtown Toronto and East York
-2016,173,North Toronto,Overdose,1,Downtown Toronto and East York
-2016,173,North Toronto,Person in Crisis,10,Downtown Toronto and East York
-2016,173,North Toronto,Suicide-related,3,Downtown Toronto and East York
-2017,42,Banbury-Don Mills,Overdose,2,North York
-2017,42,Banbury-Don Mills,Person in Crisis,19,North York
-2017,42,Banbury-Don Mills,Suicide-related,16,North York
-2017,79,University,Overdose,6,Downtown Toronto and East York
-2017,79,University,Person in Crisis,30,Downtown Toronto and East York
-2017,79,University,Suicide-related,11,Downtown Toronto and East York
-2017,95,Annex,Overdose,3,Downtown Toronto and East York
-2017,95,Annex,Person in Crisis,46,Downtown Toronto and East York
-2017,95,Annex,Suicide-related,23,Downtown Toronto and East York
-2017,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
-2017,105,Lawrence Park North,Person in Crisis,3,Downtown Toronto and East York
-2017,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
-2017,119,Wexford/Maryvale,Overdose,2,Scarborough
-2017,119,Wexford/Maryvale,Person in Crisis,13,Scarborough
-2017,119,Wexford/Maryvale,Suicide-related,11,Scarborough
-2017,158,Islington,Overdose,1,Etobicoke York
-2017,158,Islington,Person in Crisis,15,Etobicoke York
-2017,158,Islington,Suicide-related,7,Etobicoke York
-2017,167,Church-Wellesley,Overdose,9,Downtown Toronto and East York
-2017,167,Church-Wellesley,Person in Crisis,50,Downtown Toronto and East York
-2017,167,Church-Wellesley,Suicide-related,31,Downtown Toronto and East York
-2017,168,Downtown Yonge East,Overdose,15,Downtown Toronto and East York
-2017,168,Downtown Yonge East,Person in Crisis,77,Downtown Toronto and East York
-2017,168,Downtown Yonge East,Suicide-related,34,Downtown Toronto and East York
-2017,170,Yonge-Bay Corridor,Overdose,16,Downtown Toronto and East York
-2017,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Toronto and East York
-2017,170,Yonge-Bay Corridor,Suicide-related,45,Downtown Toronto and East York
-2017,173,North Toronto,Overdose,2,Downtown Toronto and East York
-2017,173,North Toronto,Person in Crisis,4,Downtown Toronto and East York
-2017,173,North Toronto,Suicide-related,7,Downtown Toronto and East York
+Year,Neighbourhood_number,Neighbourhood_name,Type,Number,Location
+2014,42,Banbury-Don Mills,Overdose,2,Suburban Neighbourhood
+2014,42,Banbury-Don Mills,Person in Crisis,8,Suburban Neighbourhood
+2014,42,Banbury-Don Mills,Suicide-related,7,Suburban Neighbourhood
+2014,79,University,Person in Crisis,23,Downtown Neighbourhood
+2014,79,University,Suicide-related,6,Downtown Neighbourhood
+2014,95,Annex,Person in Crisis,23,Downtown Neighbourhood
+2014,95,Annex,Suicide-related,27,Downtown Neighbourhood
+2014,105,Lawrence Park North,Overdose,1,Suburban Neighbourhood
+2014,105,Lawrence Park North,Suicide-related,3,Suburban Neighbourhood
+2014,119,Wexford/Maryvale,Overdose,3,Suburban Neighbourhood
+2014,119,Wexford/Maryvale,Person in Crisis,12,Suburban Neighbourhood
+2014,119,Wexford/Maryvale,Suicide-related,8,Suburban Neighbourhood
+2014,158,Islington,Person in Crisis,15,Suburban Neighbourhood
+2014,158,Islington,Suicide-related,4,Suburban Neighbourhood
+2014,167,Church-Wellesley,Overdose,1,Downtown Neighbourhood
+2014,167,Church-Wellesley,Person in Crisis,30,Downtown Neighbourhood
+2014,167,Church-Wellesley,Suicide-related,15,Downtown Neighbourhood
+2014,168,Downtown Yonge East,Overdose,9,Downtown Neighbourhood
+2014,168,Downtown Yonge East,Person in Crisis,73,Downtown Neighbourhood
+2014,168,Downtown Yonge East,Suicide-related,23,Downtown Neighbourhood
+2014,170,Yonge-Bay Corridor,Overdose,7,Downtown Neighbourhood
+2014,170,Yonge-Bay Corridor,Person in Crisis,96,Downtown Neighbourhood
+2014,170,Yonge-Bay Corridor,Suicide-related,33,Downtown Neighbourhood
+2014,173,North Toronto,Overdose,1,Suburban Neighbourhood
+2014,173,North Toronto,Person in Crisis,6,Suburban Neighbourhood
+2014,173,North Toronto,Suicide-related,3,Suburban Neighbourhood
+2015,42,Banbury-Don Mills,Overdose,1,Suburban Neighbourhood
+2015,42,Banbury-Don Mills,Person in Crisis,13,Suburban Neighbourhood
+2015,42,Banbury-Don Mills,Suicide-related,2,Suburban Neighbourhood
+2015,79,University,Overdose,3,Downtown Neighbourhood
+2015,79,University,Person in Crisis,17,Downtown Neighbourhood
+2015,79,University,Suicide-related,15,Downtown Neighbourhood
+2015,95,Annex,Overdose,5,Downtown Neighbourhood
+2015,95,Annex,Person in Crisis,25,Downtown Neighbourhood
+2015,95,Annex,Suicide-related,15,Downtown Neighbourhood
+2015,105,Lawrence Park North,Overdose,1,Suburban Neighbourhood
+2015,105,Lawrence Park North,Person in Crisis,1,Suburban Neighbourhood
+2015,119,Wexford/Maryvale,Overdose,3,Suburban Neighbourhood
+2015,119,Wexford/Maryvale,Person in Crisis,11,Suburban Neighbourhood
+2015,119,Wexford/Maryvale,Suicide-related,5,Suburban Neighbourhood
+2015,158,Islington,Overdose,1,Suburban Neighbourhood
+2015,158,Islington,Person in Crisis,10,Suburban Neighbourhood
+2015,158,Islington,Suicide-related,7,Suburban Neighbourhood
+2015,167,Church-Wellesley,Overdose,3,Downtown Neighbourhood
+2015,167,Church-Wellesley,Person in Crisis,40,Downtown Neighbourhood
+2015,167,Church-Wellesley,Suicide-related,16,Downtown Neighbourhood
+2015,168,Downtown Yonge East,Overdose,7,Downtown Neighbourhood
+2015,168,Downtown Yonge East,Person in Crisis,64,Downtown Neighbourhood
+2015,168,Downtown Yonge East,Suicide-related,20,Downtown Neighbourhood
+2015,170,Yonge-Bay Corridor,Overdose,4,Downtown Neighbourhood
+2015,170,Yonge-Bay Corridor,Person in Crisis,105,Downtown Neighbourhood
+2015,170,Yonge-Bay Corridor,Suicide-related,36,Downtown Neighbourhood
+2015,173,North Toronto,Overdose,1,Suburban Neighbourhood
+2015,173,North Toronto,Person in Crisis,2,Suburban Neighbourhood
+2015,173,North Toronto,Suicide-related,5,Suburban Neighbourhood
+2016,42,Banbury-Don Mills,Overdose,3,Suburban Neighbourhood
+2016,42,Banbury-Don Mills,Person in Crisis,17,Suburban Neighbourhood
+2016,42,Banbury-Don Mills,Suicide-related,7,Suburban Neighbourhood
+2016,79,University,Overdose,1,Downtown Neighbourhood
+2016,79,University,Person in Crisis,23,Downtown Neighbourhood
+2016,79,University,Suicide-related,15,Downtown Neighbourhood
+2016,95,Annex,Overdose,3,Downtown Neighbourhood
+2016,95,Annex,Person in Crisis,31,Downtown Neighbourhood
+2016,95,Annex,Suicide-related,14,Downtown Neighbourhood
+2016,105,Lawrence Park North,Overdose,1,Suburban Neighbourhood
+2016,105,Lawrence Park North,Person in Crisis,2,Suburban Neighbourhood
+2016,105,Lawrence Park North,Suicide-related,3,Suburban Neighbourhood
+2016,119,Wexford/Maryvale,Person in Crisis,17,Suburban Neighbourhood
+2016,119,Wexford/Maryvale,Suicide-related,10,Suburban Neighbourhood
+2016,158,Islington,Overdose,3,Suburban Neighbourhood
+2016,158,Islington,Person in Crisis,11,Suburban Neighbourhood
+2016,158,Islington,Suicide-related,3,Suburban Neighbourhood
+2016,167,Church-Wellesley,Overdose,5,Downtown Neighbourhood
+2016,167,Church-Wellesley,Person in Crisis,48,Downtown Neighbourhood
+2016,167,Church-Wellesley,Suicide-related,25,Downtown Neighbourhood
+2016,168,Downtown Yonge East,Overdose,9,Downtown Neighbourhood
+2016,168,Downtown Yonge East,Person in Crisis,84,Downtown Neighbourhood
+2016,168,Downtown Yonge East,Suicide-related,28,Downtown Neighbourhood
+2016,170,Yonge-Bay Corridor,Overdose,10,Downtown Neighbourhood
+2016,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Neighbourhood
+2016,170,Yonge-Bay Corridor,Suicide-related,43,Downtown Neighbourhood
+2016,173,North Toronto,Overdose,1,Suburban Neighbourhood
+2016,173,North Toronto,Person in Crisis,10,Suburban Neighbourhood
+2016,173,North Toronto,Suicide-related,3,Suburban Neighbourhood
+2017,42,Banbury-Don Mills,Overdose,2,Suburban Neighbourhood
+2017,42,Banbury-Don Mills,Person in Crisis,19,Suburban Neighbourhood
+2017,42,Banbury-Don Mills,Suicide-related,16,Suburban Neighbourhood
+2017,79,University,Overdose,6,Downtown Neighbourhood
+2017,79,University,Person in Crisis,30,Downtown Neighbourhood
+2017,79,University,Suicide-related,11,Downtown Neighbourhood
+2017,95,Annex,Overdose,3,Downtown Neighbourhood
+2017,95,Annex,Person in Crisis,46,Downtown Neighbourhood
+2017,95,Annex,Suicide-related,23,Downtown Neighbourhood
+2017,105,Lawrence Park North,Overdose,1,Suburban Neighbourhood
+2017,105,Lawrence Park North,Person in Crisis,3,Suburban Neighbourhood
+2017,105,Lawrence Park North,Suicide-related,3,Suburban Neighbourhood
+2017,119,Wexford/Maryvale,Overdose,2,Suburban Neighbourhood
+2017,119,Wexford/Maryvale,Person in Crisis,13,Suburban Neighbourhood
+2017,119,Wexford/Maryvale,Suicide-related,11,Suburban Neighbourhood
+2017,158,Islington,Overdose,1,Suburban Neighbourhood
+2017,158,Islington,Person in Crisis,15,Suburban Neighbourhood
+2017,158,Islington,Suicide-related,7,Suburban Neighbourhood
+2017,167,Church-Wellesley,Overdose,9,Downtown Neighbourhood
+2017,167,Church-Wellesley,Person in Crisis,50,Downtown Neighbourhood
+2017,167,Church-Wellesley,Suicide-related,31,Downtown Neighbourhood
+2017,168,Downtown Yonge East,Overdose,15,Downtown Neighbourhood
+2017,168,Downtown Yonge East,Person in Crisis,77,Downtown Neighbourhood
+2017,168,Downtown Yonge East,Suicide-related,34,Downtown Neighbourhood
+2017,170,Yonge-Bay Corridor,Overdose,16,Downtown Neighbourhood
+2017,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Neighbourhood
+2017,170,Yonge-Bay Corridor,Suicide-related,45,Downtown Neighbourhood
+2017,173,North Toronto,Overdose,2,Suburban Neighbourhood
+2017,173,North Toronto,Person in Crisis,4,Suburban Neighbourhood
+2017,173,North Toronto,Suicide-related,7,Suburban Neighbourhood

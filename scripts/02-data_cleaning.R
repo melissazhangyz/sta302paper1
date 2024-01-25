@@ -79,11 +79,17 @@ write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 
 
 ### Generating data for Neighborhood ###
+downtown_neighbourhood <- c("Downtown Yonge East", "Yonge-Bay Corridor", 
+                            "University", "Church-Wellesley", "Annex")
+
+rural_neighbourhood <- c("Lawrence Park North", "Banbury-Don Mills",
+                          "North Toronto", "Islington", "Wexford/Maryvale")
+                            
 interested_neighbourhood <- c("Downtown Yonge East", "Yonge-Bay Corridor", 
-                              "University", "Church-Wellesley", "Annex", 
+                              "University", "Church-Wellesley", "Annex",
                               "Lawrence Park North", "Banbury-Don Mills",
                               "North Toronto", "Islington", "Wexford/Maryvale")
-
+  
 neighbourhood_data <-
   cleaned_data %>% 
   drop_na() %>% 
@@ -92,16 +98,10 @@ neighbourhood_data <-
   group_by(Year, Neighbourhood_number, Neighbourhood_name, Type) %>% 
   summarise(Number = n(), .groups = 'drop') %>% 
   mutate(
-    Council = 
+    Location = 
       case_when(
-        Neighbourhood_number >= 1 & Neighbourhood_number <= 26 ~ "Etobicoke York",
-        Neighbourhood_number >= 27 & Neighbourhood_number <= 56 ~ "North York", 
-        Neighbourhood_number >= 57 & Neighbourhood_number <= 115 ~ "Downtown Toronto and East York",
-        Neighbourhood_number >= 116 & Neighbourhood_number <= 148 ~ "Scarborough",
-        Neighbourhood_number >= 149 & Neighbourhood_number <= 155 ~ "North York",
-        Neighbourhood_number >= 156 & Neighbourhood_number <= 157 ~ "Scarborough",
-        Neighbourhood_number >= 158 & Neighbourhood_number <= 161 ~ "Etobicoke York",
-        Neighbourhood_number >= 162 ~ "Downtown Toronto and East York"
+        Neighbourhood_name %in% downtown_neighbourhood ~ "Downtown Neighbourhood",
+        Neighbourhood_name %in% rural_neighbourhood ~ "Suburban Neighbourhood"
       )
   )
 
