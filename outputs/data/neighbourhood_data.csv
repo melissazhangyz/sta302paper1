@@ -1,643 +1,1732 @@
-Year,Neighbourhood_number,Neighbourhood_name,Number,Council
-2014,1,West Humber-Clairville,42,Etobicoke York
-2014,2,Mount Olive-Silverstone-Jamestown,31,Etobicoke York
-2014,3,Thistletown-Beaumond Heights,10,Etobicoke York
-2014,4,Rexdale-Kipling,8,Etobicoke York
-2014,5,Elms-Old Rexdale,4,Etobicoke York
-2014,6,Kingsview Village-The Westway,15,Etobicoke York
-2014,7,Willowridge-Martingrove-Richview,16,Etobicoke York
-2014,8,Humber Heights-Westmount,14,Etobicoke York
-2014,9,Edenbridge-Humber Valley,16,Etobicoke York
-2014,10,Princess-Rosethorn,7,Etobicoke York
-2014,11,Eringate-Centennial-West Deane,11,Etobicoke York
-2014,12,Markland Wood,13,Etobicoke York
-2014,13,Etobicoke West Mall,6,Etobicoke York
-2014,15,Kingsway South,4,Etobicoke York
-2014,16,Stonegate-Queensway,26,Etobicoke York
-2014,18,New Toronto,15,Etobicoke York
-2014,19,Long Branch,11,Etobicoke York
-2014,20,Alderwood,9,Etobicoke York
-2014,21,Humber Summit,6,Etobicoke York
-2014,22,Humbermede,7,Etobicoke York
-2014,23,Pelmo Park-Humberlea,3,Etobicoke York
-2014,24,Black Creek,15,Etobicoke York
-2014,25,Glenfield-Jane Heights,35,Etobicoke York
-2014,27,York University Heights,40,North York
-2014,28,Rustic,6,North York
-2014,29,Maple Leaf,4,North York
-2014,30,Brookhaven-Amesbury,20,North York
-2014,31,Yorkdale-Glen Park,29,North York
-2014,32,Englemount-Lawrence,20,North York
-2014,33,Clanton Park,14,North York
-2014,34,Bathurst Manor,10,North York
-2014,35,Westminster-Branson,22,North York
-2014,36,Newtonbrook West,33,North York
-2014,37,Willowdale West,19,North York
-2014,38,Lansing-Westgate,20,North York
-2014,39,Bedford Park-Nortown,24,North York
-2014,40,St.Andrew-Windfields,11,North York
-2014,41,Bridle Path-Sunnybrook-York Mills,11,North York
-2014,42,Banbury-Don Mills,17,North York
-2014,43,Victoria Village,21,North York
-2014,44,Flemingdon Park,8,North York
-2014,46,Pleasant View,13,North York
-2014,47,Don Valley Village,25,North York
-2014,48,Hillcrest Village,15,North York
-2014,49,Bayview Woods-Steeles,5,North York
-2014,50,Newtonbrook East,10,North York
-2014,52,Bayview Village,29,North York
-2014,53,Henry Farm,17,North York
-2014,54,O'Connor-Parkview,31,North York
-2014,55,Thorncliffe Park,22,North York
-2014,56,Leaside-Bennington,6,North York
-2014,57,Broadview North,23,Downtown Toronto and East York
-2014,58,Old East York,12,Downtown Toronto and East York
-2014,59,Danforth East York,20,Downtown Toronto and East York
-2014,60,Woodbine-Lumsden,4,Downtown Toronto and East York
-2014,61,Taylor-Massey,24,Downtown Toronto and East York
-2014,62,East End-Danforth,47,Downtown Toronto and East York
-2014,63,The Beaches,25,Downtown Toronto and East York
-2014,64,Woodbine Corridor,14,Downtown Toronto and East York
-2014,65,Greenwood-Coxwell,21,Downtown Toronto and East York
-2014,66,Danforth,7,Downtown Toronto and East York
-2014,67,Playter Estates-Danforth,8,Downtown Toronto and East York
-2014,68,North Riverdale,32,Downtown Toronto and East York
-2014,69,Blake-Jones,18,Downtown Toronto and East York
-2014,70,South Riverdale,69,Downtown Toronto and East York
-2014,71,Cabbagetown-South St.James Town,40,Downtown Toronto and East York
-2014,72,Regent Park,12,Downtown Toronto and East York
-2014,73,Moss Park,166,Downtown Toronto and East York
-2014,74,North St.James Town,22,Downtown Toronto and East York
-2014,78,Kensington-Chinatown,118,Downtown Toronto and East York
-2014,79,University,29,Downtown Toronto and East York
-2014,80,Palmerston-Little Italy,21,Downtown Toronto and East York
-2014,81,Trinity-Bellwoods,39,Downtown Toronto and East York
-2014,83,Dufferin Grove,22,Downtown Toronto and East York
-2014,84,Little Portugal,34,Downtown Toronto and East York
-2014,85,South Parkdale,101,Downtown Toronto and East York
-2014,86,Roncesvalles,15,Downtown Toronto and East York
-2014,87,High Park-Swansea,54,Downtown Toronto and East York
-2014,88,High Park North,23,Downtown Toronto and East York
-2014,89,Runnymede-Bloor West Village,9,Downtown Toronto and East York
-2014,90,Junction Area,28,Downtown Toronto and East York
-2014,91,Weston-Pelham Park,21,Downtown Toronto and East York
-2014,92,Corso Italia-Davenport,21,Downtown Toronto and East York
-2014,94,Wychwood,23,Downtown Toronto and East York
-2014,95,Annex,50,Downtown Toronto and East York
-2014,96,Casa Loma,6,Downtown Toronto and East York
-2014,97,Yonge-St.Clair,9,Downtown Toronto and East York
-2014,98,Rosedale-Moore Park,13,Downtown Toronto and East York
-2014,99,Mount Pleasant East,8,Downtown Toronto and East York
-2014,100,Yonge-Eglinton,20,Downtown Toronto and East York
-2014,101,Forest Hill South,2,Downtown Toronto and East York
-2014,102,Forest Hill North,6,Downtown Toronto and East York
-2014,103,Lawrence Park South,9,Downtown Toronto and East York
-2014,105,Lawrence Park North,4,Downtown Toronto and East York
-2014,106,Humewood-Cedarvale,19,Downtown Toronto and East York
-2014,107,Oakwood Village,31,Downtown Toronto and East York
-2014,108,Briar Hill-Belgravia,10,Downtown Toronto and East York
-2014,109,Caledonia-Fairbank,12,Downtown Toronto and East York
-2014,110,Keelesdale-Eglinton West,33,Downtown Toronto and East York
-2014,111,Rockcliffe-Smythe,29,Downtown Toronto and East York
-2014,112,Beechborough-Greenbrook,23,Downtown Toronto and East York
-2014,113,Weston,39,Downtown Toronto and East York
-2014,114,Lambton Baby Point,4,Downtown Toronto and East York
-2014,115,Mount Dennis,30,Downtown Toronto and East York
-2014,116,Steeles,8,Scarborough
-2014,118,Tam O'Shanter-Sullivan,25,Scarborough
-2014,119,Wexford/Maryvale,23,Scarborough
-2014,120,Clairlea-Birchmount,25,Scarborough
-2014,121,Oakridge,19,Scarborough
-2014,122,Birchcliffe-Cliffside,19,Scarborough
-2014,123,Cliffcrest,16,Scarborough
-2014,124,Kennedy Park,43,Scarborough
-2014,125,Ionview,22,Scarborough
-2014,126,Dorset Park,23,Scarborough
-2014,128,Agincourt South-Malvern West,22,Scarborough
-2014,129,Agincourt North,13,Scarborough
-2014,130,Milliken,8,Scarborough
-2014,133,Centennial Scarborough,12,Scarborough
-2014,134,Highland Creek,3,Scarborough
-2014,135,Morningside,29,Scarborough
-2014,136,West Hill,53,Scarborough
-2014,138,Eglinton East,26,Scarborough
-2014,139,Scarborough Village,20,Scarborough
-2014,140,Guildwood,9,Scarborough
-2014,141,Golfdale-Cedarbrae-Woburn,28,Scarborough
-2014,142,Woburn North,14,Scarborough
-2014,143,West Rouge,8,Scarborough
-2014,144,Morningside Heights,14,Scarborough
-2014,145,Malvern West,16,Scarborough
-2014,146,Malvern East,15,Scarborough
-2014,147,L'Amoreaux West,9,Scarborough
-2014,148,East L'Amoreaux,13,Scarborough
-2014,149,Parkwoods-O'Connor Hills,10,North York
-2014,150,Fenside-Parkwoods,13,North York
-2014,151,Yonge-Doris,5,North York
-2014,152,East Willowdale,10,North York
-2014,153,Avondale,8,North York
-2014,154,Oakdale-Beverley Heights,23,North York
-2014,155,Downsview,19,North York
-2014,156,Bendale-Glen Andrew,18,Scarborough
-2014,157,Bendale South,14,Scarborough
-2014,158,Islington,19,Etobicoke York
-2014,159,Etobicoke City Centre,37,Etobicoke York
-2014,160,Mimico-Queensway,20,Etobicoke York
-2014,161,Humber Bay Shores,7,Etobicoke York
-2014,162,West Queen West,67,Downtown Toronto and East York
-2014,163,Fort York-Liberty Village,26,Downtown Toronto and East York
-2014,164,Wellington Place,43,Downtown Toronto and East York
-2014,165,Harbourfront-CityPlace,28,Downtown Toronto and East York
-2014,166,St Lawrence-East Bayfront-The Islands,53,Downtown Toronto and East York
-2014,167,Church-Wellesley,46,Downtown Toronto and East York
-2014,168,Downtown Yonge East,105,Downtown Toronto and East York
-2014,169,Bay-Cloverhill,43,Downtown Toronto and East York
-2014,170,Yonge-Bay Corridor,136,Downtown Toronto and East York
-2014,171,Junction-Wallace Emerson,41,Downtown Toronto and East York
-2014,172,Dovercourt Village,15,Downtown Toronto and East York
-2014,173,North Toronto,10,Downtown Toronto and East York
-2014,174,South Eglinton-Davisville,16,Downtown Toronto and East York
-2014,NA,NSA,9,NA
-2015,1,West Humber-Clairville,50,Etobicoke York
-2015,2,Mount Olive-Silverstone-Jamestown,37,Etobicoke York
-2015,3,Thistletown-Beaumond Heights,5,Etobicoke York
-2015,4,Rexdale-Kipling,9,Etobicoke York
-2015,5,Elms-Old Rexdale,5,Etobicoke York
-2015,6,Kingsview Village-The Westway,21,Etobicoke York
-2015,7,Willowridge-Martingrove-Richview,18,Etobicoke York
-2015,8,Humber Heights-Westmount,10,Etobicoke York
-2015,9,Edenbridge-Humber Valley,4,Etobicoke York
-2015,10,Princess-Rosethorn,5,Etobicoke York
-2015,11,Eringate-Centennial-West Deane,9,Etobicoke York
-2015,12,Markland Wood,4,Etobicoke York
-2015,13,Etobicoke West Mall,6,Etobicoke York
-2015,15,Kingsway South,3,Etobicoke York
-2015,16,Stonegate-Queensway,19,Etobicoke York
-2015,18,New Toronto,13,Etobicoke York
-2015,19,Long Branch,3,Etobicoke York
-2015,20,Alderwood,2,Etobicoke York
-2015,21,Humber Summit,9,Etobicoke York
-2015,22,Humbermede,20,Etobicoke York
-2015,23,Pelmo Park-Humberlea,11,Etobicoke York
-2015,24,Black Creek,16,Etobicoke York
-2015,25,Glenfield-Jane Heights,41,Etobicoke York
-2015,27,York University Heights,51,North York
-2015,28,Rustic,10,North York
-2015,29,Maple Leaf,2,North York
-2015,30,Brookhaven-Amesbury,22,North York
-2015,31,Yorkdale-Glen Park,18,North York
-2015,32,Englemount-Lawrence,23,North York
-2015,33,Clanton Park,14,North York
-2015,34,Bathurst Manor,13,North York
-2015,35,Westminster-Branson,30,North York
-2015,36,Newtonbrook West,28,North York
-2015,37,Willowdale West,23,North York
-2015,38,Lansing-Westgate,15,North York
-2015,39,Bedford Park-Nortown,18,North York
-2015,40,St.Andrew-Windfields,18,North York
-2015,41,Bridle Path-Sunnybrook-York Mills,9,North York
-2015,42,Banbury-Don Mills,16,North York
-2015,43,Victoria Village,24,North York
-2015,44,Flemingdon Park,9,North York
-2015,46,Pleasant View,9,North York
-2015,47,Don Valley Village,20,North York
-2015,48,Hillcrest Village,2,North York
-2015,49,Bayview Woods-Steeles,2,North York
-2015,50,Newtonbrook East,7,North York
-2015,52,Bayview Village,24,North York
-2015,53,Henry Farm,13,North York
-2015,54,O'Connor-Parkview,32,North York
-2015,55,Thorncliffe Park,22,North York
-2015,56,Leaside-Bennington,6,North York
-2015,57,Broadview North,22,Downtown Toronto and East York
-2015,58,Old East York,6,Downtown Toronto and East York
-2015,59,Danforth East York,15,Downtown Toronto and East York
-2015,60,Woodbine-Lumsden,5,Downtown Toronto and East York
-2015,61,Taylor-Massey,18,Downtown Toronto and East York
-2015,62,East End-Danforth,40,Downtown Toronto and East York
-2015,63,The Beaches,26,Downtown Toronto and East York
-2015,64,Woodbine Corridor,12,Downtown Toronto and East York
-2015,65,Greenwood-Coxwell,25,Downtown Toronto and East York
-2015,66,Danforth,5,Downtown Toronto and East York
-2015,67,Playter Estates-Danforth,7,Downtown Toronto and East York
-2015,68,North Riverdale,34,Downtown Toronto and East York
-2015,69,Blake-Jones,19,Downtown Toronto and East York
-2015,70,South Riverdale,80,Downtown Toronto and East York
-2015,71,Cabbagetown-South St.James Town,53,Downtown Toronto and East York
-2015,72,Regent Park,8,Downtown Toronto and East York
-2015,73,Moss Park,152,Downtown Toronto and East York
-2015,74,North St.James Town,16,Downtown Toronto and East York
-2015,78,Kensington-Chinatown,105,Downtown Toronto and East York
-2015,79,University,35,Downtown Toronto and East York
-2015,80,Palmerston-Little Italy,23,Downtown Toronto and East York
-2015,81,Trinity-Bellwoods,39,Downtown Toronto and East York
-2015,83,Dufferin Grove,27,Downtown Toronto and East York
-2015,84,Little Portugal,33,Downtown Toronto and East York
-2015,85,South Parkdale,124,Downtown Toronto and East York
-2015,86,Roncesvalles,14,Downtown Toronto and East York
-2015,87,High Park-Swansea,37,Downtown Toronto and East York
-2015,88,High Park North,26,Downtown Toronto and East York
-2015,89,Runnymede-Bloor West Village,7,Downtown Toronto and East York
-2015,90,Junction Area,33,Downtown Toronto and East York
-2015,91,Weston-Pelham Park,22,Downtown Toronto and East York
-2015,92,Corso Italia-Davenport,18,Downtown Toronto and East York
-2015,94,Wychwood,22,Downtown Toronto and East York
-2015,95,Annex,45,Downtown Toronto and East York
-2015,96,Casa Loma,14,Downtown Toronto and East York
-2015,97,Yonge-St.Clair,12,Downtown Toronto and East York
-2015,98,Rosedale-Moore Park,20,Downtown Toronto and East York
-2015,99,Mount Pleasant East,13,Downtown Toronto and East York
-2015,100,Yonge-Eglinton,27,Downtown Toronto and East York
-2015,101,Forest Hill South,9,Downtown Toronto and East York
-2015,102,Forest Hill North,11,Downtown Toronto and East York
-2015,103,Lawrence Park South,7,Downtown Toronto and East York
-2015,105,Lawrence Park North,2,Downtown Toronto and East York
-2015,106,Humewood-Cedarvale,10,Downtown Toronto and East York
-2015,107,Oakwood Village,45,Downtown Toronto and East York
-2015,108,Briar Hill-Belgravia,13,Downtown Toronto and East York
-2015,109,Caledonia-Fairbank,12,Downtown Toronto and East York
-2015,110,Keelesdale-Eglinton West,30,Downtown Toronto and East York
-2015,111,Rockcliffe-Smythe,31,Downtown Toronto and East York
-2015,112,Beechborough-Greenbrook,14,Downtown Toronto and East York
-2015,113,Weston,35,Downtown Toronto and East York
-2015,114,Lambton Baby Point,4,Downtown Toronto and East York
-2015,115,Mount Dennis,27,Downtown Toronto and East York
-2015,116,Steeles,11,Scarborough
-2015,118,Tam O'Shanter-Sullivan,23,Scarborough
-2015,119,Wexford/Maryvale,19,Scarborough
-2015,120,Clairlea-Birchmount,27,Scarborough
-2015,121,Oakridge,20,Scarborough
-2015,122,Birchcliffe-Cliffside,21,Scarborough
-2015,123,Cliffcrest,14,Scarborough
-2015,124,Kennedy Park,48,Scarborough
-2015,125,Ionview,20,Scarborough
-2015,126,Dorset Park,25,Scarborough
-2015,128,Agincourt South-Malvern West,13,Scarborough
-2015,129,Agincourt North,12,Scarborough
-2015,130,Milliken,10,Scarborough
-2015,133,Centennial Scarborough,14,Scarborough
-2015,134,Highland Creek,9,Scarborough
-2015,135,Morningside,29,Scarborough
-2015,136,West Hill,64,Scarborough
-2015,138,Eglinton East,23,Scarborough
-2015,139,Scarborough Village,23,Scarborough
-2015,140,Guildwood,8,Scarborough
-2015,141,Golfdale-Cedarbrae-Woburn,21,Scarborough
-2015,142,Woburn North,12,Scarborough
-2015,143,West Rouge,14,Scarborough
-2015,144,Morningside Heights,12,Scarborough
-2015,145,Malvern West,19,Scarborough
-2015,146,Malvern East,23,Scarborough
-2015,147,L'Amoreaux West,13,Scarborough
-2015,148,East L'Amoreaux,13,Scarborough
-2015,149,Parkwoods-O'Connor Hills,8,North York
-2015,150,Fenside-Parkwoods,18,North York
-2015,151,Yonge-Doris,9,North York
-2015,152,East Willowdale,12,North York
-2015,153,Avondale,6,North York
-2015,154,Oakdale-Beverley Heights,34,North York
-2015,155,Downsview,24,North York
-2015,156,Bendale-Glen Andrew,13,Scarborough
-2015,157,Bendale South,13,Scarborough
-2015,158,Islington,18,Etobicoke York
-2015,159,Etobicoke City Centre,42,Etobicoke York
-2015,160,Mimico-Queensway,21,Etobicoke York
-2015,161,Humber Bay Shores,9,Etobicoke York
-2015,162,West Queen West,81,Downtown Toronto and East York
-2015,163,Fort York-Liberty Village,24,Downtown Toronto and East York
-2015,164,Wellington Place,45,Downtown Toronto and East York
-2015,165,Harbourfront-CityPlace,19,Downtown Toronto and East York
-2015,166,St Lawrence-East Bayfront-The Islands,68,Downtown Toronto and East York
-2015,167,Church-Wellesley,59,Downtown Toronto and East York
-2015,168,Downtown Yonge East,91,Downtown Toronto and East York
-2015,169,Bay-Cloverhill,42,Downtown Toronto and East York
-2015,170,Yonge-Bay Corridor,145,Downtown Toronto and East York
-2015,171,Junction-Wallace Emerson,19,Downtown Toronto and East York
-2015,172,Dovercourt Village,14,Downtown Toronto and East York
-2015,173,North Toronto,8,Downtown Toronto and East York
-2015,174,South Eglinton-Davisville,21,Downtown Toronto and East York
-2015,NA,NSA,11,NA
-2016,1,West Humber-Clairville,63,Etobicoke York
-2016,2,Mount Olive-Silverstone-Jamestown,39,Etobicoke York
-2016,3,Thistletown-Beaumond Heights,14,Etobicoke York
-2016,4,Rexdale-Kipling,11,Etobicoke York
-2016,5,Elms-Old Rexdale,10,Etobicoke York
-2016,6,Kingsview Village-The Westway,18,Etobicoke York
-2016,7,Willowridge-Martingrove-Richview,21,Etobicoke York
-2016,8,Humber Heights-Westmount,11,Etobicoke York
-2016,9,Edenbridge-Humber Valley,8,Etobicoke York
-2016,10,Princess-Rosethorn,6,Etobicoke York
-2016,11,Eringate-Centennial-West Deane,16,Etobicoke York
-2016,12,Markland Wood,7,Etobicoke York
-2016,13,Etobicoke West Mall,15,Etobicoke York
-2016,15,Kingsway South,8,Etobicoke York
-2016,16,Stonegate-Queensway,23,Etobicoke York
-2016,18,New Toronto,20,Etobicoke York
-2016,19,Long Branch,16,Etobicoke York
-2016,20,Alderwood,11,Etobicoke York
-2016,21,Humber Summit,7,Etobicoke York
-2016,22,Humbermede,16,Etobicoke York
-2016,23,Pelmo Park-Humberlea,7,Etobicoke York
-2016,24,Black Creek,19,Etobicoke York
-2016,25,Glenfield-Jane Heights,46,Etobicoke York
-2016,27,York University Heights,52,North York
-2016,28,Rustic,10,North York
-2016,29,Maple Leaf,7,North York
-2016,30,Brookhaven-Amesbury,27,North York
-2016,31,Yorkdale-Glen Park,32,North York
-2016,32,Englemount-Lawrence,27,North York
-2016,33,Clanton Park,26,North York
-2016,34,Bathurst Manor,8,North York
-2016,35,Westminster-Branson,24,North York
-2016,36,Newtonbrook West,20,North York
-2016,37,Willowdale West,33,North York
-2016,38,Lansing-Westgate,23,North York
-2016,39,Bedford Park-Nortown,19,North York
-2016,40,St.Andrew-Windfields,21,North York
-2016,41,Bridle Path-Sunnybrook-York Mills,9,North York
-2016,42,Banbury-Don Mills,27,North York
-2016,43,Victoria Village,27,North York
-2016,44,Flemingdon Park,23,North York
-2016,46,Pleasant View,6,North York
-2016,47,Don Valley Village,27,North York
-2016,48,Hillcrest Village,14,North York
-2016,49,Bayview Woods-Steeles,7,North York
-2016,50,Newtonbrook East,4,North York
-2016,52,Bayview Village,26,North York
-2016,53,Henry Farm,19,North York
-2016,54,O'Connor-Parkview,44,North York
-2016,55,Thorncliffe Park,12,North York
-2016,56,Leaside-Bennington,5,North York
-2016,57,Broadview North,11,Downtown Toronto and East York
-2016,58,Old East York,5,Downtown Toronto and East York
-2016,59,Danforth East York,22,Downtown Toronto and East York
-2016,60,Woodbine-Lumsden,7,Downtown Toronto and East York
-2016,61,Taylor-Massey,34,Downtown Toronto and East York
-2016,62,East End-Danforth,41,Downtown Toronto and East York
-2016,63,The Beaches,51,Downtown Toronto and East York
-2016,64,Woodbine Corridor,26,Downtown Toronto and East York
-2016,65,Greenwood-Coxwell,34,Downtown Toronto and East York
-2016,66,Danforth,6,Downtown Toronto and East York
-2016,67,Playter Estates-Danforth,5,Downtown Toronto and East York
-2016,68,North Riverdale,40,Downtown Toronto and East York
-2016,69,Blake-Jones,25,Downtown Toronto and East York
-2016,70,South Riverdale,64,Downtown Toronto and East York
-2016,71,Cabbagetown-South St.James Town,55,Downtown Toronto and East York
-2016,72,Regent Park,25,Downtown Toronto and East York
-2016,73,Moss Park,218,Downtown Toronto and East York
-2016,74,North St.James Town,40,Downtown Toronto and East York
-2016,78,Kensington-Chinatown,141,Downtown Toronto and East York
-2016,79,University,39,Downtown Toronto and East York
-2016,80,Palmerston-Little Italy,23,Downtown Toronto and East York
-2016,81,Trinity-Bellwoods,45,Downtown Toronto and East York
-2016,83,Dufferin Grove,45,Downtown Toronto and East York
-2016,84,Little Portugal,25,Downtown Toronto and East York
-2016,85,South Parkdale,116,Downtown Toronto and East York
-2016,86,Roncesvalles,11,Downtown Toronto and East York
-2016,87,High Park-Swansea,59,Downtown Toronto and East York
-2016,88,High Park North,22,Downtown Toronto and East York
-2016,89,Runnymede-Bloor West Village,15,Downtown Toronto and East York
-2016,90,Junction Area,33,Downtown Toronto and East York
-2016,91,Weston-Pelham Park,21,Downtown Toronto and East York
-2016,92,Corso Italia-Davenport,24,Downtown Toronto and East York
-2016,94,Wychwood,41,Downtown Toronto and East York
-2016,95,Annex,48,Downtown Toronto and East York
-2016,96,Casa Loma,11,Downtown Toronto and East York
-2016,97,Yonge-St.Clair,17,Downtown Toronto and East York
-2016,98,Rosedale-Moore Park,24,Downtown Toronto and East York
-2016,99,Mount Pleasant East,14,Downtown Toronto and East York
-2016,100,Yonge-Eglinton,41,Downtown Toronto and East York
-2016,101,Forest Hill South,7,Downtown Toronto and East York
-2016,102,Forest Hill North,8,Downtown Toronto and East York
-2016,103,Lawrence Park South,13,Downtown Toronto and East York
-2016,105,Lawrence Park North,6,Downtown Toronto and East York
-2016,106,Humewood-Cedarvale,16,Downtown Toronto and East York
-2016,107,Oakwood Village,37,Downtown Toronto and East York
-2016,108,Briar Hill-Belgravia,9,Downtown Toronto and East York
-2016,109,Caledonia-Fairbank,15,Downtown Toronto and East York
-2016,110,Keelesdale-Eglinton West,21,Downtown Toronto and East York
-2016,111,Rockcliffe-Smythe,41,Downtown Toronto and East York
-2016,112,Beechborough-Greenbrook,8,Downtown Toronto and East York
-2016,113,Weston,34,Downtown Toronto and East York
-2016,114,Lambton Baby Point,4,Downtown Toronto and East York
-2016,115,Mount Dennis,25,Downtown Toronto and East York
-2016,116,Steeles,5,Scarborough
-2016,118,Tam O'Shanter-Sullivan,20,Scarborough
-2016,119,Wexford/Maryvale,27,Scarborough
-2016,120,Clairlea-Birchmount,26,Scarborough
-2016,121,Oakridge,31,Scarborough
-2016,122,Birchcliffe-Cliffside,29,Scarborough
-2016,123,Cliffcrest,12,Scarborough
-2016,124,Kennedy Park,38,Scarborough
-2016,125,Ionview,27,Scarborough
-2016,126,Dorset Park,35,Scarborough
-2016,128,Agincourt South-Malvern West,20,Scarborough
-2016,129,Agincourt North,12,Scarborough
-2016,130,Milliken,4,Scarborough
-2016,133,Centennial Scarborough,13,Scarborough
-2016,134,Highland Creek,12,Scarborough
-2016,135,Morningside,23,Scarborough
-2016,136,West Hill,71,Scarborough
-2016,138,Eglinton East,19,Scarborough
-2016,139,Scarborough Village,24,Scarborough
-2016,140,Guildwood,10,Scarborough
-2016,141,Golfdale-Cedarbrae-Woburn,36,Scarborough
-2016,142,Woburn North,28,Scarborough
-2016,143,West Rouge,17,Scarborough
-2016,144,Morningside Heights,21,Scarborough
-2016,145,Malvern West,10,Scarborough
-2016,146,Malvern East,17,Scarborough
-2016,147,L'Amoreaux West,12,Scarborough
-2016,148,East L'Amoreaux,13,Scarborough
-2016,149,Parkwoods-O'Connor Hills,19,North York
-2016,150,Fenside-Parkwoods,23,North York
-2016,151,Yonge-Doris,11,North York
-2016,152,East Willowdale,9,North York
-2016,153,Avondale,13,North York
-2016,154,Oakdale-Beverley Heights,36,North York
-2016,155,Downsview,19,North York
-2016,156,Bendale-Glen Andrew,18,Scarborough
-2016,157,Bendale South,16,Scarborough
-2016,158,Islington,17,Etobicoke York
-2016,159,Etobicoke City Centre,51,Etobicoke York
-2016,160,Mimico-Queensway,29,Etobicoke York
-2016,161,Humber Bay Shores,21,Etobicoke York
-2016,162,West Queen West,66,Downtown Toronto and East York
-2016,163,Fort York-Liberty Village,38,Downtown Toronto and East York
-2016,164,Wellington Place,59,Downtown Toronto and East York
-2016,165,Harbourfront-CityPlace,30,Downtown Toronto and East York
-2016,166,St Lawrence-East Bayfront-The Islands,91,Downtown Toronto and East York
-2016,167,Church-Wellesley,78,Downtown Toronto and East York
-2016,168,Downtown Yonge East,121,Downtown Toronto and East York
-2016,169,Bay-Cloverhill,55,Downtown Toronto and East York
-2016,170,Yonge-Bay Corridor,163,Downtown Toronto and East York
-2016,171,Junction-Wallace Emerson,35,Downtown Toronto and East York
-2016,172,Dovercourt Village,13,Downtown Toronto and East York
-2016,173,North Toronto,14,Downtown Toronto and East York
-2016,174,South Eglinton-Davisville,28,Downtown Toronto and East York
-2016,NA,NSA,19,NA
-2017,1,West Humber-Clairville,62,Etobicoke York
-2017,2,Mount Olive-Silverstone-Jamestown,41,Etobicoke York
-2017,3,Thistletown-Beaumond Heights,5,Etobicoke York
-2017,4,Rexdale-Kipling,16,Etobicoke York
-2017,5,Elms-Old Rexdale,8,Etobicoke York
-2017,6,Kingsview Village-The Westway,21,Etobicoke York
-2017,7,Willowridge-Martingrove-Richview,13,Etobicoke York
-2017,8,Humber Heights-Westmount,14,Etobicoke York
-2017,9,Edenbridge-Humber Valley,16,Etobicoke York
-2017,10,Princess-Rosethorn,9,Etobicoke York
-2017,11,Eringate-Centennial-West Deane,14,Etobicoke York
-2017,12,Markland Wood,16,Etobicoke York
-2017,13,Etobicoke West Mall,15,Etobicoke York
-2017,15,Kingsway South,3,Etobicoke York
-2017,16,Stonegate-Queensway,23,Etobicoke York
-2017,18,New Toronto,15,Etobicoke York
-2017,19,Long Branch,14,Etobicoke York
-2017,20,Alderwood,12,Etobicoke York
-2017,21,Humber Summit,14,Etobicoke York
-2017,22,Humbermede,12,Etobicoke York
-2017,23,Pelmo Park-Humberlea,10,Etobicoke York
-2017,24,Black Creek,21,Etobicoke York
-2017,25,Glenfield-Jane Heights,46,Etobicoke York
-2017,27,York University Heights,43,North York
-2017,28,Rustic,10,North York
-2017,29,Maple Leaf,2,North York
-2017,30,Brookhaven-Amesbury,23,North York
-2017,31,Yorkdale-Glen Park,29,North York
-2017,32,Englemount-Lawrence,33,North York
-2017,33,Clanton Park,26,North York
-2017,34,Bathurst Manor,8,North York
-2017,35,Westminster-Branson,27,North York
-2017,36,Newtonbrook West,25,North York
-2017,37,Willowdale West,30,North York
-2017,38,Lansing-Westgate,23,North York
-2017,39,Bedford Park-Nortown,23,North York
-2017,40,St.Andrew-Windfields,18,North York
-2017,41,Bridle Path-Sunnybrook-York Mills,8,North York
-2017,42,Banbury-Don Mills,37,North York
-2017,43,Victoria Village,13,North York
-2017,44,Flemingdon Park,17,North York
-2017,46,Pleasant View,6,North York
-2017,47,Don Valley Village,18,North York
-2017,48,Hillcrest Village,7,North York
-2017,49,Bayview Woods-Steeles,3,North York
-2017,50,Newtonbrook East,11,North York
-2017,52,Bayview Village,24,North York
-2017,53,Henry Farm,22,North York
-2017,54,O'Connor-Parkview,38,North York
-2017,55,Thorncliffe Park,17,North York
-2017,56,Leaside-Bennington,17,North York
-2017,57,Broadview North,26,Downtown Toronto and East York
-2017,58,Old East York,6,Downtown Toronto and East York
-2017,59,Danforth East York,28,Downtown Toronto and East York
-2017,60,Woodbine-Lumsden,11,Downtown Toronto and East York
-2017,61,Taylor-Massey,10,Downtown Toronto and East York
-2017,62,East End-Danforth,32,Downtown Toronto and East York
-2017,63,The Beaches,49,Downtown Toronto and East York
-2017,64,Woodbine Corridor,18,Downtown Toronto and East York
-2017,65,Greenwood-Coxwell,35,Downtown Toronto and East York
-2017,66,Danforth,7,Downtown Toronto and East York
-2017,67,Playter Estates-Danforth,8,Downtown Toronto and East York
-2017,68,North Riverdale,43,Downtown Toronto and East York
-2017,69,Blake-Jones,23,Downtown Toronto and East York
-2017,70,South Riverdale,47,Downtown Toronto and East York
-2017,71,Cabbagetown-South St.James Town,37,Downtown Toronto and East York
-2017,72,Regent Park,29,Downtown Toronto and East York
-2017,73,Moss Park,174,Downtown Toronto and East York
-2017,74,North St.James Town,37,Downtown Toronto and East York
-2017,78,Kensington-Chinatown,98,Downtown Toronto and East York
-2017,79,University,47,Downtown Toronto and East York
-2017,80,Palmerston-Little Italy,27,Downtown Toronto and East York
-2017,81,Trinity-Bellwoods,35,Downtown Toronto and East York
-2017,83,Dufferin Grove,44,Downtown Toronto and East York
-2017,84,Little Portugal,27,Downtown Toronto and East York
-2017,85,South Parkdale,113,Downtown Toronto and East York
-2017,86,Roncesvalles,4,Downtown Toronto and East York
-2017,87,High Park-Swansea,49,Downtown Toronto and East York
-2017,88,High Park North,17,Downtown Toronto and East York
-2017,89,Runnymede-Bloor West Village,9,Downtown Toronto and East York
-2017,90,Junction Area,34,Downtown Toronto and East York
-2017,91,Weston-Pelham Park,16,Downtown Toronto and East York
-2017,92,Corso Italia-Davenport,28,Downtown Toronto and East York
-2017,94,Wychwood,30,Downtown Toronto and East York
-2017,95,Annex,72,Downtown Toronto and East York
-2017,96,Casa Loma,11,Downtown Toronto and East York
-2017,97,Yonge-St.Clair,7,Downtown Toronto and East York
-2017,98,Rosedale-Moore Park,19,Downtown Toronto and East York
-2017,99,Mount Pleasant East,23,Downtown Toronto and East York
-2017,100,Yonge-Eglinton,24,Downtown Toronto and East York
-2017,101,Forest Hill South,9,Downtown Toronto and East York
-2017,102,Forest Hill North,8,Downtown Toronto and East York
-2017,103,Lawrence Park South,8,Downtown Toronto and East York
-2017,105,Lawrence Park North,7,Downtown Toronto and East York
-2017,106,Humewood-Cedarvale,14,Downtown Toronto and East York
-2017,107,Oakwood Village,38,Downtown Toronto and East York
-2017,108,Briar Hill-Belgravia,17,Downtown Toronto and East York
-2017,109,Caledonia-Fairbank,23,Downtown Toronto and East York
-2017,110,Keelesdale-Eglinton West,22,Downtown Toronto and East York
-2017,111,Rockcliffe-Smythe,29,Downtown Toronto and East York
-2017,112,Beechborough-Greenbrook,12,Downtown Toronto and East York
-2017,113,Weston,46,Downtown Toronto and East York
-2017,114,Lambton Baby Point,11,Downtown Toronto and East York
-2017,115,Mount Dennis,24,Downtown Toronto and East York
-2017,116,Steeles,3,Scarborough
-2017,118,Tam O'Shanter-Sullivan,15,Scarborough
-2017,119,Wexford/Maryvale,26,Scarborough
-2017,120,Clairlea-Birchmount,43,Scarborough
-2017,121,Oakridge,19,Scarborough
-2017,122,Birchcliffe-Cliffside,34,Scarborough
-2017,123,Cliffcrest,25,Scarborough
-2017,124,Kennedy Park,31,Scarborough
-2017,125,Ionview,17,Scarborough
-2017,126,Dorset Park,28,Scarborough
-2017,128,Agincourt South-Malvern West,13,Scarborough
-2017,129,Agincourt North,11,Scarborough
-2017,130,Milliken,14,Scarborough
-2017,133,Centennial Scarborough,15,Scarborough
-2017,134,Highland Creek,9,Scarborough
-2017,135,Morningside,34,Scarborough
-2017,136,West Hill,80,Scarborough
-2017,138,Eglinton East,20,Scarborough
-2017,139,Scarborough Village,31,Scarborough
-2017,140,Guildwood,9,Scarborough
-2017,141,Golfdale-Cedarbrae-Woburn,33,Scarborough
-2017,142,Woburn North,25,Scarborough
-2017,143,West Rouge,16,Scarborough
-2017,144,Morningside Heights,14,Scarborough
-2017,145,Malvern West,27,Scarborough
-2017,146,Malvern East,21,Scarborough
-2017,147,L'Amoreaux West,20,Scarborough
-2017,148,East L'Amoreaux,18,Scarborough
-2017,149,Parkwoods-O'Connor Hills,11,North York
-2017,150,Fenside-Parkwoods,26,North York
-2017,151,Yonge-Doris,8,North York
-2017,152,East Willowdale,8,North York
-2017,153,Avondale,4,North York
-2017,154,Oakdale-Beverley Heights,36,North York
-2017,155,Downsview,25,North York
-2017,156,Bendale-Glen Andrew,11,Scarborough
-2017,157,Bendale South,16,Scarborough
-2017,158,Islington,23,Etobicoke York
-2017,159,Etobicoke City Centre,39,Etobicoke York
-2017,160,Mimico-Queensway,26,Etobicoke York
-2017,161,Humber Bay Shores,14,Etobicoke York
-2017,162,West Queen West,96,Downtown Toronto and East York
-2017,163,Fort York-Liberty Village,39,Downtown Toronto and East York
-2017,164,Wellington Place,73,Downtown Toronto and East York
-2017,165,Harbourfront-CityPlace,19,Downtown Toronto and East York
-2017,166,St Lawrence-East Bayfront-The Islands,91,Downtown Toronto and East York
-2017,167,Church-Wellesley,90,Downtown Toronto and East York
-2017,168,Downtown Yonge East,126,Downtown Toronto and East York
-2017,169,Bay-Cloverhill,50,Downtown Toronto and East York
-2017,170,Yonge-Bay Corridor,171,Downtown Toronto and East York
-2017,171,Junction-Wallace Emerson,30,Downtown Toronto and East York
-2017,172,Dovercourt Village,11,Downtown Toronto and East York
-2017,173,North Toronto,13,Downtown Toronto and East York
-2017,174,South Eglinton-Davisville,26,Downtown Toronto and East York
-2017,NA,NSA,17,NA
-2018,NA,NSA,5132,NA
-2019,NA,NSA,5134,NA
-2020,NA,NSA,5297,NA
-2021,NA,NSA,5650,NA
-2022,NA,NSA,5576,NA
-2023,NA,NSA,5459,NA
+Year,Neighbourhood_number,Neighbourhood_name,Type,Number,Council
+2014,1,West Humber-Clairville,Overdose,4,Etobicoke York
+2014,1,West Humber-Clairville,Person in Crisis,22,Etobicoke York
+2014,1,West Humber-Clairville,Suicide-related,16,Etobicoke York
+2014,2,Mount Olive-Silverstone-Jamestown,Overdose,4,Etobicoke York
+2014,2,Mount Olive-Silverstone-Jamestown,Person in Crisis,19,Etobicoke York
+2014,2,Mount Olive-Silverstone-Jamestown,Suicide-related,8,Etobicoke York
+2014,3,Thistletown-Beaumond Heights,Overdose,1,Etobicoke York
+2014,3,Thistletown-Beaumond Heights,Person in Crisis,4,Etobicoke York
+2014,3,Thistletown-Beaumond Heights,Suicide-related,5,Etobicoke York
+2014,4,Rexdale-Kipling,Overdose,1,Etobicoke York
+2014,4,Rexdale-Kipling,Person in Crisis,7,Etobicoke York
+2014,5,Elms-Old Rexdale,Overdose,1,Etobicoke York
+2014,5,Elms-Old Rexdale,Person in Crisis,1,Etobicoke York
+2014,5,Elms-Old Rexdale,Suicide-related,2,Etobicoke York
+2014,6,Kingsview Village-The Westway,Person in Crisis,11,Etobicoke York
+2014,6,Kingsview Village-The Westway,Suicide-related,4,Etobicoke York
+2014,7,Willowridge-Martingrove-Richview,Overdose,1,Etobicoke York
+2014,7,Willowridge-Martingrove-Richview,Person in Crisis,9,Etobicoke York
+2014,7,Willowridge-Martingrove-Richview,Suicide-related,6,Etobicoke York
+2014,8,Humber Heights-Westmount,Overdose,3,Etobicoke York
+2014,8,Humber Heights-Westmount,Person in Crisis,7,Etobicoke York
+2014,8,Humber Heights-Westmount,Suicide-related,4,Etobicoke York
+2014,9,Edenbridge-Humber Valley,Overdose,2,Etobicoke York
+2014,9,Edenbridge-Humber Valley,Person in Crisis,9,Etobicoke York
+2014,9,Edenbridge-Humber Valley,Suicide-related,5,Etobicoke York
+2014,10,Princess-Rosethorn,Overdose,1,Etobicoke York
+2014,10,Princess-Rosethorn,Person in Crisis,4,Etobicoke York
+2014,10,Princess-Rosethorn,Suicide-related,2,Etobicoke York
+2014,11,Eringate-Centennial-West Deane,Person in Crisis,9,Etobicoke York
+2014,11,Eringate-Centennial-West Deane,Suicide-related,2,Etobicoke York
+2014,12,Markland Wood,Overdose,4,Etobicoke York
+2014,12,Markland Wood,Person in Crisis,4,Etobicoke York
+2014,12,Markland Wood,Suicide-related,5,Etobicoke York
+2014,13,Etobicoke West Mall,Person in Crisis,5,Etobicoke York
+2014,13,Etobicoke West Mall,Suicide-related,1,Etobicoke York
+2014,15,Kingsway South,Person in Crisis,2,Etobicoke York
+2014,15,Kingsway South,Suicide-related,2,Etobicoke York
+2014,16,Stonegate-Queensway,Overdose,2,Etobicoke York
+2014,16,Stonegate-Queensway,Person in Crisis,16,Etobicoke York
+2014,16,Stonegate-Queensway,Suicide-related,8,Etobicoke York
+2014,18,New Toronto,Person in Crisis,8,Etobicoke York
+2014,18,New Toronto,Suicide-related,7,Etobicoke York
+2014,19,Long Branch,Overdose,2,Etobicoke York
+2014,19,Long Branch,Person in Crisis,7,Etobicoke York
+2014,19,Long Branch,Suicide-related,2,Etobicoke York
+2014,20,Alderwood,Overdose,2,Etobicoke York
+2014,20,Alderwood,Person in Crisis,4,Etobicoke York
+2014,20,Alderwood,Suicide-related,3,Etobicoke York
+2014,21,Humber Summit,Person in Crisis,4,Etobicoke York
+2014,21,Humber Summit,Suicide-related,2,Etobicoke York
+2014,22,Humbermede,Person in Crisis,5,Etobicoke York
+2014,22,Humbermede,Suicide-related,2,Etobicoke York
+2014,23,Pelmo Park-Humberlea,Person in Crisis,3,Etobicoke York
+2014,24,Black Creek,Person in Crisis,8,Etobicoke York
+2014,24,Black Creek,Suicide-related,7,Etobicoke York
+2014,25,Glenfield-Jane Heights,Overdose,1,Etobicoke York
+2014,25,Glenfield-Jane Heights,Person in Crisis,27,Etobicoke York
+2014,25,Glenfield-Jane Heights,Suicide-related,7,Etobicoke York
+2014,27,York University Heights,Overdose,2,North York
+2014,27,York University Heights,Person in Crisis,24,North York
+2014,27,York University Heights,Suicide-related,14,North York
+2014,28,Rustic,Person in Crisis,5,North York
+2014,28,Rustic,Suicide-related,1,North York
+2014,29,Maple Leaf,Person in Crisis,2,North York
+2014,29,Maple Leaf,Suicide-related,2,North York
+2014,30,Brookhaven-Amesbury,Overdose,1,North York
+2014,30,Brookhaven-Amesbury,Person in Crisis,14,North York
+2014,30,Brookhaven-Amesbury,Suicide-related,5,North York
+2014,31,Yorkdale-Glen Park,Overdose,2,North York
+2014,31,Yorkdale-Glen Park,Person in Crisis,22,North York
+2014,31,Yorkdale-Glen Park,Suicide-related,5,North York
+2014,32,Englemount-Lawrence,Person in Crisis,14,North York
+2014,32,Englemount-Lawrence,Suicide-related,6,North York
+2014,33,Clanton Park,Overdose,1,North York
+2014,33,Clanton Park,Person in Crisis,5,North York
+2014,33,Clanton Park,Suicide-related,8,North York
+2014,34,Bathurst Manor,Overdose,1,North York
+2014,34,Bathurst Manor,Person in Crisis,3,North York
+2014,34,Bathurst Manor,Suicide-related,6,North York
+2014,35,Westminster-Branson,Overdose,2,North York
+2014,35,Westminster-Branson,Person in Crisis,12,North York
+2014,35,Westminster-Branson,Suicide-related,8,North York
+2014,36,Newtonbrook West,Overdose,2,North York
+2014,36,Newtonbrook West,Person in Crisis,21,North York
+2014,36,Newtonbrook West,Suicide-related,10,North York
+2014,37,Willowdale West,Person in Crisis,13,North York
+2014,37,Willowdale West,Suicide-related,6,North York
+2014,38,Lansing-Westgate,Overdose,1,North York
+2014,38,Lansing-Westgate,Person in Crisis,10,North York
+2014,38,Lansing-Westgate,Suicide-related,9,North York
+2014,39,Bedford Park-Nortown,Person in Crisis,10,North York
+2014,39,Bedford Park-Nortown,Suicide-related,14,North York
+2014,40,St.Andrew-Windfields,Overdose,2,North York
+2014,40,St.Andrew-Windfields,Person in Crisis,6,North York
+2014,40,St.Andrew-Windfields,Suicide-related,3,North York
+2014,41,Bridle Path-Sunnybrook-York Mills,Overdose,3,North York
+2014,41,Bridle Path-Sunnybrook-York Mills,Person in Crisis,6,North York
+2014,41,Bridle Path-Sunnybrook-York Mills,Suicide-related,2,North York
+2014,42,Banbury-Don Mills,Overdose,2,North York
+2014,42,Banbury-Don Mills,Person in Crisis,8,North York
+2014,42,Banbury-Don Mills,Suicide-related,7,North York
+2014,43,Victoria Village,Overdose,1,North York
+2014,43,Victoria Village,Person in Crisis,14,North York
+2014,43,Victoria Village,Suicide-related,6,North York
+2014,44,Flemingdon Park,Overdose,1,North York
+2014,44,Flemingdon Park,Person in Crisis,5,North York
+2014,44,Flemingdon Park,Suicide-related,2,North York
+2014,46,Pleasant View,Person in Crisis,10,North York
+2014,46,Pleasant View,Suicide-related,3,North York
+2014,47,Don Valley Village,Overdose,3,North York
+2014,47,Don Valley Village,Person in Crisis,16,North York
+2014,47,Don Valley Village,Suicide-related,6,North York
+2014,48,Hillcrest Village,Overdose,2,North York
+2014,48,Hillcrest Village,Person in Crisis,11,North York
+2014,48,Hillcrest Village,Suicide-related,2,North York
+2014,49,Bayview Woods-Steeles,Person in Crisis,3,North York
+2014,49,Bayview Woods-Steeles,Suicide-related,2,North York
+2014,50,Newtonbrook East,Person in Crisis,7,North York
+2014,50,Newtonbrook East,Suicide-related,3,North York
+2014,52,Bayview Village,Overdose,1,North York
+2014,52,Bayview Village,Person in Crisis,21,North York
+2014,52,Bayview Village,Suicide-related,7,North York
+2014,53,Henry Farm,Overdose,2,North York
+2014,53,Henry Farm,Person in Crisis,9,North York
+2014,53,Henry Farm,Suicide-related,6,North York
+2014,54,O'Connor-Parkview,Overdose,1,North York
+2014,54,O'Connor-Parkview,Person in Crisis,18,North York
+2014,54,O'Connor-Parkview,Suicide-related,12,North York
+2014,55,Thorncliffe Park,Overdose,1,North York
+2014,55,Thorncliffe Park,Person in Crisis,13,North York
+2014,55,Thorncliffe Park,Suicide-related,8,North York
+2014,56,Leaside-Bennington,Person in Crisis,5,North York
+2014,56,Leaside-Bennington,Suicide-related,1,North York
+2014,57,Broadview North,Overdose,2,Downtown Toronto and East York
+2014,57,Broadview North,Person in Crisis,16,Downtown Toronto and East York
+2014,57,Broadview North,Suicide-related,5,Downtown Toronto and East York
+2014,58,Old East York,Person in Crisis,5,Downtown Toronto and East York
+2014,58,Old East York,Suicide-related,7,Downtown Toronto and East York
+2014,59,Danforth East York,Overdose,2,Downtown Toronto and East York
+2014,59,Danforth East York,Person in Crisis,10,Downtown Toronto and East York
+2014,59,Danforth East York,Suicide-related,8,Downtown Toronto and East York
+2014,60,Woodbine-Lumsden,Person in Crisis,2,Downtown Toronto and East York
+2014,60,Woodbine-Lumsden,Suicide-related,2,Downtown Toronto and East York
+2014,61,Taylor-Massey,Overdose,3,Downtown Toronto and East York
+2014,61,Taylor-Massey,Person in Crisis,17,Downtown Toronto and East York
+2014,61,Taylor-Massey,Suicide-related,4,Downtown Toronto and East York
+2014,62,East End-Danforth,Overdose,3,Downtown Toronto and East York
+2014,62,East End-Danforth,Person in Crisis,31,Downtown Toronto and East York
+2014,62,East End-Danforth,Suicide-related,13,Downtown Toronto and East York
+2014,63,The Beaches,Overdose,2,Downtown Toronto and East York
+2014,63,The Beaches,Person in Crisis,14,Downtown Toronto and East York
+2014,63,The Beaches,Suicide-related,9,Downtown Toronto and East York
+2014,64,Woodbine Corridor,Overdose,5,Downtown Toronto and East York
+2014,64,Woodbine Corridor,Person in Crisis,5,Downtown Toronto and East York
+2014,64,Woodbine Corridor,Suicide-related,4,Downtown Toronto and East York
+2014,65,Greenwood-Coxwell,Overdose,3,Downtown Toronto and East York
+2014,65,Greenwood-Coxwell,Person in Crisis,13,Downtown Toronto and East York
+2014,65,Greenwood-Coxwell,Suicide-related,5,Downtown Toronto and East York
+2014,66,Danforth,Person in Crisis,2,Downtown Toronto and East York
+2014,66,Danforth,Suicide-related,5,Downtown Toronto and East York
+2014,67,Playter Estates-Danforth,Overdose,1,Downtown Toronto and East York
+2014,67,Playter Estates-Danforth,Person in Crisis,2,Downtown Toronto and East York
+2014,67,Playter Estates-Danforth,Suicide-related,5,Downtown Toronto and East York
+2014,68,North Riverdale,Overdose,2,Downtown Toronto and East York
+2014,68,North Riverdale,Person in Crisis,20,Downtown Toronto and East York
+2014,68,North Riverdale,Suicide-related,10,Downtown Toronto and East York
+2014,69,Blake-Jones,Overdose,2,Downtown Toronto and East York
+2014,69,Blake-Jones,Person in Crisis,11,Downtown Toronto and East York
+2014,69,Blake-Jones,Suicide-related,5,Downtown Toronto and East York
+2014,70,South Riverdale,Overdose,5,Downtown Toronto and East York
+2014,70,South Riverdale,Person in Crisis,40,Downtown Toronto and East York
+2014,70,South Riverdale,Suicide-related,24,Downtown Toronto and East York
+2014,71,Cabbagetown-South St.James Town,Overdose,3,Downtown Toronto and East York
+2014,71,Cabbagetown-South St.James Town,Person in Crisis,25,Downtown Toronto and East York
+2014,71,Cabbagetown-South St.James Town,Suicide-related,12,Downtown Toronto and East York
+2014,72,Regent Park,Person in Crisis,7,Downtown Toronto and East York
+2014,72,Regent Park,Suicide-related,5,Downtown Toronto and East York
+2014,73,Moss Park,Overdose,10,Downtown Toronto and East York
+2014,73,Moss Park,Person in Crisis,126,Downtown Toronto and East York
+2014,73,Moss Park,Suicide-related,30,Downtown Toronto and East York
+2014,74,North St.James Town,Overdose,2,Downtown Toronto and East York
+2014,74,North St.James Town,Person in Crisis,13,Downtown Toronto and East York
+2014,74,North St.James Town,Suicide-related,7,Downtown Toronto and East York
+2014,78,Kensington-Chinatown,Overdose,12,Downtown Toronto and East York
+2014,78,Kensington-Chinatown,Person in Crisis,86,Downtown Toronto and East York
+2014,78,Kensington-Chinatown,Suicide-related,20,Downtown Toronto and East York
+2014,79,University,Person in Crisis,23,Downtown Toronto and East York
+2014,79,University,Suicide-related,6,Downtown Toronto and East York
+2014,80,Palmerston-Little Italy,Overdose,1,Downtown Toronto and East York
+2014,80,Palmerston-Little Italy,Person in Crisis,15,Downtown Toronto and East York
+2014,80,Palmerston-Little Italy,Suicide-related,5,Downtown Toronto and East York
+2014,81,Trinity-Bellwoods,Overdose,1,Downtown Toronto and East York
+2014,81,Trinity-Bellwoods,Person in Crisis,25,Downtown Toronto and East York
+2014,81,Trinity-Bellwoods,Suicide-related,13,Downtown Toronto and East York
+2014,83,Dufferin Grove,Overdose,2,Downtown Toronto and East York
+2014,83,Dufferin Grove,Person in Crisis,16,Downtown Toronto and East York
+2014,83,Dufferin Grove,Suicide-related,4,Downtown Toronto and East York
+2014,84,Little Portugal,Overdose,1,Downtown Toronto and East York
+2014,84,Little Portugal,Person in Crisis,26,Downtown Toronto and East York
+2014,84,Little Portugal,Suicide-related,7,Downtown Toronto and East York
+2014,85,South Parkdale,Overdose,6,Downtown Toronto and East York
+2014,85,South Parkdale,Person in Crisis,71,Downtown Toronto and East York
+2014,85,South Parkdale,Suicide-related,24,Downtown Toronto and East York
+2014,86,Roncesvalles,Overdose,2,Downtown Toronto and East York
+2014,86,Roncesvalles,Person in Crisis,11,Downtown Toronto and East York
+2014,86,Roncesvalles,Suicide-related,2,Downtown Toronto and East York
+2014,87,High Park-Swansea,Overdose,5,Downtown Toronto and East York
+2014,87,High Park-Swansea,Person in Crisis,34,Downtown Toronto and East York
+2014,87,High Park-Swansea,Suicide-related,15,Downtown Toronto and East York
+2014,88,High Park North,Overdose,1,Downtown Toronto and East York
+2014,88,High Park North,Person in Crisis,11,Downtown Toronto and East York
+2014,88,High Park North,Suicide-related,11,Downtown Toronto and East York
+2014,89,Runnymede-Bloor West Village,Overdose,1,Downtown Toronto and East York
+2014,89,Runnymede-Bloor West Village,Person in Crisis,6,Downtown Toronto and East York
+2014,89,Runnymede-Bloor West Village,Suicide-related,2,Downtown Toronto and East York
+2014,90,Junction Area,Overdose,1,Downtown Toronto and East York
+2014,90,Junction Area,Person in Crisis,17,Downtown Toronto and East York
+2014,90,Junction Area,Suicide-related,10,Downtown Toronto and East York
+2014,91,Weston-Pelham Park,Overdose,1,Downtown Toronto and East York
+2014,91,Weston-Pelham Park,Person in Crisis,14,Downtown Toronto and East York
+2014,91,Weston-Pelham Park,Suicide-related,6,Downtown Toronto and East York
+2014,92,Corso Italia-Davenport,Overdose,4,Downtown Toronto and East York
+2014,92,Corso Italia-Davenport,Person in Crisis,11,Downtown Toronto and East York
+2014,92,Corso Italia-Davenport,Suicide-related,6,Downtown Toronto and East York
+2014,94,Wychwood,Overdose,1,Downtown Toronto and East York
+2014,94,Wychwood,Person in Crisis,16,Downtown Toronto and East York
+2014,94,Wychwood,Suicide-related,6,Downtown Toronto and East York
+2014,95,Annex,Person in Crisis,23,Downtown Toronto and East York
+2014,95,Annex,Suicide-related,27,Downtown Toronto and East York
+2014,96,Casa Loma,Person in Crisis,4,Downtown Toronto and East York
+2014,96,Casa Loma,Suicide-related,2,Downtown Toronto and East York
+2014,97,Yonge-St.Clair,Overdose,1,Downtown Toronto and East York
+2014,97,Yonge-St.Clair,Suicide-related,8,Downtown Toronto and East York
+2014,98,Rosedale-Moore Park,Overdose,2,Downtown Toronto and East York
+2014,98,Rosedale-Moore Park,Person in Crisis,4,Downtown Toronto and East York
+2014,98,Rosedale-Moore Park,Suicide-related,7,Downtown Toronto and East York
+2014,99,Mount Pleasant East,Overdose,1,Downtown Toronto and East York
+2014,99,Mount Pleasant East,Person in Crisis,7,Downtown Toronto and East York
+2014,100,Yonge-Eglinton,Person in Crisis,12,Downtown Toronto and East York
+2014,100,Yonge-Eglinton,Suicide-related,8,Downtown Toronto and East York
+2014,101,Forest Hill South,Suicide-related,2,Downtown Toronto and East York
+2014,102,Forest Hill North,Person in Crisis,4,Downtown Toronto and East York
+2014,102,Forest Hill North,Suicide-related,2,Downtown Toronto and East York
+2014,103,Lawrence Park South,Person in Crisis,5,Downtown Toronto and East York
+2014,103,Lawrence Park South,Suicide-related,4,Downtown Toronto and East York
+2014,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
+2014,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
+2014,106,Humewood-Cedarvale,Overdose,1,Downtown Toronto and East York
+2014,106,Humewood-Cedarvale,Person in Crisis,11,Downtown Toronto and East York
+2014,106,Humewood-Cedarvale,Suicide-related,7,Downtown Toronto and East York
+2014,107,Oakwood Village,Overdose,1,Downtown Toronto and East York
+2014,107,Oakwood Village,Person in Crisis,24,Downtown Toronto and East York
+2014,107,Oakwood Village,Suicide-related,6,Downtown Toronto and East York
+2014,108,Briar Hill-Belgravia,Person in Crisis,8,Downtown Toronto and East York
+2014,108,Briar Hill-Belgravia,Suicide-related,2,Downtown Toronto and East York
+2014,109,Caledonia-Fairbank,Overdose,2,Downtown Toronto and East York
+2014,109,Caledonia-Fairbank,Person in Crisis,7,Downtown Toronto and East York
+2014,109,Caledonia-Fairbank,Suicide-related,3,Downtown Toronto and East York
+2014,110,Keelesdale-Eglinton West,Overdose,5,Downtown Toronto and East York
+2014,110,Keelesdale-Eglinton West,Person in Crisis,23,Downtown Toronto and East York
+2014,110,Keelesdale-Eglinton West,Suicide-related,5,Downtown Toronto and East York
+2014,111,Rockcliffe-Smythe,Overdose,1,Downtown Toronto and East York
+2014,111,Rockcliffe-Smythe,Person in Crisis,19,Downtown Toronto and East York
+2014,111,Rockcliffe-Smythe,Suicide-related,9,Downtown Toronto and East York
+2014,112,Beechborough-Greenbrook,Overdose,2,Downtown Toronto and East York
+2014,112,Beechborough-Greenbrook,Person in Crisis,19,Downtown Toronto and East York
+2014,112,Beechborough-Greenbrook,Suicide-related,2,Downtown Toronto and East York
+2014,113,Weston,Overdose,2,Downtown Toronto and East York
+2014,113,Weston,Person in Crisis,23,Downtown Toronto and East York
+2014,113,Weston,Suicide-related,14,Downtown Toronto and East York
+2014,114,Lambton Baby Point,Person in Crisis,1,Downtown Toronto and East York
+2014,114,Lambton Baby Point,Suicide-related,3,Downtown Toronto and East York
+2014,115,Mount Dennis,Overdose,2,Downtown Toronto and East York
+2014,115,Mount Dennis,Person in Crisis,17,Downtown Toronto and East York
+2014,115,Mount Dennis,Suicide-related,11,Downtown Toronto and East York
+2014,116,Steeles,Person in Crisis,7,Scarborough
+2014,116,Steeles,Suicide-related,1,Scarborough
+2014,118,Tam O'Shanter-Sullivan,Person in Crisis,19,Scarborough
+2014,118,Tam O'Shanter-Sullivan,Suicide-related,6,Scarborough
+2014,119,Wexford/Maryvale,Overdose,3,Scarborough
+2014,119,Wexford/Maryvale,Person in Crisis,12,Scarborough
+2014,119,Wexford/Maryvale,Suicide-related,8,Scarborough
+2014,120,Clairlea-Birchmount,Overdose,3,Scarborough
+2014,120,Clairlea-Birchmount,Person in Crisis,10,Scarborough
+2014,120,Clairlea-Birchmount,Suicide-related,12,Scarborough
+2014,121,Oakridge,Overdose,1,Scarborough
+2014,121,Oakridge,Person in Crisis,13,Scarborough
+2014,121,Oakridge,Suicide-related,5,Scarborough
+2014,122,Birchcliffe-Cliffside,Overdose,3,Scarborough
+2014,122,Birchcliffe-Cliffside,Person in Crisis,8,Scarborough
+2014,122,Birchcliffe-Cliffside,Suicide-related,8,Scarborough
+2014,123,Cliffcrest,Overdose,1,Scarborough
+2014,123,Cliffcrest,Person in Crisis,11,Scarborough
+2014,123,Cliffcrest,Suicide-related,4,Scarborough
+2014,124,Kennedy Park,Overdose,4,Scarborough
+2014,124,Kennedy Park,Person in Crisis,23,Scarborough
+2014,124,Kennedy Park,Suicide-related,16,Scarborough
+2014,125,Ionview,Person in Crisis,14,Scarborough
+2014,125,Ionview,Suicide-related,8,Scarborough
+2014,126,Dorset Park,Overdose,4,Scarborough
+2014,126,Dorset Park,Person in Crisis,14,Scarborough
+2014,126,Dorset Park,Suicide-related,5,Scarborough
+2014,128,Agincourt South-Malvern West,Overdose,2,Scarborough
+2014,128,Agincourt South-Malvern West,Person in Crisis,10,Scarborough
+2014,128,Agincourt South-Malvern West,Suicide-related,10,Scarborough
+2014,129,Agincourt North,Overdose,2,Scarborough
+2014,129,Agincourt North,Person in Crisis,7,Scarborough
+2014,129,Agincourt North,Suicide-related,4,Scarborough
+2014,130,Milliken,Person in Crisis,5,Scarborough
+2014,130,Milliken,Suicide-related,3,Scarborough
+2014,133,Centennial Scarborough,Overdose,2,Scarborough
+2014,133,Centennial Scarborough,Person in Crisis,7,Scarborough
+2014,133,Centennial Scarborough,Suicide-related,3,Scarborough
+2014,134,Highland Creek,Overdose,1,Scarborough
+2014,134,Highland Creek,Person in Crisis,1,Scarborough
+2014,134,Highland Creek,Suicide-related,1,Scarborough
+2014,135,Morningside,Overdose,1,Scarborough
+2014,135,Morningside,Person in Crisis,19,Scarborough
+2014,135,Morningside,Suicide-related,9,Scarborough
+2014,136,West Hill,Person in Crisis,40,Scarborough
+2014,136,West Hill,Suicide-related,13,Scarborough
+2014,138,Eglinton East,Overdose,1,Scarborough
+2014,138,Eglinton East,Person in Crisis,19,Scarborough
+2014,138,Eglinton East,Suicide-related,6,Scarborough
+2014,139,Scarborough Village,Overdose,3,Scarborough
+2014,139,Scarborough Village,Person in Crisis,8,Scarborough
+2014,139,Scarborough Village,Suicide-related,9,Scarborough
+2014,140,Guildwood,Overdose,1,Scarborough
+2014,140,Guildwood,Person in Crisis,4,Scarborough
+2014,140,Guildwood,Suicide-related,4,Scarborough
+2014,141,Golfdale-Cedarbrae-Woburn,Overdose,4,Scarborough
+2014,141,Golfdale-Cedarbrae-Woburn,Person in Crisis,12,Scarborough
+2014,141,Golfdale-Cedarbrae-Woburn,Suicide-related,12,Scarborough
+2014,142,Woburn North,Overdose,2,Scarborough
+2014,142,Woburn North,Person in Crisis,10,Scarborough
+2014,142,Woburn North,Suicide-related,2,Scarborough
+2014,143,West Rouge,Overdose,2,Scarborough
+2014,143,West Rouge,Person in Crisis,4,Scarborough
+2014,143,West Rouge,Suicide-related,2,Scarborough
+2014,144,Morningside Heights,Overdose,1,Scarborough
+2014,144,Morningside Heights,Person in Crisis,10,Scarborough
+2014,144,Morningside Heights,Suicide-related,3,Scarborough
+2014,145,Malvern West,Overdose,2,Scarborough
+2014,145,Malvern West,Person in Crisis,8,Scarborough
+2014,145,Malvern West,Suicide-related,6,Scarborough
+2014,146,Malvern East,Overdose,1,Scarborough
+2014,146,Malvern East,Person in Crisis,6,Scarborough
+2014,146,Malvern East,Suicide-related,8,Scarborough
+2014,147,L'Amoreaux West,Person in Crisis,5,Scarborough
+2014,147,L'Amoreaux West,Suicide-related,4,Scarborough
+2014,148,East L'Amoreaux,Overdose,2,Scarborough
+2014,148,East L'Amoreaux,Person in Crisis,9,Scarborough
+2014,148,East L'Amoreaux,Suicide-related,2,Scarborough
+2014,149,Parkwoods-O'Connor Hills,Overdose,1,North York
+2014,149,Parkwoods-O'Connor Hills,Person in Crisis,4,North York
+2014,149,Parkwoods-O'Connor Hills,Suicide-related,5,North York
+2014,150,Fenside-Parkwoods,Overdose,1,North York
+2014,150,Fenside-Parkwoods,Person in Crisis,5,North York
+2014,150,Fenside-Parkwoods,Suicide-related,7,North York
+2014,151,Yonge-Doris,Overdose,1,North York
+2014,151,Yonge-Doris,Person in Crisis,2,North York
+2014,151,Yonge-Doris,Suicide-related,2,North York
+2014,152,East Willowdale,Person in Crisis,4,North York
+2014,152,East Willowdale,Suicide-related,6,North York
+2014,153,Avondale,Person in Crisis,3,North York
+2014,153,Avondale,Suicide-related,5,North York
+2014,154,Oakdale-Beverley Heights,Overdose,1,North York
+2014,154,Oakdale-Beverley Heights,Person in Crisis,15,North York
+2014,154,Oakdale-Beverley Heights,Suicide-related,7,North York
+2014,155,Downsview,Overdose,1,North York
+2014,155,Downsview,Person in Crisis,14,North York
+2014,155,Downsview,Suicide-related,4,North York
+2014,156,Bendale-Glen Andrew,Person in Crisis,14,Scarborough
+2014,156,Bendale-Glen Andrew,Suicide-related,4,Scarborough
+2014,157,Bendale South,Overdose,1,Scarborough
+2014,157,Bendale South,Person in Crisis,9,Scarborough
+2014,157,Bendale South,Suicide-related,4,Scarborough
+2014,158,Islington,Person in Crisis,15,Etobicoke York
+2014,158,Islington,Suicide-related,4,Etobicoke York
+2014,159,Etobicoke City Centre,Overdose,3,Etobicoke York
+2014,159,Etobicoke City Centre,Person in Crisis,23,Etobicoke York
+2014,159,Etobicoke City Centre,Suicide-related,11,Etobicoke York
+2014,160,Mimico-Queensway,Overdose,3,Etobicoke York
+2014,160,Mimico-Queensway,Person in Crisis,11,Etobicoke York
+2014,160,Mimico-Queensway,Suicide-related,6,Etobicoke York
+2014,161,Humber Bay Shores,Person in Crisis,5,Etobicoke York
+2014,161,Humber Bay Shores,Suicide-related,2,Etobicoke York
+2014,162,West Queen West,Overdose,5,Downtown Toronto and East York
+2014,162,West Queen West,Person in Crisis,56,Downtown Toronto and East York
+2014,162,West Queen West,Suicide-related,6,Downtown Toronto and East York
+2014,163,Fort York-Liberty Village,Overdose,2,Downtown Toronto and East York
+2014,163,Fort York-Liberty Village,Person in Crisis,10,Downtown Toronto and East York
+2014,163,Fort York-Liberty Village,Suicide-related,14,Downtown Toronto and East York
+2014,164,Wellington Place,Overdose,2,Downtown Toronto and East York
+2014,164,Wellington Place,Person in Crisis,30,Downtown Toronto and East York
+2014,164,Wellington Place,Suicide-related,11,Downtown Toronto and East York
+2014,165,Harbourfront-CityPlace,Overdose,2,Downtown Toronto and East York
+2014,165,Harbourfront-CityPlace,Person in Crisis,18,Downtown Toronto and East York
+2014,165,Harbourfront-CityPlace,Suicide-related,8,Downtown Toronto and East York
+2014,166,St Lawrence-East Bayfront-The Islands,Person in Crisis,33,Downtown Toronto and East York
+2014,166,St Lawrence-East Bayfront-The Islands,Suicide-related,20,Downtown Toronto and East York
+2014,167,Church-Wellesley,Overdose,1,Downtown Toronto and East York
+2014,167,Church-Wellesley,Person in Crisis,30,Downtown Toronto and East York
+2014,167,Church-Wellesley,Suicide-related,15,Downtown Toronto and East York
+2014,168,Downtown Yonge East,Overdose,9,Downtown Toronto and East York
+2014,168,Downtown Yonge East,Person in Crisis,73,Downtown Toronto and East York
+2014,168,Downtown Yonge East,Suicide-related,23,Downtown Toronto and East York
+2014,169,Bay-Cloverhill,Overdose,2,Downtown Toronto and East York
+2014,169,Bay-Cloverhill,Person in Crisis,36,Downtown Toronto and East York
+2014,169,Bay-Cloverhill,Suicide-related,5,Downtown Toronto and East York
+2014,170,Yonge-Bay Corridor,Overdose,7,Downtown Toronto and East York
+2014,170,Yonge-Bay Corridor,Person in Crisis,96,Downtown Toronto and East York
+2014,170,Yonge-Bay Corridor,Suicide-related,33,Downtown Toronto and East York
+2014,171,Junction-Wallace Emerson,Overdose,6,Downtown Toronto and East York
+2014,171,Junction-Wallace Emerson,Person in Crisis,17,Downtown Toronto and East York
+2014,171,Junction-Wallace Emerson,Suicide-related,18,Downtown Toronto and East York
+2014,172,Dovercourt Village,Overdose,2,Downtown Toronto and East York
+2014,172,Dovercourt Village,Person in Crisis,7,Downtown Toronto and East York
+2014,172,Dovercourt Village,Suicide-related,6,Downtown Toronto and East York
+2014,173,North Toronto,Overdose,1,Downtown Toronto and East York
+2014,173,North Toronto,Person in Crisis,6,Downtown Toronto and East York
+2014,173,North Toronto,Suicide-related,3,Downtown Toronto and East York
+2014,174,South Eglinton-Davisville,Person in Crisis,9,Downtown Toronto and East York
+2014,174,South Eglinton-Davisville,Suicide-related,7,Downtown Toronto and East York
+2014,NA,NSA,Person in Crisis,5,NA
+2014,NA,NSA,Suicide-related,4,NA
+2015,1,West Humber-Clairville,Overdose,2,Etobicoke York
+2015,1,West Humber-Clairville,Person in Crisis,30,Etobicoke York
+2015,1,West Humber-Clairville,Suicide-related,18,Etobicoke York
+2015,2,Mount Olive-Silverstone-Jamestown,Person in Crisis,24,Etobicoke York
+2015,2,Mount Olive-Silverstone-Jamestown,Suicide-related,13,Etobicoke York
+2015,3,Thistletown-Beaumond Heights,Person in Crisis,5,Etobicoke York
+2015,4,Rexdale-Kipling,Overdose,1,Etobicoke York
+2015,4,Rexdale-Kipling,Person in Crisis,5,Etobicoke York
+2015,4,Rexdale-Kipling,Suicide-related,3,Etobicoke York
+2015,5,Elms-Old Rexdale,Overdose,1,Etobicoke York
+2015,5,Elms-Old Rexdale,Person in Crisis,3,Etobicoke York
+2015,5,Elms-Old Rexdale,Suicide-related,1,Etobicoke York
+2015,6,Kingsview Village-The Westway,Overdose,1,Etobicoke York
+2015,6,Kingsview Village-The Westway,Person in Crisis,9,Etobicoke York
+2015,6,Kingsview Village-The Westway,Suicide-related,11,Etobicoke York
+2015,7,Willowridge-Martingrove-Richview,Overdose,1,Etobicoke York
+2015,7,Willowridge-Martingrove-Richview,Person in Crisis,12,Etobicoke York
+2015,7,Willowridge-Martingrove-Richview,Suicide-related,5,Etobicoke York
+2015,8,Humber Heights-Westmount,Person in Crisis,7,Etobicoke York
+2015,8,Humber Heights-Westmount,Suicide-related,3,Etobicoke York
+2015,9,Edenbridge-Humber Valley,Person in Crisis,2,Etobicoke York
+2015,9,Edenbridge-Humber Valley,Suicide-related,2,Etobicoke York
+2015,10,Princess-Rosethorn,Person in Crisis,1,Etobicoke York
+2015,10,Princess-Rosethorn,Suicide-related,4,Etobicoke York
+2015,11,Eringate-Centennial-West Deane,Overdose,1,Etobicoke York
+2015,11,Eringate-Centennial-West Deane,Person in Crisis,7,Etobicoke York
+2015,11,Eringate-Centennial-West Deane,Suicide-related,1,Etobicoke York
+2015,12,Markland Wood,Overdose,3,Etobicoke York
+2015,12,Markland Wood,Person in Crisis,1,Etobicoke York
+2015,13,Etobicoke West Mall,Person in Crisis,4,Etobicoke York
+2015,13,Etobicoke West Mall,Suicide-related,2,Etobicoke York
+2015,15,Kingsway South,Person in Crisis,2,Etobicoke York
+2015,15,Kingsway South,Suicide-related,1,Etobicoke York
+2015,16,Stonegate-Queensway,Overdose,3,Etobicoke York
+2015,16,Stonegate-Queensway,Person in Crisis,12,Etobicoke York
+2015,16,Stonegate-Queensway,Suicide-related,4,Etobicoke York
+2015,18,New Toronto,Person in Crisis,9,Etobicoke York
+2015,18,New Toronto,Suicide-related,4,Etobicoke York
+2015,19,Long Branch,Person in Crisis,1,Etobicoke York
+2015,19,Long Branch,Suicide-related,2,Etobicoke York
+2015,20,Alderwood,Person in Crisis,1,Etobicoke York
+2015,20,Alderwood,Suicide-related,1,Etobicoke York
+2015,21,Humber Summit,Overdose,1,Etobicoke York
+2015,21,Humber Summit,Person in Crisis,5,Etobicoke York
+2015,21,Humber Summit,Suicide-related,3,Etobicoke York
+2015,22,Humbermede,Overdose,1,Etobicoke York
+2015,22,Humbermede,Person in Crisis,11,Etobicoke York
+2015,22,Humbermede,Suicide-related,8,Etobicoke York
+2015,23,Pelmo Park-Humberlea,Overdose,2,Etobicoke York
+2015,23,Pelmo Park-Humberlea,Person in Crisis,3,Etobicoke York
+2015,23,Pelmo Park-Humberlea,Suicide-related,6,Etobicoke York
+2015,24,Black Creek,Overdose,2,Etobicoke York
+2015,24,Black Creek,Person in Crisis,11,Etobicoke York
+2015,24,Black Creek,Suicide-related,3,Etobicoke York
+2015,25,Glenfield-Jane Heights,Overdose,1,Etobicoke York
+2015,25,Glenfield-Jane Heights,Person in Crisis,32,Etobicoke York
+2015,25,Glenfield-Jane Heights,Suicide-related,8,Etobicoke York
+2015,27,York University Heights,Overdose,3,North York
+2015,27,York University Heights,Person in Crisis,33,North York
+2015,27,York University Heights,Suicide-related,15,North York
+2015,28,Rustic,Person in Crisis,9,North York
+2015,28,Rustic,Suicide-related,1,North York
+2015,29,Maple Leaf,Person in Crisis,1,North York
+2015,29,Maple Leaf,Suicide-related,1,North York
+2015,30,Brookhaven-Amesbury,Overdose,2,North York
+2015,30,Brookhaven-Amesbury,Person in Crisis,14,North York
+2015,30,Brookhaven-Amesbury,Suicide-related,6,North York
+2015,31,Yorkdale-Glen Park,Overdose,2,North York
+2015,31,Yorkdale-Glen Park,Person in Crisis,9,North York
+2015,31,Yorkdale-Glen Park,Suicide-related,7,North York
+2015,32,Englemount-Lawrence,Overdose,1,North York
+2015,32,Englemount-Lawrence,Person in Crisis,12,North York
+2015,32,Englemount-Lawrence,Suicide-related,10,North York
+2015,33,Clanton Park,Person in Crisis,6,North York
+2015,33,Clanton Park,Suicide-related,8,North York
+2015,34,Bathurst Manor,Overdose,3,North York
+2015,34,Bathurst Manor,Person in Crisis,6,North York
+2015,34,Bathurst Manor,Suicide-related,4,North York
+2015,35,Westminster-Branson,Overdose,1,North York
+2015,35,Westminster-Branson,Person in Crisis,25,North York
+2015,35,Westminster-Branson,Suicide-related,4,North York
+2015,36,Newtonbrook West,Overdose,4,North York
+2015,36,Newtonbrook West,Person in Crisis,16,North York
+2015,36,Newtonbrook West,Suicide-related,8,North York
+2015,37,Willowdale West,Overdose,2,North York
+2015,37,Willowdale West,Person in Crisis,15,North York
+2015,37,Willowdale West,Suicide-related,6,North York
+2015,38,Lansing-Westgate,Overdose,1,North York
+2015,38,Lansing-Westgate,Person in Crisis,7,North York
+2015,38,Lansing-Westgate,Suicide-related,7,North York
+2015,39,Bedford Park-Nortown,Person in Crisis,10,North York
+2015,39,Bedford Park-Nortown,Suicide-related,8,North York
+2015,40,St.Andrew-Windfields,Overdose,1,North York
+2015,40,St.Andrew-Windfields,Person in Crisis,8,North York
+2015,40,St.Andrew-Windfields,Suicide-related,9,North York
+2015,41,Bridle Path-Sunnybrook-York Mills,Person in Crisis,5,North York
+2015,41,Bridle Path-Sunnybrook-York Mills,Suicide-related,4,North York
+2015,42,Banbury-Don Mills,Overdose,1,North York
+2015,42,Banbury-Don Mills,Person in Crisis,13,North York
+2015,42,Banbury-Don Mills,Suicide-related,2,North York
+2015,43,Victoria Village,Overdose,2,North York
+2015,43,Victoria Village,Person in Crisis,13,North York
+2015,43,Victoria Village,Suicide-related,9,North York
+2015,44,Flemingdon Park,Overdose,2,North York
+2015,44,Flemingdon Park,Person in Crisis,6,North York
+2015,44,Flemingdon Park,Suicide-related,1,North York
+2015,46,Pleasant View,Person in Crisis,3,North York
+2015,46,Pleasant View,Suicide-related,6,North York
+2015,47,Don Valley Village,Person in Crisis,12,North York
+2015,47,Don Valley Village,Suicide-related,8,North York
+2015,48,Hillcrest Village,Suicide-related,2,North York
+2015,49,Bayview Woods-Steeles,Person in Crisis,2,North York
+2015,50,Newtonbrook East,Person in Crisis,2,North York
+2015,50,Newtonbrook East,Suicide-related,5,North York
+2015,52,Bayview Village,Person in Crisis,15,North York
+2015,52,Bayview Village,Suicide-related,9,North York
+2015,53,Henry Farm,Person in Crisis,9,North York
+2015,53,Henry Farm,Suicide-related,4,North York
+2015,54,O'Connor-Parkview,Overdose,5,North York
+2015,54,O'Connor-Parkview,Person in Crisis,14,North York
+2015,54,O'Connor-Parkview,Suicide-related,13,North York
+2015,55,Thorncliffe Park,Person in Crisis,16,North York
+2015,55,Thorncliffe Park,Suicide-related,6,North York
+2015,56,Leaside-Bennington,Person in Crisis,3,North York
+2015,56,Leaside-Bennington,Suicide-related,3,North York
+2015,57,Broadview North,Overdose,1,Downtown Toronto and East York
+2015,57,Broadview North,Person in Crisis,11,Downtown Toronto and East York
+2015,57,Broadview North,Suicide-related,10,Downtown Toronto and East York
+2015,58,Old East York,Person in Crisis,3,Downtown Toronto and East York
+2015,58,Old East York,Suicide-related,3,Downtown Toronto and East York
+2015,59,Danforth East York,Overdose,1,Downtown Toronto and East York
+2015,59,Danforth East York,Person in Crisis,10,Downtown Toronto and East York
+2015,59,Danforth East York,Suicide-related,4,Downtown Toronto and East York
+2015,60,Woodbine-Lumsden,Person in Crisis,3,Downtown Toronto and East York
+2015,60,Woodbine-Lumsden,Suicide-related,2,Downtown Toronto and East York
+2015,61,Taylor-Massey,Overdose,3,Downtown Toronto and East York
+2015,61,Taylor-Massey,Person in Crisis,11,Downtown Toronto and East York
+2015,61,Taylor-Massey,Suicide-related,4,Downtown Toronto and East York
+2015,62,East End-Danforth,Overdose,3,Downtown Toronto and East York
+2015,62,East End-Danforth,Person in Crisis,25,Downtown Toronto and East York
+2015,62,East End-Danforth,Suicide-related,12,Downtown Toronto and East York
+2015,63,The Beaches,Person in Crisis,18,Downtown Toronto and East York
+2015,63,The Beaches,Suicide-related,8,Downtown Toronto and East York
+2015,64,Woodbine Corridor,Overdose,1,Downtown Toronto and East York
+2015,64,Woodbine Corridor,Person in Crisis,8,Downtown Toronto and East York
+2015,64,Woodbine Corridor,Suicide-related,3,Downtown Toronto and East York
+2015,65,Greenwood-Coxwell,Overdose,3,Downtown Toronto and East York
+2015,65,Greenwood-Coxwell,Person in Crisis,20,Downtown Toronto and East York
+2015,65,Greenwood-Coxwell,Suicide-related,2,Downtown Toronto and East York
+2015,66,Danforth,Overdose,1,Downtown Toronto and East York
+2015,66,Danforth,Person in Crisis,1,Downtown Toronto and East York
+2015,66,Danforth,Suicide-related,3,Downtown Toronto and East York
+2015,67,Playter Estates-Danforth,Person in Crisis,6,Downtown Toronto and East York
+2015,67,Playter Estates-Danforth,Suicide-related,1,Downtown Toronto and East York
+2015,68,North Riverdale,Overdose,2,Downtown Toronto and East York
+2015,68,North Riverdale,Person in Crisis,16,Downtown Toronto and East York
+2015,68,North Riverdale,Suicide-related,16,Downtown Toronto and East York
+2015,69,Blake-Jones,Overdose,3,Downtown Toronto and East York
+2015,69,Blake-Jones,Person in Crisis,12,Downtown Toronto and East York
+2015,69,Blake-Jones,Suicide-related,4,Downtown Toronto and East York
+2015,70,South Riverdale,Overdose,6,Downtown Toronto and East York
+2015,70,South Riverdale,Person in Crisis,54,Downtown Toronto and East York
+2015,70,South Riverdale,Suicide-related,20,Downtown Toronto and East York
+2015,71,Cabbagetown-South St.James Town,Overdose,5,Downtown Toronto and East York
+2015,71,Cabbagetown-South St.James Town,Person in Crisis,34,Downtown Toronto and East York
+2015,71,Cabbagetown-South St.James Town,Suicide-related,14,Downtown Toronto and East York
+2015,72,Regent Park,Person in Crisis,8,Downtown Toronto and East York
+2015,73,Moss Park,Overdose,9,Downtown Toronto and East York
+2015,73,Moss Park,Person in Crisis,101,Downtown Toronto and East York
+2015,73,Moss Park,Suicide-related,42,Downtown Toronto and East York
+2015,74,North St.James Town,Person in Crisis,10,Downtown Toronto and East York
+2015,74,North St.James Town,Suicide-related,6,Downtown Toronto and East York
+2015,78,Kensington-Chinatown,Overdose,12,Downtown Toronto and East York
+2015,78,Kensington-Chinatown,Person in Crisis,73,Downtown Toronto and East York
+2015,78,Kensington-Chinatown,Suicide-related,20,Downtown Toronto and East York
+2015,79,University,Overdose,3,Downtown Toronto and East York
+2015,79,University,Person in Crisis,17,Downtown Toronto and East York
+2015,79,University,Suicide-related,15,Downtown Toronto and East York
+2015,80,Palmerston-Little Italy,Overdose,2,Downtown Toronto and East York
+2015,80,Palmerston-Little Italy,Person in Crisis,10,Downtown Toronto and East York
+2015,80,Palmerston-Little Italy,Suicide-related,11,Downtown Toronto and East York
+2015,81,Trinity-Bellwoods,Overdose,1,Downtown Toronto and East York
+2015,81,Trinity-Bellwoods,Person in Crisis,32,Downtown Toronto and East York
+2015,81,Trinity-Bellwoods,Suicide-related,6,Downtown Toronto and East York
+2015,83,Dufferin Grove,Person in Crisis,13,Downtown Toronto and East York
+2015,83,Dufferin Grove,Suicide-related,14,Downtown Toronto and East York
+2015,84,Little Portugal,Overdose,3,Downtown Toronto and East York
+2015,84,Little Portugal,Person in Crisis,22,Downtown Toronto and East York
+2015,84,Little Portugal,Suicide-related,8,Downtown Toronto and East York
+2015,85,South Parkdale,Overdose,8,Downtown Toronto and East York
+2015,85,South Parkdale,Person in Crisis,92,Downtown Toronto and East York
+2015,85,South Parkdale,Suicide-related,24,Downtown Toronto and East York
+2015,86,Roncesvalles,Overdose,1,Downtown Toronto and East York
+2015,86,Roncesvalles,Person in Crisis,11,Downtown Toronto and East York
+2015,86,Roncesvalles,Suicide-related,2,Downtown Toronto and East York
+2015,87,High Park-Swansea,Overdose,2,Downtown Toronto and East York
+2015,87,High Park-Swansea,Person in Crisis,22,Downtown Toronto and East York
+2015,87,High Park-Swansea,Suicide-related,13,Downtown Toronto and East York
+2015,88,High Park North,Overdose,2,Downtown Toronto and East York
+2015,88,High Park North,Person in Crisis,11,Downtown Toronto and East York
+2015,88,High Park North,Suicide-related,13,Downtown Toronto and East York
+2015,89,Runnymede-Bloor West Village,Person in Crisis,4,Downtown Toronto and East York
+2015,89,Runnymede-Bloor West Village,Suicide-related,3,Downtown Toronto and East York
+2015,90,Junction Area,Person in Crisis,21,Downtown Toronto and East York
+2015,90,Junction Area,Suicide-related,12,Downtown Toronto and East York
+2015,91,Weston-Pelham Park,Overdose,2,Downtown Toronto and East York
+2015,91,Weston-Pelham Park,Person in Crisis,15,Downtown Toronto and East York
+2015,91,Weston-Pelham Park,Suicide-related,5,Downtown Toronto and East York
+2015,92,Corso Italia-Davenport,Overdose,2,Downtown Toronto and East York
+2015,92,Corso Italia-Davenport,Person in Crisis,11,Downtown Toronto and East York
+2015,92,Corso Italia-Davenport,Suicide-related,5,Downtown Toronto and East York
+2015,94,Wychwood,Overdose,6,Downtown Toronto and East York
+2015,94,Wychwood,Person in Crisis,11,Downtown Toronto and East York
+2015,94,Wychwood,Suicide-related,5,Downtown Toronto and East York
+2015,95,Annex,Overdose,5,Downtown Toronto and East York
+2015,95,Annex,Person in Crisis,25,Downtown Toronto and East York
+2015,95,Annex,Suicide-related,15,Downtown Toronto and East York
+2015,96,Casa Loma,Overdose,1,Downtown Toronto and East York
+2015,96,Casa Loma,Person in Crisis,8,Downtown Toronto and East York
+2015,96,Casa Loma,Suicide-related,5,Downtown Toronto and East York
+2015,97,Yonge-St.Clair,Overdose,1,Downtown Toronto and East York
+2015,97,Yonge-St.Clair,Person in Crisis,6,Downtown Toronto and East York
+2015,97,Yonge-St.Clair,Suicide-related,5,Downtown Toronto and East York
+2015,98,Rosedale-Moore Park,Overdose,4,Downtown Toronto and East York
+2015,98,Rosedale-Moore Park,Person in Crisis,11,Downtown Toronto and East York
+2015,98,Rosedale-Moore Park,Suicide-related,5,Downtown Toronto and East York
+2015,99,Mount Pleasant East,Overdose,1,Downtown Toronto and East York
+2015,99,Mount Pleasant East,Person in Crisis,7,Downtown Toronto and East York
+2015,99,Mount Pleasant East,Suicide-related,5,Downtown Toronto and East York
+2015,100,Yonge-Eglinton,Overdose,2,Downtown Toronto and East York
+2015,100,Yonge-Eglinton,Person in Crisis,17,Downtown Toronto and East York
+2015,100,Yonge-Eglinton,Suicide-related,8,Downtown Toronto and East York
+2015,101,Forest Hill South,Person in Crisis,5,Downtown Toronto and East York
+2015,101,Forest Hill South,Suicide-related,4,Downtown Toronto and East York
+2015,102,Forest Hill North,Overdose,1,Downtown Toronto and East York
+2015,102,Forest Hill North,Person in Crisis,7,Downtown Toronto and East York
+2015,102,Forest Hill North,Suicide-related,3,Downtown Toronto and East York
+2015,103,Lawrence Park South,Person in Crisis,3,Downtown Toronto and East York
+2015,103,Lawrence Park South,Suicide-related,4,Downtown Toronto and East York
+2015,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
+2015,105,Lawrence Park North,Person in Crisis,1,Downtown Toronto and East York
+2015,106,Humewood-Cedarvale,Person in Crisis,5,Downtown Toronto and East York
+2015,106,Humewood-Cedarvale,Suicide-related,5,Downtown Toronto and East York
+2015,107,Oakwood Village,Overdose,2,Downtown Toronto and East York
+2015,107,Oakwood Village,Person in Crisis,30,Downtown Toronto and East York
+2015,107,Oakwood Village,Suicide-related,13,Downtown Toronto and East York
+2015,108,Briar Hill-Belgravia,Overdose,1,Downtown Toronto and East York
+2015,108,Briar Hill-Belgravia,Person in Crisis,9,Downtown Toronto and East York
+2015,108,Briar Hill-Belgravia,Suicide-related,3,Downtown Toronto and East York
+2015,109,Caledonia-Fairbank,Overdose,3,Downtown Toronto and East York
+2015,109,Caledonia-Fairbank,Person in Crisis,6,Downtown Toronto and East York
+2015,109,Caledonia-Fairbank,Suicide-related,3,Downtown Toronto and East York
+2015,110,Keelesdale-Eglinton West,Overdose,4,Downtown Toronto and East York
+2015,110,Keelesdale-Eglinton West,Person in Crisis,16,Downtown Toronto and East York
+2015,110,Keelesdale-Eglinton West,Suicide-related,10,Downtown Toronto and East York
+2015,111,Rockcliffe-Smythe,Overdose,4,Downtown Toronto and East York
+2015,111,Rockcliffe-Smythe,Person in Crisis,21,Downtown Toronto and East York
+2015,111,Rockcliffe-Smythe,Suicide-related,6,Downtown Toronto and East York
+2015,112,Beechborough-Greenbrook,Overdose,1,Downtown Toronto and East York
+2015,112,Beechborough-Greenbrook,Person in Crisis,12,Downtown Toronto and East York
+2015,112,Beechborough-Greenbrook,Suicide-related,1,Downtown Toronto and East York
+2015,113,Weston,Overdose,4,Downtown Toronto and East York
+2015,113,Weston,Person in Crisis,23,Downtown Toronto and East York
+2015,113,Weston,Suicide-related,8,Downtown Toronto and East York
+2015,114,Lambton Baby Point,Person in Crisis,3,Downtown Toronto and East York
+2015,114,Lambton Baby Point,Suicide-related,1,Downtown Toronto and East York
+2015,115,Mount Dennis,Overdose,4,Downtown Toronto and East York
+2015,115,Mount Dennis,Person in Crisis,17,Downtown Toronto and East York
+2015,115,Mount Dennis,Suicide-related,6,Downtown Toronto and East York
+2015,116,Steeles,Person in Crisis,8,Scarborough
+2015,116,Steeles,Suicide-related,3,Scarborough
+2015,118,Tam O'Shanter-Sullivan,Person in Crisis,14,Scarborough
+2015,118,Tam O'Shanter-Sullivan,Suicide-related,9,Scarborough
+2015,119,Wexford/Maryvale,Overdose,3,Scarborough
+2015,119,Wexford/Maryvale,Person in Crisis,11,Scarborough
+2015,119,Wexford/Maryvale,Suicide-related,5,Scarborough
+2015,120,Clairlea-Birchmount,Person in Crisis,15,Scarborough
+2015,120,Clairlea-Birchmount,Suicide-related,12,Scarborough
+2015,121,Oakridge,Overdose,1,Scarborough
+2015,121,Oakridge,Person in Crisis,12,Scarborough
+2015,121,Oakridge,Suicide-related,7,Scarborough
+2015,122,Birchcliffe-Cliffside,Person in Crisis,9,Scarborough
+2015,122,Birchcliffe-Cliffside,Suicide-related,12,Scarborough
+2015,123,Cliffcrest,Overdose,1,Scarborough
+2015,123,Cliffcrest,Person in Crisis,8,Scarborough
+2015,123,Cliffcrest,Suicide-related,5,Scarborough
+2015,124,Kennedy Park,Overdose,2,Scarborough
+2015,124,Kennedy Park,Person in Crisis,31,Scarborough
+2015,124,Kennedy Park,Suicide-related,15,Scarborough
+2015,125,Ionview,Person in Crisis,12,Scarborough
+2015,125,Ionview,Suicide-related,8,Scarborough
+2015,126,Dorset Park,Overdose,2,Scarborough
+2015,126,Dorset Park,Person in Crisis,16,Scarborough
+2015,126,Dorset Park,Suicide-related,7,Scarborough
+2015,128,Agincourt South-Malvern West,Person in Crisis,8,Scarborough
+2015,128,Agincourt South-Malvern West,Suicide-related,5,Scarborough
+2015,129,Agincourt North,Overdose,2,Scarborough
+2015,129,Agincourt North,Person in Crisis,9,Scarborough
+2015,129,Agincourt North,Suicide-related,1,Scarborough
+2015,130,Milliken,Overdose,1,Scarborough
+2015,130,Milliken,Person in Crisis,5,Scarborough
+2015,130,Milliken,Suicide-related,4,Scarborough
+2015,133,Centennial Scarborough,Overdose,2,Scarborough
+2015,133,Centennial Scarborough,Person in Crisis,8,Scarborough
+2015,133,Centennial Scarborough,Suicide-related,4,Scarborough
+2015,134,Highland Creek,Person in Crisis,5,Scarborough
+2015,134,Highland Creek,Suicide-related,4,Scarborough
+2015,135,Morningside,Person in Crisis,20,Scarborough
+2015,135,Morningside,Suicide-related,9,Scarborough
+2015,136,West Hill,Overdose,2,Scarborough
+2015,136,West Hill,Person in Crisis,44,Scarborough
+2015,136,West Hill,Suicide-related,18,Scarborough
+2015,138,Eglinton East,Overdose,1,Scarborough
+2015,138,Eglinton East,Person in Crisis,17,Scarborough
+2015,138,Eglinton East,Suicide-related,5,Scarborough
+2015,139,Scarborough Village,Overdose,3,Scarborough
+2015,139,Scarborough Village,Person in Crisis,13,Scarborough
+2015,139,Scarborough Village,Suicide-related,7,Scarborough
+2015,140,Guildwood,Person in Crisis,5,Scarborough
+2015,140,Guildwood,Suicide-related,3,Scarborough
+2015,141,Golfdale-Cedarbrae-Woburn,Overdose,2,Scarborough
+2015,141,Golfdale-Cedarbrae-Woburn,Person in Crisis,16,Scarborough
+2015,141,Golfdale-Cedarbrae-Woburn,Suicide-related,3,Scarborough
+2015,142,Woburn North,Person in Crisis,8,Scarborough
+2015,142,Woburn North,Suicide-related,4,Scarborough
+2015,143,West Rouge,Overdose,3,Scarborough
+2015,143,West Rouge,Person in Crisis,9,Scarborough
+2015,143,West Rouge,Suicide-related,2,Scarborough
+2015,144,Morningside Heights,Person in Crisis,7,Scarborough
+2015,144,Morningside Heights,Suicide-related,5,Scarborough
+2015,145,Malvern West,Overdose,1,Scarborough
+2015,145,Malvern West,Person in Crisis,12,Scarborough
+2015,145,Malvern West,Suicide-related,6,Scarborough
+2015,146,Malvern East,Overdose,4,Scarborough
+2015,146,Malvern East,Person in Crisis,13,Scarborough
+2015,146,Malvern East,Suicide-related,6,Scarborough
+2015,147,L'Amoreaux West,Person in Crisis,8,Scarborough
+2015,147,L'Amoreaux West,Suicide-related,5,Scarborough
+2015,148,East L'Amoreaux,Person in Crisis,8,Scarborough
+2015,148,East L'Amoreaux,Suicide-related,5,Scarborough
+2015,149,Parkwoods-O'Connor Hills,Overdose,1,North York
+2015,149,Parkwoods-O'Connor Hills,Person in Crisis,6,North York
+2015,149,Parkwoods-O'Connor Hills,Suicide-related,1,North York
+2015,150,Fenside-Parkwoods,Person in Crisis,10,North York
+2015,150,Fenside-Parkwoods,Suicide-related,8,North York
+2015,151,Yonge-Doris,Person in Crisis,4,North York
+2015,151,Yonge-Doris,Suicide-related,5,North York
+2015,152,East Willowdale,Overdose,1,North York
+2015,152,East Willowdale,Person in Crisis,7,North York
+2015,152,East Willowdale,Suicide-related,4,North York
+2015,153,Avondale,Person in Crisis,3,North York
+2015,153,Avondale,Suicide-related,3,North York
+2015,154,Oakdale-Beverley Heights,Overdose,1,North York
+2015,154,Oakdale-Beverley Heights,Person in Crisis,25,North York
+2015,154,Oakdale-Beverley Heights,Suicide-related,8,North York
+2015,155,Downsview,Overdose,1,North York
+2015,155,Downsview,Person in Crisis,12,North York
+2015,155,Downsview,Suicide-related,11,North York
+2015,156,Bendale-Glen Andrew,Overdose,1,Scarborough
+2015,156,Bendale-Glen Andrew,Person in Crisis,8,Scarborough
+2015,156,Bendale-Glen Andrew,Suicide-related,4,Scarborough
+2015,157,Bendale South,Person in Crisis,7,Scarborough
+2015,157,Bendale South,Suicide-related,6,Scarborough
+2015,158,Islington,Overdose,1,Etobicoke York
+2015,158,Islington,Person in Crisis,10,Etobicoke York
+2015,158,Islington,Suicide-related,7,Etobicoke York
+2015,159,Etobicoke City Centre,Overdose,1,Etobicoke York
+2015,159,Etobicoke City Centre,Person in Crisis,29,Etobicoke York
+2015,159,Etobicoke City Centre,Suicide-related,12,Etobicoke York
+2015,160,Mimico-Queensway,Overdose,3,Etobicoke York
+2015,160,Mimico-Queensway,Person in Crisis,9,Etobicoke York
+2015,160,Mimico-Queensway,Suicide-related,9,Etobicoke York
+2015,161,Humber Bay Shores,Overdose,2,Etobicoke York
+2015,161,Humber Bay Shores,Person in Crisis,3,Etobicoke York
+2015,161,Humber Bay Shores,Suicide-related,4,Etobicoke York
+2015,162,West Queen West,Overdose,4,Downtown Toronto and East York
+2015,162,West Queen West,Person in Crisis,61,Downtown Toronto and East York
+2015,162,West Queen West,Suicide-related,16,Downtown Toronto and East York
+2015,163,Fort York-Liberty Village,Overdose,2,Downtown Toronto and East York
+2015,163,Fort York-Liberty Village,Person in Crisis,13,Downtown Toronto and East York
+2015,163,Fort York-Liberty Village,Suicide-related,9,Downtown Toronto and East York
+2015,164,Wellington Place,Overdose,6,Downtown Toronto and East York
+2015,164,Wellington Place,Person in Crisis,25,Downtown Toronto and East York
+2015,164,Wellington Place,Suicide-related,14,Downtown Toronto and East York
+2015,165,Harbourfront-CityPlace,Overdose,2,Downtown Toronto and East York
+2015,165,Harbourfront-CityPlace,Person in Crisis,9,Downtown Toronto and East York
+2015,165,Harbourfront-CityPlace,Suicide-related,8,Downtown Toronto and East York
+2015,166,St Lawrence-East Bayfront-The Islands,Overdose,4,Downtown Toronto and East York
+2015,166,St Lawrence-East Bayfront-The Islands,Person in Crisis,36,Downtown Toronto and East York
+2015,166,St Lawrence-East Bayfront-The Islands,Suicide-related,28,Downtown Toronto and East York
+2015,167,Church-Wellesley,Overdose,3,Downtown Toronto and East York
+2015,167,Church-Wellesley,Person in Crisis,40,Downtown Toronto and East York
+2015,167,Church-Wellesley,Suicide-related,16,Downtown Toronto and East York
+2015,168,Downtown Yonge East,Overdose,7,Downtown Toronto and East York
+2015,168,Downtown Yonge East,Person in Crisis,64,Downtown Toronto and East York
+2015,168,Downtown Yonge East,Suicide-related,20,Downtown Toronto and East York
+2015,169,Bay-Cloverhill,Overdose,3,Downtown Toronto and East York
+2015,169,Bay-Cloverhill,Person in Crisis,33,Downtown Toronto and East York
+2015,169,Bay-Cloverhill,Suicide-related,6,Downtown Toronto and East York
+2015,170,Yonge-Bay Corridor,Overdose,4,Downtown Toronto and East York
+2015,170,Yonge-Bay Corridor,Person in Crisis,105,Downtown Toronto and East York
+2015,170,Yonge-Bay Corridor,Suicide-related,36,Downtown Toronto and East York
+2015,171,Junction-Wallace Emerson,Person in Crisis,10,Downtown Toronto and East York
+2015,171,Junction-Wallace Emerson,Suicide-related,9,Downtown Toronto and East York
+2015,172,Dovercourt Village,Overdose,1,Downtown Toronto and East York
+2015,172,Dovercourt Village,Person in Crisis,7,Downtown Toronto and East York
+2015,172,Dovercourt Village,Suicide-related,6,Downtown Toronto and East York
+2015,173,North Toronto,Overdose,1,Downtown Toronto and East York
+2015,173,North Toronto,Person in Crisis,2,Downtown Toronto and East York
+2015,173,North Toronto,Suicide-related,5,Downtown Toronto and East York
+2015,174,South Eglinton-Davisville,Person in Crisis,13,Downtown Toronto and East York
+2015,174,South Eglinton-Davisville,Suicide-related,8,Downtown Toronto and East York
+2015,NA,NSA,Overdose,1,NA
+2015,NA,NSA,Person in Crisis,4,NA
+2015,NA,NSA,Suicide-related,6,NA
+2016,1,West Humber-Clairville,Overdose,4,Etobicoke York
+2016,1,West Humber-Clairville,Person in Crisis,36,Etobicoke York
+2016,1,West Humber-Clairville,Suicide-related,23,Etobicoke York
+2016,2,Mount Olive-Silverstone-Jamestown,Overdose,1,Etobicoke York
+2016,2,Mount Olive-Silverstone-Jamestown,Person in Crisis,20,Etobicoke York
+2016,2,Mount Olive-Silverstone-Jamestown,Suicide-related,18,Etobicoke York
+2016,3,Thistletown-Beaumond Heights,Overdose,1,Etobicoke York
+2016,3,Thistletown-Beaumond Heights,Person in Crisis,12,Etobicoke York
+2016,3,Thistletown-Beaumond Heights,Suicide-related,1,Etobicoke York
+2016,4,Rexdale-Kipling,Overdose,1,Etobicoke York
+2016,4,Rexdale-Kipling,Person in Crisis,10,Etobicoke York
+2016,5,Elms-Old Rexdale,Overdose,1,Etobicoke York
+2016,5,Elms-Old Rexdale,Person in Crisis,6,Etobicoke York
+2016,5,Elms-Old Rexdale,Suicide-related,3,Etobicoke York
+2016,6,Kingsview Village-The Westway,Overdose,2,Etobicoke York
+2016,6,Kingsview Village-The Westway,Person in Crisis,8,Etobicoke York
+2016,6,Kingsview Village-The Westway,Suicide-related,8,Etobicoke York
+2016,7,Willowridge-Martingrove-Richview,Overdose,4,Etobicoke York
+2016,7,Willowridge-Martingrove-Richview,Person in Crisis,12,Etobicoke York
+2016,7,Willowridge-Martingrove-Richview,Suicide-related,5,Etobicoke York
+2016,8,Humber Heights-Westmount,Person in Crisis,8,Etobicoke York
+2016,8,Humber Heights-Westmount,Suicide-related,3,Etobicoke York
+2016,9,Edenbridge-Humber Valley,Overdose,3,Etobicoke York
+2016,9,Edenbridge-Humber Valley,Person in Crisis,3,Etobicoke York
+2016,9,Edenbridge-Humber Valley,Suicide-related,2,Etobicoke York
+2016,10,Princess-Rosethorn,Person in Crisis,3,Etobicoke York
+2016,10,Princess-Rosethorn,Suicide-related,3,Etobicoke York
+2016,11,Eringate-Centennial-West Deane,Person in Crisis,11,Etobicoke York
+2016,11,Eringate-Centennial-West Deane,Suicide-related,5,Etobicoke York
+2016,12,Markland Wood,Overdose,1,Etobicoke York
+2016,12,Markland Wood,Person in Crisis,2,Etobicoke York
+2016,12,Markland Wood,Suicide-related,4,Etobicoke York
+2016,13,Etobicoke West Mall,Overdose,1,Etobicoke York
+2016,13,Etobicoke West Mall,Person in Crisis,10,Etobicoke York
+2016,13,Etobicoke West Mall,Suicide-related,4,Etobicoke York
+2016,15,Kingsway South,Person in Crisis,5,Etobicoke York
+2016,15,Kingsway South,Suicide-related,3,Etobicoke York
+2016,16,Stonegate-Queensway,Overdose,3,Etobicoke York
+2016,16,Stonegate-Queensway,Person in Crisis,13,Etobicoke York
+2016,16,Stonegate-Queensway,Suicide-related,7,Etobicoke York
+2016,18,New Toronto,Overdose,3,Etobicoke York
+2016,18,New Toronto,Person in Crisis,8,Etobicoke York
+2016,18,New Toronto,Suicide-related,9,Etobicoke York
+2016,19,Long Branch,Overdose,1,Etobicoke York
+2016,19,Long Branch,Person in Crisis,11,Etobicoke York
+2016,19,Long Branch,Suicide-related,4,Etobicoke York
+2016,20,Alderwood,Overdose,1,Etobicoke York
+2016,20,Alderwood,Person in Crisis,5,Etobicoke York
+2016,20,Alderwood,Suicide-related,5,Etobicoke York
+2016,21,Humber Summit,Overdose,1,Etobicoke York
+2016,21,Humber Summit,Person in Crisis,4,Etobicoke York
+2016,21,Humber Summit,Suicide-related,2,Etobicoke York
+2016,22,Humbermede,Overdose,2,Etobicoke York
+2016,22,Humbermede,Person in Crisis,10,Etobicoke York
+2016,22,Humbermede,Suicide-related,4,Etobicoke York
+2016,23,Pelmo Park-Humberlea,Person in Crisis,5,Etobicoke York
+2016,23,Pelmo Park-Humberlea,Suicide-related,2,Etobicoke York
+2016,24,Black Creek,Overdose,2,Etobicoke York
+2016,24,Black Creek,Person in Crisis,10,Etobicoke York
+2016,24,Black Creek,Suicide-related,7,Etobicoke York
+2016,25,Glenfield-Jane Heights,Overdose,1,Etobicoke York
+2016,25,Glenfield-Jane Heights,Person in Crisis,31,Etobicoke York
+2016,25,Glenfield-Jane Heights,Suicide-related,14,Etobicoke York
+2016,27,York University Heights,Overdose,4,North York
+2016,27,York University Heights,Person in Crisis,30,North York
+2016,27,York University Heights,Suicide-related,18,North York
+2016,28,Rustic,Person in Crisis,6,North York
+2016,28,Rustic,Suicide-related,4,North York
+2016,29,Maple Leaf,Overdose,1,North York
+2016,29,Maple Leaf,Person in Crisis,2,North York
+2016,29,Maple Leaf,Suicide-related,4,North York
+2016,30,Brookhaven-Amesbury,Person in Crisis,17,North York
+2016,30,Brookhaven-Amesbury,Suicide-related,10,North York
+2016,31,Yorkdale-Glen Park,Overdose,4,North York
+2016,31,Yorkdale-Glen Park,Person in Crisis,17,North York
+2016,31,Yorkdale-Glen Park,Suicide-related,11,North York
+2016,32,Englemount-Lawrence,Person in Crisis,16,North York
+2016,32,Englemount-Lawrence,Suicide-related,11,North York
+2016,33,Clanton Park,Overdose,4,North York
+2016,33,Clanton Park,Person in Crisis,13,North York
+2016,33,Clanton Park,Suicide-related,9,North York
+2016,34,Bathurst Manor,Overdose,1,North York
+2016,34,Bathurst Manor,Person in Crisis,4,North York
+2016,34,Bathurst Manor,Suicide-related,3,North York
+2016,35,Westminster-Branson,Overdose,3,North York
+2016,35,Westminster-Branson,Person in Crisis,10,North York
+2016,35,Westminster-Branson,Suicide-related,11,North York
+2016,36,Newtonbrook West,Overdose,1,North York
+2016,36,Newtonbrook West,Person in Crisis,15,North York
+2016,36,Newtonbrook West,Suicide-related,4,North York
+2016,37,Willowdale West,Overdose,1,North York
+2016,37,Willowdale West,Person in Crisis,21,North York
+2016,37,Willowdale West,Suicide-related,11,North York
+2016,38,Lansing-Westgate,Overdose,3,North York
+2016,38,Lansing-Westgate,Person in Crisis,8,North York
+2016,38,Lansing-Westgate,Suicide-related,12,North York
+2016,39,Bedford Park-Nortown,Person in Crisis,9,North York
+2016,39,Bedford Park-Nortown,Suicide-related,10,North York
+2016,40,St.Andrew-Windfields,Overdose,1,North York
+2016,40,St.Andrew-Windfields,Person in Crisis,12,North York
+2016,40,St.Andrew-Windfields,Suicide-related,8,North York
+2016,41,Bridle Path-Sunnybrook-York Mills,Person in Crisis,8,North York
+2016,41,Bridle Path-Sunnybrook-York Mills,Suicide-related,1,North York
+2016,42,Banbury-Don Mills,Overdose,3,North York
+2016,42,Banbury-Don Mills,Person in Crisis,17,North York
+2016,42,Banbury-Don Mills,Suicide-related,7,North York
+2016,43,Victoria Village,Overdose,2,North York
+2016,43,Victoria Village,Person in Crisis,16,North York
+2016,43,Victoria Village,Suicide-related,9,North York
+2016,44,Flemingdon Park,Overdose,2,North York
+2016,44,Flemingdon Park,Person in Crisis,16,North York
+2016,44,Flemingdon Park,Suicide-related,5,North York
+2016,46,Pleasant View,Overdose,3,North York
+2016,46,Pleasant View,Person in Crisis,2,North York
+2016,46,Pleasant View,Suicide-related,1,North York
+2016,47,Don Valley Village,Overdose,2,North York
+2016,47,Don Valley Village,Person in Crisis,14,North York
+2016,47,Don Valley Village,Suicide-related,11,North York
+2016,48,Hillcrest Village,Person in Crisis,10,North York
+2016,48,Hillcrest Village,Suicide-related,4,North York
+2016,49,Bayview Woods-Steeles,Overdose,1,North York
+2016,49,Bayview Woods-Steeles,Person in Crisis,3,North York
+2016,49,Bayview Woods-Steeles,Suicide-related,3,North York
+2016,50,Newtonbrook East,Person in Crisis,1,North York
+2016,50,Newtonbrook East,Suicide-related,3,North York
+2016,52,Bayview Village,Overdose,1,North York
+2016,52,Bayview Village,Person in Crisis,19,North York
+2016,52,Bayview Village,Suicide-related,6,North York
+2016,53,Henry Farm,Overdose,2,North York
+2016,53,Henry Farm,Person in Crisis,13,North York
+2016,53,Henry Farm,Suicide-related,4,North York
+2016,54,O'Connor-Parkview,Overdose,5,North York
+2016,54,O'Connor-Parkview,Person in Crisis,22,North York
+2016,54,O'Connor-Parkview,Suicide-related,17,North York
+2016,55,Thorncliffe Park,Overdose,1,North York
+2016,55,Thorncliffe Park,Person in Crisis,6,North York
+2016,55,Thorncliffe Park,Suicide-related,5,North York
+2016,56,Leaside-Bennington,Person in Crisis,1,North York
+2016,56,Leaside-Bennington,Suicide-related,4,North York
+2016,57,Broadview North,Person in Crisis,4,Downtown Toronto and East York
+2016,57,Broadview North,Suicide-related,7,Downtown Toronto and East York
+2016,58,Old East York,Overdose,1,Downtown Toronto and East York
+2016,58,Old East York,Person in Crisis,2,Downtown Toronto and East York
+2016,58,Old East York,Suicide-related,2,Downtown Toronto and East York
+2016,59,Danforth East York,Overdose,1,Downtown Toronto and East York
+2016,59,Danforth East York,Person in Crisis,15,Downtown Toronto and East York
+2016,59,Danforth East York,Suicide-related,6,Downtown Toronto and East York
+2016,60,Woodbine-Lumsden,Person in Crisis,6,Downtown Toronto and East York
+2016,60,Woodbine-Lumsden,Suicide-related,1,Downtown Toronto and East York
+2016,61,Taylor-Massey,Overdose,2,Downtown Toronto and East York
+2016,61,Taylor-Massey,Person in Crisis,19,Downtown Toronto and East York
+2016,61,Taylor-Massey,Suicide-related,13,Downtown Toronto and East York
+2016,62,East End-Danforth,Overdose,2,Downtown Toronto and East York
+2016,62,East End-Danforth,Person in Crisis,31,Downtown Toronto and East York
+2016,62,East End-Danforth,Suicide-related,8,Downtown Toronto and East York
+2016,63,The Beaches,Overdose,4,Downtown Toronto and East York
+2016,63,The Beaches,Person in Crisis,33,Downtown Toronto and East York
+2016,63,The Beaches,Suicide-related,14,Downtown Toronto and East York
+2016,64,Woodbine Corridor,Overdose,1,Downtown Toronto and East York
+2016,64,Woodbine Corridor,Person in Crisis,16,Downtown Toronto and East York
+2016,64,Woodbine Corridor,Suicide-related,9,Downtown Toronto and East York
+2016,65,Greenwood-Coxwell,Overdose,6,Downtown Toronto and East York
+2016,65,Greenwood-Coxwell,Person in Crisis,23,Downtown Toronto and East York
+2016,65,Greenwood-Coxwell,Suicide-related,5,Downtown Toronto and East York
+2016,66,Danforth,Person in Crisis,4,Downtown Toronto and East York
+2016,66,Danforth,Suicide-related,2,Downtown Toronto and East York
+2016,67,Playter Estates-Danforth,Person in Crisis,2,Downtown Toronto and East York
+2016,67,Playter Estates-Danforth,Suicide-related,3,Downtown Toronto and East York
+2016,68,North Riverdale,Overdose,2,Downtown Toronto and East York
+2016,68,North Riverdale,Person in Crisis,26,Downtown Toronto and East York
+2016,68,North Riverdale,Suicide-related,12,Downtown Toronto and East York
+2016,69,Blake-Jones,Person in Crisis,14,Downtown Toronto and East York
+2016,69,Blake-Jones,Suicide-related,11,Downtown Toronto and East York
+2016,70,South Riverdale,Overdose,6,Downtown Toronto and East York
+2016,70,South Riverdale,Person in Crisis,47,Downtown Toronto and East York
+2016,70,South Riverdale,Suicide-related,11,Downtown Toronto and East York
+2016,71,Cabbagetown-South St.James Town,Overdose,8,Downtown Toronto and East York
+2016,71,Cabbagetown-South St.James Town,Person in Crisis,33,Downtown Toronto and East York
+2016,71,Cabbagetown-South St.James Town,Suicide-related,14,Downtown Toronto and East York
+2016,72,Regent Park,Overdose,3,Downtown Toronto and East York
+2016,72,Regent Park,Person in Crisis,15,Downtown Toronto and East York
+2016,72,Regent Park,Suicide-related,7,Downtown Toronto and East York
+2016,73,Moss Park,Overdose,24,Downtown Toronto and East York
+2016,73,Moss Park,Person in Crisis,154,Downtown Toronto and East York
+2016,73,Moss Park,Suicide-related,40,Downtown Toronto and East York
+2016,74,North St.James Town,Overdose,2,Downtown Toronto and East York
+2016,74,North St.James Town,Person in Crisis,22,Downtown Toronto and East York
+2016,74,North St.James Town,Suicide-related,16,Downtown Toronto and East York
+2016,78,Kensington-Chinatown,Overdose,15,Downtown Toronto and East York
+2016,78,Kensington-Chinatown,Person in Crisis,95,Downtown Toronto and East York
+2016,78,Kensington-Chinatown,Suicide-related,31,Downtown Toronto and East York
+2016,79,University,Overdose,1,Downtown Toronto and East York
+2016,79,University,Person in Crisis,23,Downtown Toronto and East York
+2016,79,University,Suicide-related,15,Downtown Toronto and East York
+2016,80,Palmerston-Little Italy,Overdose,2,Downtown Toronto and East York
+2016,80,Palmerston-Little Italy,Person in Crisis,13,Downtown Toronto and East York
+2016,80,Palmerston-Little Italy,Suicide-related,8,Downtown Toronto and East York
+2016,81,Trinity-Bellwoods,Overdose,3,Downtown Toronto and East York
+2016,81,Trinity-Bellwoods,Person in Crisis,35,Downtown Toronto and East York
+2016,81,Trinity-Bellwoods,Suicide-related,7,Downtown Toronto and East York
+2016,83,Dufferin Grove,Overdose,4,Downtown Toronto and East York
+2016,83,Dufferin Grove,Person in Crisis,31,Downtown Toronto and East York
+2016,83,Dufferin Grove,Suicide-related,10,Downtown Toronto and East York
+2016,84,Little Portugal,Overdose,1,Downtown Toronto and East York
+2016,84,Little Portugal,Person in Crisis,16,Downtown Toronto and East York
+2016,84,Little Portugal,Suicide-related,8,Downtown Toronto and East York
+2016,85,South Parkdale,Overdose,4,Downtown Toronto and East York
+2016,85,South Parkdale,Person in Crisis,89,Downtown Toronto and East York
+2016,85,South Parkdale,Suicide-related,23,Downtown Toronto and East York
+2016,86,Roncesvalles,Overdose,1,Downtown Toronto and East York
+2016,86,Roncesvalles,Person in Crisis,8,Downtown Toronto and East York
+2016,86,Roncesvalles,Suicide-related,2,Downtown Toronto and East York
+2016,87,High Park-Swansea,Overdose,2,Downtown Toronto and East York
+2016,87,High Park-Swansea,Person in Crisis,39,Downtown Toronto and East York
+2016,87,High Park-Swansea,Suicide-related,18,Downtown Toronto and East York
+2016,88,High Park North,Overdose,3,Downtown Toronto and East York
+2016,88,High Park North,Person in Crisis,9,Downtown Toronto and East York
+2016,88,High Park North,Suicide-related,10,Downtown Toronto and East York
+2016,89,Runnymede-Bloor West Village,Overdose,2,Downtown Toronto and East York
+2016,89,Runnymede-Bloor West Village,Person in Crisis,9,Downtown Toronto and East York
+2016,89,Runnymede-Bloor West Village,Suicide-related,4,Downtown Toronto and East York
+2016,90,Junction Area,Person in Crisis,29,Downtown Toronto and East York
+2016,90,Junction Area,Suicide-related,4,Downtown Toronto and East York
+2016,91,Weston-Pelham Park,Overdose,1,Downtown Toronto and East York
+2016,91,Weston-Pelham Park,Person in Crisis,15,Downtown Toronto and East York
+2016,91,Weston-Pelham Park,Suicide-related,5,Downtown Toronto and East York
+2016,92,Corso Italia-Davenport,Overdose,2,Downtown Toronto and East York
+2016,92,Corso Italia-Davenport,Person in Crisis,18,Downtown Toronto and East York
+2016,92,Corso Italia-Davenport,Suicide-related,4,Downtown Toronto and East York
+2016,94,Wychwood,Overdose,3,Downtown Toronto and East York
+2016,94,Wychwood,Person in Crisis,27,Downtown Toronto and East York
+2016,94,Wychwood,Suicide-related,11,Downtown Toronto and East York
+2016,95,Annex,Overdose,3,Downtown Toronto and East York
+2016,95,Annex,Person in Crisis,31,Downtown Toronto and East York
+2016,95,Annex,Suicide-related,14,Downtown Toronto and East York
+2016,96,Casa Loma,Person in Crisis,9,Downtown Toronto and East York
+2016,96,Casa Loma,Suicide-related,2,Downtown Toronto and East York
+2016,97,Yonge-St.Clair,Overdose,1,Downtown Toronto and East York
+2016,97,Yonge-St.Clair,Person in Crisis,7,Downtown Toronto and East York
+2016,97,Yonge-St.Clair,Suicide-related,9,Downtown Toronto and East York
+2016,98,Rosedale-Moore Park,Overdose,3,Downtown Toronto and East York
+2016,98,Rosedale-Moore Park,Person in Crisis,16,Downtown Toronto and East York
+2016,98,Rosedale-Moore Park,Suicide-related,5,Downtown Toronto and East York
+2016,99,Mount Pleasant East,Person in Crisis,9,Downtown Toronto and East York
+2016,99,Mount Pleasant East,Suicide-related,5,Downtown Toronto and East York
+2016,100,Yonge-Eglinton,Overdose,1,Downtown Toronto and East York
+2016,100,Yonge-Eglinton,Person in Crisis,31,Downtown Toronto and East York
+2016,100,Yonge-Eglinton,Suicide-related,9,Downtown Toronto and East York
+2016,101,Forest Hill South,Overdose,2,Downtown Toronto and East York
+2016,101,Forest Hill South,Person in Crisis,2,Downtown Toronto and East York
+2016,101,Forest Hill South,Suicide-related,3,Downtown Toronto and East York
+2016,102,Forest Hill North,Person in Crisis,6,Downtown Toronto and East York
+2016,102,Forest Hill North,Suicide-related,2,Downtown Toronto and East York
+2016,103,Lawrence Park South,Overdose,1,Downtown Toronto and East York
+2016,103,Lawrence Park South,Person in Crisis,5,Downtown Toronto and East York
+2016,103,Lawrence Park South,Suicide-related,7,Downtown Toronto and East York
+2016,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
+2016,105,Lawrence Park North,Person in Crisis,2,Downtown Toronto and East York
+2016,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
+2016,106,Humewood-Cedarvale,Overdose,1,Downtown Toronto and East York
+2016,106,Humewood-Cedarvale,Person in Crisis,8,Downtown Toronto and East York
+2016,106,Humewood-Cedarvale,Suicide-related,7,Downtown Toronto and East York
+2016,107,Oakwood Village,Overdose,2,Downtown Toronto and East York
+2016,107,Oakwood Village,Person in Crisis,28,Downtown Toronto and East York
+2016,107,Oakwood Village,Suicide-related,7,Downtown Toronto and East York
+2016,108,Briar Hill-Belgravia,Overdose,3,Downtown Toronto and East York
+2016,108,Briar Hill-Belgravia,Person in Crisis,5,Downtown Toronto and East York
+2016,108,Briar Hill-Belgravia,Suicide-related,1,Downtown Toronto and East York
+2016,109,Caledonia-Fairbank,Overdose,1,Downtown Toronto and East York
+2016,109,Caledonia-Fairbank,Person in Crisis,6,Downtown Toronto and East York
+2016,109,Caledonia-Fairbank,Suicide-related,8,Downtown Toronto and East York
+2016,110,Keelesdale-Eglinton West,Person in Crisis,16,Downtown Toronto and East York
+2016,110,Keelesdale-Eglinton West,Suicide-related,5,Downtown Toronto and East York
+2016,111,Rockcliffe-Smythe,Overdose,1,Downtown Toronto and East York
+2016,111,Rockcliffe-Smythe,Person in Crisis,32,Downtown Toronto and East York
+2016,111,Rockcliffe-Smythe,Suicide-related,8,Downtown Toronto and East York
+2016,112,Beechborough-Greenbrook,Person in Crisis,5,Downtown Toronto and East York
+2016,112,Beechborough-Greenbrook,Suicide-related,3,Downtown Toronto and East York
+2016,113,Weston,Overdose,2,Downtown Toronto and East York
+2016,113,Weston,Person in Crisis,20,Downtown Toronto and East York
+2016,113,Weston,Suicide-related,12,Downtown Toronto and East York
+2016,114,Lambton Baby Point,Person in Crisis,1,Downtown Toronto and East York
+2016,114,Lambton Baby Point,Suicide-related,3,Downtown Toronto and East York
+2016,115,Mount Dennis,Overdose,1,Downtown Toronto and East York
+2016,115,Mount Dennis,Person in Crisis,16,Downtown Toronto and East York
+2016,115,Mount Dennis,Suicide-related,8,Downtown Toronto and East York
+2016,116,Steeles,Person in Crisis,2,Scarborough
+2016,116,Steeles,Suicide-related,3,Scarborough
+2016,118,Tam O'Shanter-Sullivan,Person in Crisis,13,Scarborough
+2016,118,Tam O'Shanter-Sullivan,Suicide-related,7,Scarborough
+2016,119,Wexford/Maryvale,Person in Crisis,17,Scarborough
+2016,119,Wexford/Maryvale,Suicide-related,10,Scarborough
+2016,120,Clairlea-Birchmount,Overdose,1,Scarborough
+2016,120,Clairlea-Birchmount,Person in Crisis,15,Scarborough
+2016,120,Clairlea-Birchmount,Suicide-related,10,Scarborough
+2016,121,Oakridge,Overdose,4,Scarborough
+2016,121,Oakridge,Person in Crisis,22,Scarborough
+2016,121,Oakridge,Suicide-related,5,Scarborough
+2016,122,Birchcliffe-Cliffside,Overdose,5,Scarborough
+2016,122,Birchcliffe-Cliffside,Person in Crisis,15,Scarborough
+2016,122,Birchcliffe-Cliffside,Suicide-related,9,Scarborough
+2016,123,Cliffcrest,Person in Crisis,5,Scarborough
+2016,123,Cliffcrest,Suicide-related,7,Scarborough
+2016,124,Kennedy Park,Overdose,3,Scarborough
+2016,124,Kennedy Park,Person in Crisis,21,Scarborough
+2016,124,Kennedy Park,Suicide-related,14,Scarborough
+2016,125,Ionview,Person in Crisis,23,Scarborough
+2016,125,Ionview,Suicide-related,4,Scarborough
+2016,126,Dorset Park,Overdose,3,Scarborough
+2016,126,Dorset Park,Person in Crisis,25,Scarborough
+2016,126,Dorset Park,Suicide-related,7,Scarborough
+2016,128,Agincourt South-Malvern West,Overdose,2,Scarborough
+2016,128,Agincourt South-Malvern West,Person in Crisis,12,Scarborough
+2016,128,Agincourt South-Malvern West,Suicide-related,6,Scarborough
+2016,129,Agincourt North,Person in Crisis,11,Scarborough
+2016,129,Agincourt North,Suicide-related,1,Scarborough
+2016,130,Milliken,Person in Crisis,4,Scarborough
+2016,133,Centennial Scarborough,Person in Crisis,9,Scarborough
+2016,133,Centennial Scarborough,Suicide-related,4,Scarborough
+2016,134,Highland Creek,Overdose,1,Scarborough
+2016,134,Highland Creek,Person in Crisis,7,Scarborough
+2016,134,Highland Creek,Suicide-related,4,Scarborough
+2016,135,Morningside,Overdose,2,Scarborough
+2016,135,Morningside,Person in Crisis,14,Scarborough
+2016,135,Morningside,Suicide-related,7,Scarborough
+2016,136,West Hill,Overdose,4,Scarborough
+2016,136,West Hill,Person in Crisis,48,Scarborough
+2016,136,West Hill,Suicide-related,19,Scarborough
+2016,138,Eglinton East,Person in Crisis,11,Scarborough
+2016,138,Eglinton East,Suicide-related,8,Scarborough
+2016,139,Scarborough Village,Overdose,2,Scarborough
+2016,139,Scarborough Village,Person in Crisis,18,Scarborough
+2016,139,Scarborough Village,Suicide-related,4,Scarborough
+2016,140,Guildwood,Overdose,3,Scarborough
+2016,140,Guildwood,Person in Crisis,5,Scarborough
+2016,140,Guildwood,Suicide-related,2,Scarborough
+2016,141,Golfdale-Cedarbrae-Woburn,Overdose,1,Scarborough
+2016,141,Golfdale-Cedarbrae-Woburn,Person in Crisis,22,Scarborough
+2016,141,Golfdale-Cedarbrae-Woburn,Suicide-related,13,Scarborough
+2016,142,Woburn North,Overdose,3,Scarborough
+2016,142,Woburn North,Person in Crisis,19,Scarborough
+2016,142,Woburn North,Suicide-related,6,Scarborough
+2016,143,West Rouge,Overdose,1,Scarborough
+2016,143,West Rouge,Person in Crisis,11,Scarborough
+2016,143,West Rouge,Suicide-related,5,Scarborough
+2016,144,Morningside Heights,Overdose,3,Scarborough
+2016,144,Morningside Heights,Person in Crisis,9,Scarborough
+2016,144,Morningside Heights,Suicide-related,9,Scarborough
+2016,145,Malvern West,Overdose,2,Scarborough
+2016,145,Malvern West,Person in Crisis,5,Scarborough
+2016,145,Malvern West,Suicide-related,3,Scarborough
+2016,146,Malvern East,Person in Crisis,11,Scarborough
+2016,146,Malvern East,Suicide-related,6,Scarborough
+2016,147,L'Amoreaux West,Overdose,1,Scarborough
+2016,147,L'Amoreaux West,Person in Crisis,8,Scarborough
+2016,147,L'Amoreaux West,Suicide-related,3,Scarborough
+2016,148,East L'Amoreaux,Person in Crisis,10,Scarborough
+2016,148,East L'Amoreaux,Suicide-related,3,Scarborough
+2016,149,Parkwoods-O'Connor Hills,Overdose,4,North York
+2016,149,Parkwoods-O'Connor Hills,Person in Crisis,8,North York
+2016,149,Parkwoods-O'Connor Hills,Suicide-related,7,North York
+2016,150,Fenside-Parkwoods,Overdose,2,North York
+2016,150,Fenside-Parkwoods,Person in Crisis,11,North York
+2016,150,Fenside-Parkwoods,Suicide-related,10,North York
+2016,151,Yonge-Doris,Overdose,4,North York
+2016,151,Yonge-Doris,Person in Crisis,5,North York
+2016,151,Yonge-Doris,Suicide-related,2,North York
+2016,152,East Willowdale,Person in Crisis,5,North York
+2016,152,East Willowdale,Suicide-related,4,North York
+2016,153,Avondale,Person in Crisis,8,North York
+2016,153,Avondale,Suicide-related,5,North York
+2016,154,Oakdale-Beverley Heights,Overdose,4,North York
+2016,154,Oakdale-Beverley Heights,Person in Crisis,23,North York
+2016,154,Oakdale-Beverley Heights,Suicide-related,9,North York
+2016,155,Downsview,Overdose,3,North York
+2016,155,Downsview,Person in Crisis,12,North York
+2016,155,Downsview,Suicide-related,4,North York
+2016,156,Bendale-Glen Andrew,Overdose,1,Scarborough
+2016,156,Bendale-Glen Andrew,Person in Crisis,9,Scarborough
+2016,156,Bendale-Glen Andrew,Suicide-related,8,Scarborough
+2016,157,Bendale South,Overdose,4,Scarborough
+2016,157,Bendale South,Person in Crisis,7,Scarborough
+2016,157,Bendale South,Suicide-related,5,Scarborough
+2016,158,Islington,Overdose,3,Etobicoke York
+2016,158,Islington,Person in Crisis,11,Etobicoke York
+2016,158,Islington,Suicide-related,3,Etobicoke York
+2016,159,Etobicoke City Centre,Overdose,6,Etobicoke York
+2016,159,Etobicoke City Centre,Person in Crisis,32,Etobicoke York
+2016,159,Etobicoke City Centre,Suicide-related,13,Etobicoke York
+2016,160,Mimico-Queensway,Overdose,2,Etobicoke York
+2016,160,Mimico-Queensway,Person in Crisis,18,Etobicoke York
+2016,160,Mimico-Queensway,Suicide-related,9,Etobicoke York
+2016,161,Humber Bay Shores,Overdose,3,Etobicoke York
+2016,161,Humber Bay Shores,Person in Crisis,9,Etobicoke York
+2016,161,Humber Bay Shores,Suicide-related,9,Etobicoke York
+2016,162,West Queen West,Overdose,2,Downtown Toronto and East York
+2016,162,West Queen West,Person in Crisis,56,Downtown Toronto and East York
+2016,162,West Queen West,Suicide-related,8,Downtown Toronto and East York
+2016,163,Fort York-Liberty Village,Overdose,4,Downtown Toronto and East York
+2016,163,Fort York-Liberty Village,Person in Crisis,16,Downtown Toronto and East York
+2016,163,Fort York-Liberty Village,Suicide-related,18,Downtown Toronto and East York
+2016,164,Wellington Place,Overdose,7,Downtown Toronto and East York
+2016,164,Wellington Place,Person in Crisis,41,Downtown Toronto and East York
+2016,164,Wellington Place,Suicide-related,11,Downtown Toronto and East York
+2016,165,Harbourfront-CityPlace,Overdose,1,Downtown Toronto and East York
+2016,165,Harbourfront-CityPlace,Person in Crisis,13,Downtown Toronto and East York
+2016,165,Harbourfront-CityPlace,Suicide-related,16,Downtown Toronto and East York
+2016,166,St Lawrence-East Bayfront-The Islands,Overdose,10,Downtown Toronto and East York
+2016,166,St Lawrence-East Bayfront-The Islands,Person in Crisis,58,Downtown Toronto and East York
+2016,166,St Lawrence-East Bayfront-The Islands,Suicide-related,23,Downtown Toronto and East York
+2016,167,Church-Wellesley,Overdose,5,Downtown Toronto and East York
+2016,167,Church-Wellesley,Person in Crisis,48,Downtown Toronto and East York
+2016,167,Church-Wellesley,Suicide-related,25,Downtown Toronto and East York
+2016,168,Downtown Yonge East,Overdose,9,Downtown Toronto and East York
+2016,168,Downtown Yonge East,Person in Crisis,84,Downtown Toronto and East York
+2016,168,Downtown Yonge East,Suicide-related,28,Downtown Toronto and East York
+2016,169,Bay-Cloverhill,Overdose,5,Downtown Toronto and East York
+2016,169,Bay-Cloverhill,Person in Crisis,41,Downtown Toronto and East York
+2016,169,Bay-Cloverhill,Suicide-related,9,Downtown Toronto and East York
+2016,170,Yonge-Bay Corridor,Overdose,10,Downtown Toronto and East York
+2016,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Toronto and East York
+2016,170,Yonge-Bay Corridor,Suicide-related,43,Downtown Toronto and East York
+2016,171,Junction-Wallace Emerson,Overdose,7,Downtown Toronto and East York
+2016,171,Junction-Wallace Emerson,Person in Crisis,23,Downtown Toronto and East York
+2016,171,Junction-Wallace Emerson,Suicide-related,5,Downtown Toronto and East York
+2016,172,Dovercourt Village,Overdose,1,Downtown Toronto and East York
+2016,172,Dovercourt Village,Person in Crisis,8,Downtown Toronto and East York
+2016,172,Dovercourt Village,Suicide-related,4,Downtown Toronto and East York
+2016,173,North Toronto,Overdose,1,Downtown Toronto and East York
+2016,173,North Toronto,Person in Crisis,10,Downtown Toronto and East York
+2016,173,North Toronto,Suicide-related,3,Downtown Toronto and East York
+2016,174,South Eglinton-Davisville,Overdose,2,Downtown Toronto and East York
+2016,174,South Eglinton-Davisville,Person in Crisis,19,Downtown Toronto and East York
+2016,174,South Eglinton-Davisville,Suicide-related,7,Downtown Toronto and East York
+2016,NA,NSA,Overdose,3,NA
+2016,NA,NSA,Person in Crisis,9,NA
+2016,NA,NSA,Suicide-related,7,NA
+2017,1,West Humber-Clairville,Overdose,8,Etobicoke York
+2017,1,West Humber-Clairville,Person in Crisis,36,Etobicoke York
+2017,1,West Humber-Clairville,Suicide-related,18,Etobicoke York
+2017,2,Mount Olive-Silverstone-Jamestown,Person in Crisis,31,Etobicoke York
+2017,2,Mount Olive-Silverstone-Jamestown,Suicide-related,10,Etobicoke York
+2017,3,Thistletown-Beaumond Heights,Person in Crisis,2,Etobicoke York
+2017,3,Thistletown-Beaumond Heights,Suicide-related,3,Etobicoke York
+2017,4,Rexdale-Kipling,Overdose,2,Etobicoke York
+2017,4,Rexdale-Kipling,Person in Crisis,10,Etobicoke York
+2017,4,Rexdale-Kipling,Suicide-related,4,Etobicoke York
+2017,5,Elms-Old Rexdale,Person in Crisis,3,Etobicoke York
+2017,5,Elms-Old Rexdale,Suicide-related,5,Etobicoke York
+2017,6,Kingsview Village-The Westway,Overdose,1,Etobicoke York
+2017,6,Kingsview Village-The Westway,Person in Crisis,15,Etobicoke York
+2017,6,Kingsview Village-The Westway,Suicide-related,5,Etobicoke York
+2017,7,Willowridge-Martingrove-Richview,Person in Crisis,7,Etobicoke York
+2017,7,Willowridge-Martingrove-Richview,Suicide-related,6,Etobicoke York
+2017,8,Humber Heights-Westmount,Overdose,1,Etobicoke York
+2017,8,Humber Heights-Westmount,Person in Crisis,5,Etobicoke York
+2017,8,Humber Heights-Westmount,Suicide-related,8,Etobicoke York
+2017,9,Edenbridge-Humber Valley,Overdose,2,Etobicoke York
+2017,9,Edenbridge-Humber Valley,Person in Crisis,8,Etobicoke York
+2017,9,Edenbridge-Humber Valley,Suicide-related,6,Etobicoke York
+2017,10,Princess-Rosethorn,Person in Crisis,8,Etobicoke York
+2017,10,Princess-Rosethorn,Suicide-related,1,Etobicoke York
+2017,11,Eringate-Centennial-West Deane,Overdose,1,Etobicoke York
+2017,11,Eringate-Centennial-West Deane,Person in Crisis,9,Etobicoke York
+2017,11,Eringate-Centennial-West Deane,Suicide-related,4,Etobicoke York
+2017,12,Markland Wood,Overdose,1,Etobicoke York
+2017,12,Markland Wood,Person in Crisis,7,Etobicoke York
+2017,12,Markland Wood,Suicide-related,8,Etobicoke York
+2017,13,Etobicoke West Mall,Overdose,2,Etobicoke York
+2017,13,Etobicoke West Mall,Person in Crisis,7,Etobicoke York
+2017,13,Etobicoke West Mall,Suicide-related,6,Etobicoke York
+2017,15,Kingsway South,Person in Crisis,1,Etobicoke York
+2017,15,Kingsway South,Suicide-related,2,Etobicoke York
+2017,16,Stonegate-Queensway,Person in Crisis,15,Etobicoke York
+2017,16,Stonegate-Queensway,Suicide-related,8,Etobicoke York
+2017,18,New Toronto,Overdose,3,Etobicoke York
+2017,18,New Toronto,Person in Crisis,8,Etobicoke York
+2017,18,New Toronto,Suicide-related,4,Etobicoke York
+2017,19,Long Branch,Overdose,3,Etobicoke York
+2017,19,Long Branch,Person in Crisis,8,Etobicoke York
+2017,19,Long Branch,Suicide-related,3,Etobicoke York
+2017,20,Alderwood,Overdose,1,Etobicoke York
+2017,20,Alderwood,Person in Crisis,4,Etobicoke York
+2017,20,Alderwood,Suicide-related,7,Etobicoke York
+2017,21,Humber Summit,Person in Crisis,8,Etobicoke York
+2017,21,Humber Summit,Suicide-related,6,Etobicoke York
+2017,22,Humbermede,Overdose,1,Etobicoke York
+2017,22,Humbermede,Person in Crisis,8,Etobicoke York
+2017,22,Humbermede,Suicide-related,3,Etobicoke York
+2017,23,Pelmo Park-Humberlea,Overdose,1,Etobicoke York
+2017,23,Pelmo Park-Humberlea,Person in Crisis,6,Etobicoke York
+2017,23,Pelmo Park-Humberlea,Suicide-related,3,Etobicoke York
+2017,24,Black Creek,Overdose,1,Etobicoke York
+2017,24,Black Creek,Person in Crisis,12,Etobicoke York
+2017,24,Black Creek,Suicide-related,8,Etobicoke York
+2017,25,Glenfield-Jane Heights,Overdose,1,Etobicoke York
+2017,25,Glenfield-Jane Heights,Person in Crisis,30,Etobicoke York
+2017,25,Glenfield-Jane Heights,Suicide-related,15,Etobicoke York
+2017,27,York University Heights,Overdose,7,North York
+2017,27,York University Heights,Person in Crisis,21,North York
+2017,27,York University Heights,Suicide-related,15,North York
+2017,28,Rustic,Overdose,1,North York
+2017,28,Rustic,Person in Crisis,7,North York
+2017,28,Rustic,Suicide-related,2,North York
+2017,29,Maple Leaf,Person in Crisis,1,North York
+2017,29,Maple Leaf,Suicide-related,1,North York
+2017,30,Brookhaven-Amesbury,Overdose,1,North York
+2017,30,Brookhaven-Amesbury,Person in Crisis,13,North York
+2017,30,Brookhaven-Amesbury,Suicide-related,9,North York
+2017,31,Yorkdale-Glen Park,Person in Crisis,17,North York
+2017,31,Yorkdale-Glen Park,Suicide-related,12,North York
+2017,32,Englemount-Lawrence,Overdose,1,North York
+2017,32,Englemount-Lawrence,Person in Crisis,27,North York
+2017,32,Englemount-Lawrence,Suicide-related,5,North York
+2017,33,Clanton Park,Overdose,1,North York
+2017,33,Clanton Park,Person in Crisis,16,North York
+2017,33,Clanton Park,Suicide-related,9,North York
+2017,34,Bathurst Manor,Person in Crisis,5,North York
+2017,34,Bathurst Manor,Suicide-related,3,North York
+2017,35,Westminster-Branson,Overdose,3,North York
+2017,35,Westminster-Branson,Person in Crisis,11,North York
+2017,35,Westminster-Branson,Suicide-related,13,North York
+2017,36,Newtonbrook West,Overdose,3,North York
+2017,36,Newtonbrook West,Person in Crisis,14,North York
+2017,36,Newtonbrook West,Suicide-related,8,North York
+2017,37,Willowdale West,Overdose,3,North York
+2017,37,Willowdale West,Person in Crisis,19,North York
+2017,37,Willowdale West,Suicide-related,8,North York
+2017,38,Lansing-Westgate,Overdose,1,North York
+2017,38,Lansing-Westgate,Person in Crisis,13,North York
+2017,38,Lansing-Westgate,Suicide-related,9,North York
+2017,39,Bedford Park-Nortown,Person in Crisis,17,North York
+2017,39,Bedford Park-Nortown,Suicide-related,6,North York
+2017,40,St.Andrew-Windfields,Overdose,1,North York
+2017,40,St.Andrew-Windfields,Person in Crisis,12,North York
+2017,40,St.Andrew-Windfields,Suicide-related,5,North York
+2017,41,Bridle Path-Sunnybrook-York Mills,Person in Crisis,6,North York
+2017,41,Bridle Path-Sunnybrook-York Mills,Suicide-related,2,North York
+2017,42,Banbury-Don Mills,Overdose,2,North York
+2017,42,Banbury-Don Mills,Person in Crisis,19,North York
+2017,42,Banbury-Don Mills,Suicide-related,16,North York
+2017,43,Victoria Village,Overdose,1,North York
+2017,43,Victoria Village,Person in Crisis,8,North York
+2017,43,Victoria Village,Suicide-related,4,North York
+2017,44,Flemingdon Park,Person in Crisis,11,North York
+2017,44,Flemingdon Park,Suicide-related,6,North York
+2017,46,Pleasant View,Person in Crisis,4,North York
+2017,46,Pleasant View,Suicide-related,2,North York
+2017,47,Don Valley Village,Person in Crisis,9,North York
+2017,47,Don Valley Village,Suicide-related,9,North York
+2017,48,Hillcrest Village,Person in Crisis,4,North York
+2017,48,Hillcrest Village,Suicide-related,3,North York
+2017,49,Bayview Woods-Steeles,Overdose,1,North York
+2017,49,Bayview Woods-Steeles,Person in Crisis,2,North York
+2017,50,Newtonbrook East,Overdose,1,North York
+2017,50,Newtonbrook East,Person in Crisis,9,North York
+2017,50,Newtonbrook East,Suicide-related,1,North York
+2017,52,Bayview Village,Person in Crisis,20,North York
+2017,52,Bayview Village,Suicide-related,4,North York
+2017,53,Henry Farm,Person in Crisis,13,North York
+2017,53,Henry Farm,Suicide-related,9,North York
+2017,54,O'Connor-Parkview,Overdose,4,North York
+2017,54,O'Connor-Parkview,Person in Crisis,21,North York
+2017,54,O'Connor-Parkview,Suicide-related,13,North York
+2017,55,Thorncliffe Park,Overdose,2,North York
+2017,55,Thorncliffe Park,Person in Crisis,11,North York
+2017,55,Thorncliffe Park,Suicide-related,4,North York
+2017,56,Leaside-Bennington,Overdose,4,North York
+2017,56,Leaside-Bennington,Person in Crisis,6,North York
+2017,56,Leaside-Bennington,Suicide-related,7,North York
+2017,57,Broadview North,Overdose,1,Downtown Toronto and East York
+2017,57,Broadview North,Person in Crisis,10,Downtown Toronto and East York
+2017,57,Broadview North,Suicide-related,15,Downtown Toronto and East York
+2017,58,Old East York,Person in Crisis,2,Downtown Toronto and East York
+2017,58,Old East York,Suicide-related,4,Downtown Toronto and East York
+2017,59,Danforth East York,Overdose,2,Downtown Toronto and East York
+2017,59,Danforth East York,Person in Crisis,13,Downtown Toronto and East York
+2017,59,Danforth East York,Suicide-related,13,Downtown Toronto and East York
+2017,60,Woodbine-Lumsden,Person in Crisis,6,Downtown Toronto and East York
+2017,60,Woodbine-Lumsden,Suicide-related,5,Downtown Toronto and East York
+2017,61,Taylor-Massey,Overdose,2,Downtown Toronto and East York
+2017,61,Taylor-Massey,Person in Crisis,5,Downtown Toronto and East York
+2017,61,Taylor-Massey,Suicide-related,3,Downtown Toronto and East York
+2017,62,East End-Danforth,Overdose,2,Downtown Toronto and East York
+2017,62,East End-Danforth,Person in Crisis,22,Downtown Toronto and East York
+2017,62,East End-Danforth,Suicide-related,8,Downtown Toronto and East York
+2017,63,The Beaches,Overdose,2,Downtown Toronto and East York
+2017,63,The Beaches,Person in Crisis,30,Downtown Toronto and East York
+2017,63,The Beaches,Suicide-related,17,Downtown Toronto and East York
+2017,64,Woodbine Corridor,Overdose,2,Downtown Toronto and East York
+2017,64,Woodbine Corridor,Person in Crisis,10,Downtown Toronto and East York
+2017,64,Woodbine Corridor,Suicide-related,6,Downtown Toronto and East York
+2017,65,Greenwood-Coxwell,Overdose,2,Downtown Toronto and East York
+2017,65,Greenwood-Coxwell,Person in Crisis,20,Downtown Toronto and East York
+2017,65,Greenwood-Coxwell,Suicide-related,13,Downtown Toronto and East York
+2017,66,Danforth,Person in Crisis,5,Downtown Toronto and East York
+2017,66,Danforth,Suicide-related,2,Downtown Toronto and East York
+2017,67,Playter Estates-Danforth,Person in Crisis,3,Downtown Toronto and East York
+2017,67,Playter Estates-Danforth,Suicide-related,5,Downtown Toronto and East York
+2017,68,North Riverdale,Overdose,1,Downtown Toronto and East York
+2017,68,North Riverdale,Person in Crisis,27,Downtown Toronto and East York
+2017,68,North Riverdale,Suicide-related,15,Downtown Toronto and East York
+2017,69,Blake-Jones,Overdose,1,Downtown Toronto and East York
+2017,69,Blake-Jones,Person in Crisis,9,Downtown Toronto and East York
+2017,69,Blake-Jones,Suicide-related,13,Downtown Toronto and East York
+2017,70,South Riverdale,Overdose,4,Downtown Toronto and East York
+2017,70,South Riverdale,Person in Crisis,24,Downtown Toronto and East York
+2017,70,South Riverdale,Suicide-related,19,Downtown Toronto and East York
+2017,71,Cabbagetown-South St.James Town,Overdose,4,Downtown Toronto and East York
+2017,71,Cabbagetown-South St.James Town,Person in Crisis,23,Downtown Toronto and East York
+2017,71,Cabbagetown-South St.James Town,Suicide-related,10,Downtown Toronto and East York
+2017,72,Regent Park,Overdose,3,Downtown Toronto and East York
+2017,72,Regent Park,Person in Crisis,24,Downtown Toronto and East York
+2017,72,Regent Park,Suicide-related,2,Downtown Toronto and East York
+2017,73,Moss Park,Overdose,27,Downtown Toronto and East York
+2017,73,Moss Park,Person in Crisis,100,Downtown Toronto and East York
+2017,73,Moss Park,Suicide-related,47,Downtown Toronto and East York
+2017,74,North St.James Town,Overdose,4,Downtown Toronto and East York
+2017,74,North St.James Town,Person in Crisis,26,Downtown Toronto and East York
+2017,74,North St.James Town,Suicide-related,7,Downtown Toronto and East York
+2017,78,Kensington-Chinatown,Overdose,8,Downtown Toronto and East York
+2017,78,Kensington-Chinatown,Person in Crisis,74,Downtown Toronto and East York
+2017,78,Kensington-Chinatown,Suicide-related,16,Downtown Toronto and East York
+2017,79,University,Overdose,6,Downtown Toronto and East York
+2017,79,University,Person in Crisis,30,Downtown Toronto and East York
+2017,79,University,Suicide-related,11,Downtown Toronto and East York
+2017,80,Palmerston-Little Italy,Overdose,2,Downtown Toronto and East York
+2017,80,Palmerston-Little Italy,Person in Crisis,17,Downtown Toronto and East York
+2017,80,Palmerston-Little Italy,Suicide-related,8,Downtown Toronto and East York
+2017,81,Trinity-Bellwoods,Overdose,2,Downtown Toronto and East York
+2017,81,Trinity-Bellwoods,Person in Crisis,20,Downtown Toronto and East York
+2017,81,Trinity-Bellwoods,Suicide-related,13,Downtown Toronto and East York
+2017,83,Dufferin Grove,Overdose,5,Downtown Toronto and East York
+2017,83,Dufferin Grove,Person in Crisis,31,Downtown Toronto and East York
+2017,83,Dufferin Grove,Suicide-related,8,Downtown Toronto and East York
+2017,84,Little Portugal,Overdose,2,Downtown Toronto and East York
+2017,84,Little Portugal,Person in Crisis,17,Downtown Toronto and East York
+2017,84,Little Portugal,Suicide-related,8,Downtown Toronto and East York
+2017,85,South Parkdale,Overdose,8,Downtown Toronto and East York
+2017,85,South Parkdale,Person in Crisis,81,Downtown Toronto and East York
+2017,85,South Parkdale,Suicide-related,24,Downtown Toronto and East York
+2017,86,Roncesvalles,Person in Crisis,4,Downtown Toronto and East York
+2017,87,High Park-Swansea,Overdose,6,Downtown Toronto and East York
+2017,87,High Park-Swansea,Person in Crisis,28,Downtown Toronto and East York
+2017,87,High Park-Swansea,Suicide-related,15,Downtown Toronto and East York
+2017,88,High Park North,Overdose,2,Downtown Toronto and East York
+2017,88,High Park North,Person in Crisis,10,Downtown Toronto and East York
+2017,88,High Park North,Suicide-related,5,Downtown Toronto and East York
+2017,89,Runnymede-Bloor West Village,Person in Crisis,5,Downtown Toronto and East York
+2017,89,Runnymede-Bloor West Village,Suicide-related,4,Downtown Toronto and East York
+2017,90,Junction Area,Overdose,2,Downtown Toronto and East York
+2017,90,Junction Area,Person in Crisis,24,Downtown Toronto and East York
+2017,90,Junction Area,Suicide-related,8,Downtown Toronto and East York
+2017,91,Weston-Pelham Park,Overdose,3,Downtown Toronto and East York
+2017,91,Weston-Pelham Park,Person in Crisis,10,Downtown Toronto and East York
+2017,91,Weston-Pelham Park,Suicide-related,3,Downtown Toronto and East York
+2017,92,Corso Italia-Davenport,Overdose,1,Downtown Toronto and East York
+2017,92,Corso Italia-Davenport,Person in Crisis,16,Downtown Toronto and East York
+2017,92,Corso Italia-Davenport,Suicide-related,11,Downtown Toronto and East York
+2017,94,Wychwood,Overdose,3,Downtown Toronto and East York
+2017,94,Wychwood,Person in Crisis,21,Downtown Toronto and East York
+2017,94,Wychwood,Suicide-related,6,Downtown Toronto and East York
+2017,95,Annex,Overdose,3,Downtown Toronto and East York
+2017,95,Annex,Person in Crisis,46,Downtown Toronto and East York
+2017,95,Annex,Suicide-related,23,Downtown Toronto and East York
+2017,96,Casa Loma,Overdose,1,Downtown Toronto and East York
+2017,96,Casa Loma,Person in Crisis,8,Downtown Toronto and East York
+2017,96,Casa Loma,Suicide-related,2,Downtown Toronto and East York
+2017,97,Yonge-St.Clair,Person in Crisis,4,Downtown Toronto and East York
+2017,97,Yonge-St.Clair,Suicide-related,3,Downtown Toronto and East York
+2017,98,Rosedale-Moore Park,Overdose,3,Downtown Toronto and East York
+2017,98,Rosedale-Moore Park,Person in Crisis,7,Downtown Toronto and East York
+2017,98,Rosedale-Moore Park,Suicide-related,9,Downtown Toronto and East York
+2017,99,Mount Pleasant East,Overdose,2,Downtown Toronto and East York
+2017,99,Mount Pleasant East,Person in Crisis,10,Downtown Toronto and East York
+2017,99,Mount Pleasant East,Suicide-related,11,Downtown Toronto and East York
+2017,100,Yonge-Eglinton,Overdose,3,Downtown Toronto and East York
+2017,100,Yonge-Eglinton,Person in Crisis,12,Downtown Toronto and East York
+2017,100,Yonge-Eglinton,Suicide-related,9,Downtown Toronto and East York
+2017,101,Forest Hill South,Person in Crisis,5,Downtown Toronto and East York
+2017,101,Forest Hill South,Suicide-related,4,Downtown Toronto and East York
+2017,102,Forest Hill North,Overdose,2,Downtown Toronto and East York
+2017,102,Forest Hill North,Person in Crisis,3,Downtown Toronto and East York
+2017,102,Forest Hill North,Suicide-related,3,Downtown Toronto and East York
+2017,103,Lawrence Park South,Overdose,1,Downtown Toronto and East York
+2017,103,Lawrence Park South,Person in Crisis,2,Downtown Toronto and East York
+2017,103,Lawrence Park South,Suicide-related,5,Downtown Toronto and East York
+2017,105,Lawrence Park North,Overdose,1,Downtown Toronto and East York
+2017,105,Lawrence Park North,Person in Crisis,3,Downtown Toronto and East York
+2017,105,Lawrence Park North,Suicide-related,3,Downtown Toronto and East York
+2017,106,Humewood-Cedarvale,Overdose,2,Downtown Toronto and East York
+2017,106,Humewood-Cedarvale,Person in Crisis,7,Downtown Toronto and East York
+2017,106,Humewood-Cedarvale,Suicide-related,5,Downtown Toronto and East York
+2017,107,Oakwood Village,Overdose,2,Downtown Toronto and East York
+2017,107,Oakwood Village,Person in Crisis,27,Downtown Toronto and East York
+2017,107,Oakwood Village,Suicide-related,9,Downtown Toronto and East York
+2017,108,Briar Hill-Belgravia,Overdose,2,Downtown Toronto and East York
+2017,108,Briar Hill-Belgravia,Person in Crisis,8,Downtown Toronto and East York
+2017,108,Briar Hill-Belgravia,Suicide-related,7,Downtown Toronto and East York
+2017,109,Caledonia-Fairbank,Overdose,1,Downtown Toronto and East York
+2017,109,Caledonia-Fairbank,Person in Crisis,15,Downtown Toronto and East York
+2017,109,Caledonia-Fairbank,Suicide-related,7,Downtown Toronto and East York
+2017,110,Keelesdale-Eglinton West,Overdose,1,Downtown Toronto and East York
+2017,110,Keelesdale-Eglinton West,Person in Crisis,13,Downtown Toronto and East York
+2017,110,Keelesdale-Eglinton West,Suicide-related,8,Downtown Toronto and East York
+2017,111,Rockcliffe-Smythe,Overdose,1,Downtown Toronto and East York
+2017,111,Rockcliffe-Smythe,Person in Crisis,16,Downtown Toronto and East York
+2017,111,Rockcliffe-Smythe,Suicide-related,12,Downtown Toronto and East York
+2017,112,Beechborough-Greenbrook,Overdose,2,Downtown Toronto and East York
+2017,112,Beechborough-Greenbrook,Person in Crisis,6,Downtown Toronto and East York
+2017,112,Beechborough-Greenbrook,Suicide-related,4,Downtown Toronto and East York
+2017,113,Weston,Overdose,3,Downtown Toronto and East York
+2017,113,Weston,Person in Crisis,34,Downtown Toronto and East York
+2017,113,Weston,Suicide-related,9,Downtown Toronto and East York
+2017,114,Lambton Baby Point,Overdose,1,Downtown Toronto and East York
+2017,114,Lambton Baby Point,Person in Crisis,7,Downtown Toronto and East York
+2017,114,Lambton Baby Point,Suicide-related,3,Downtown Toronto and East York
+2017,115,Mount Dennis,Overdose,2,Downtown Toronto and East York
+2017,115,Mount Dennis,Person in Crisis,13,Downtown Toronto and East York
+2017,115,Mount Dennis,Suicide-related,9,Downtown Toronto and East York
+2017,116,Steeles,Person in Crisis,1,Scarborough
+2017,116,Steeles,Suicide-related,2,Scarborough
+2017,118,Tam O'Shanter-Sullivan,Overdose,2,Scarborough
+2017,118,Tam O'Shanter-Sullivan,Person in Crisis,9,Scarborough
+2017,118,Tam O'Shanter-Sullivan,Suicide-related,4,Scarborough
+2017,119,Wexford/Maryvale,Overdose,2,Scarborough
+2017,119,Wexford/Maryvale,Person in Crisis,13,Scarborough
+2017,119,Wexford/Maryvale,Suicide-related,11,Scarborough
+2017,120,Clairlea-Birchmount,Overdose,3,Scarborough
+2017,120,Clairlea-Birchmount,Person in Crisis,31,Scarborough
+2017,120,Clairlea-Birchmount,Suicide-related,9,Scarborough
+2017,121,Oakridge,Overdose,1,Scarborough
+2017,121,Oakridge,Person in Crisis,12,Scarborough
+2017,121,Oakridge,Suicide-related,6,Scarborough
+2017,122,Birchcliffe-Cliffside,Overdose,3,Scarborough
+2017,122,Birchcliffe-Cliffside,Person in Crisis,21,Scarborough
+2017,122,Birchcliffe-Cliffside,Suicide-related,10,Scarborough
+2017,123,Cliffcrest,Overdose,5,Scarborough
+2017,123,Cliffcrest,Person in Crisis,13,Scarborough
+2017,123,Cliffcrest,Suicide-related,7,Scarborough
+2017,124,Kennedy Park,Overdose,3,Scarborough
+2017,124,Kennedy Park,Person in Crisis,16,Scarborough
+2017,124,Kennedy Park,Suicide-related,12,Scarborough
+2017,125,Ionview,Person in Crisis,14,Scarborough
+2017,125,Ionview,Suicide-related,3,Scarborough
+2017,126,Dorset Park,Overdose,2,Scarborough
+2017,126,Dorset Park,Person in Crisis,18,Scarborough
+2017,126,Dorset Park,Suicide-related,8,Scarborough
+2017,128,Agincourt South-Malvern West,Person in Crisis,9,Scarborough
+2017,128,Agincourt South-Malvern West,Suicide-related,4,Scarborough
+2017,129,Agincourt North,Person in Crisis,8,Scarborough
+2017,129,Agincourt North,Suicide-related,3,Scarborough
+2017,130,Milliken,Person in Crisis,10,Scarborough
+2017,130,Milliken,Suicide-related,4,Scarborough
+2017,133,Centennial Scarborough,Person in Crisis,10,Scarborough
+2017,133,Centennial Scarborough,Suicide-related,5,Scarborough
+2017,134,Highland Creek,Overdose,2,Scarborough
+2017,134,Highland Creek,Person in Crisis,3,Scarborough
+2017,134,Highland Creek,Suicide-related,4,Scarborough
+2017,135,Morningside,Overdose,1,Scarborough
+2017,135,Morningside,Person in Crisis,24,Scarborough
+2017,135,Morningside,Suicide-related,9,Scarborough
+2017,136,West Hill,Overdose,6,Scarborough
+2017,136,West Hill,Person in Crisis,46,Scarborough
+2017,136,West Hill,Suicide-related,28,Scarborough
+2017,138,Eglinton East,Overdose,1,Scarborough
+2017,138,Eglinton East,Person in Crisis,16,Scarborough
+2017,138,Eglinton East,Suicide-related,3,Scarborough
+2017,139,Scarborough Village,Overdose,2,Scarborough
+2017,139,Scarborough Village,Person in Crisis,20,Scarborough
+2017,139,Scarborough Village,Suicide-related,9,Scarborough
+2017,140,Guildwood,Person in Crisis,7,Scarborough
+2017,140,Guildwood,Suicide-related,2,Scarborough
+2017,141,Golfdale-Cedarbrae-Woburn,Overdose,5,Scarborough
+2017,141,Golfdale-Cedarbrae-Woburn,Person in Crisis,20,Scarborough
+2017,141,Golfdale-Cedarbrae-Woburn,Suicide-related,8,Scarborough
+2017,142,Woburn North,Overdose,5,Scarborough
+2017,142,Woburn North,Person in Crisis,15,Scarborough
+2017,142,Woburn North,Suicide-related,5,Scarborough
+2017,143,West Rouge,Overdose,4,Scarborough
+2017,143,West Rouge,Person in Crisis,5,Scarborough
+2017,143,West Rouge,Suicide-related,7,Scarborough
+2017,144,Morningside Heights,Overdose,1,Scarborough
+2017,144,Morningside Heights,Person in Crisis,8,Scarborough
+2017,144,Morningside Heights,Suicide-related,5,Scarborough
+2017,145,Malvern West,Overdose,1,Scarborough
+2017,145,Malvern West,Person in Crisis,15,Scarborough
+2017,145,Malvern West,Suicide-related,11,Scarborough
+2017,146,Malvern East,Person in Crisis,11,Scarborough
+2017,146,Malvern East,Suicide-related,10,Scarborough
+2017,147,L'Amoreaux West,Overdose,2,Scarborough
+2017,147,L'Amoreaux West,Person in Crisis,11,Scarborough
+2017,147,L'Amoreaux West,Suicide-related,7,Scarborough
+2017,148,East L'Amoreaux,Person in Crisis,12,Scarborough
+2017,148,East L'Amoreaux,Suicide-related,6,Scarborough
+2017,149,Parkwoods-O'Connor Hills,Overdose,3,North York
+2017,149,Parkwoods-O'Connor Hills,Person in Crisis,4,North York
+2017,149,Parkwoods-O'Connor Hills,Suicide-related,4,North York
+2017,150,Fenside-Parkwoods,Overdose,1,North York
+2017,150,Fenside-Parkwoods,Person in Crisis,7,North York
+2017,150,Fenside-Parkwoods,Suicide-related,18,North York
+2017,151,Yonge-Doris,Person in Crisis,6,North York
+2017,151,Yonge-Doris,Suicide-related,2,North York
+2017,152,East Willowdale,Person in Crisis,7,North York
+2017,152,East Willowdale,Suicide-related,1,North York
+2017,153,Avondale,Overdose,1,North York
+2017,153,Avondale,Person in Crisis,1,North York
+2017,153,Avondale,Suicide-related,2,North York
+2017,154,Oakdale-Beverley Heights,Overdose,3,North York
+2017,154,Oakdale-Beverley Heights,Person in Crisis,27,North York
+2017,154,Oakdale-Beverley Heights,Suicide-related,6,North York
+2017,155,Downsview,Overdose,1,North York
+2017,155,Downsview,Person in Crisis,15,North York
+2017,155,Downsview,Suicide-related,9,North York
+2017,156,Bendale-Glen Andrew,Overdose,2,Scarborough
+2017,156,Bendale-Glen Andrew,Person in Crisis,6,Scarborough
+2017,156,Bendale-Glen Andrew,Suicide-related,3,Scarborough
+2017,157,Bendale South,Person in Crisis,10,Scarborough
+2017,157,Bendale South,Suicide-related,6,Scarborough
+2017,158,Islington,Overdose,1,Etobicoke York
+2017,158,Islington,Person in Crisis,15,Etobicoke York
+2017,158,Islington,Suicide-related,7,Etobicoke York
+2017,159,Etobicoke City Centre,Overdose,4,Etobicoke York
+2017,159,Etobicoke City Centre,Person in Crisis,23,Etobicoke York
+2017,159,Etobicoke City Centre,Suicide-related,12,Etobicoke York
+2017,160,Mimico-Queensway,Overdose,2,Etobicoke York
+2017,160,Mimico-Queensway,Person in Crisis,16,Etobicoke York
+2017,160,Mimico-Queensway,Suicide-related,8,Etobicoke York
+2017,161,Humber Bay Shores,Overdose,1,Etobicoke York
+2017,161,Humber Bay Shores,Person in Crisis,9,Etobicoke York
+2017,161,Humber Bay Shores,Suicide-related,4,Etobicoke York
+2017,162,West Queen West,Overdose,7,Downtown Toronto and East York
+2017,162,West Queen West,Person in Crisis,75,Downtown Toronto and East York
+2017,162,West Queen West,Suicide-related,14,Downtown Toronto and East York
+2017,163,Fort York-Liberty Village,Overdose,3,Downtown Toronto and East York
+2017,163,Fort York-Liberty Village,Person in Crisis,23,Downtown Toronto and East York
+2017,163,Fort York-Liberty Village,Suicide-related,13,Downtown Toronto and East York
+2017,164,Wellington Place,Overdose,10,Downtown Toronto and East York
+2017,164,Wellington Place,Person in Crisis,51,Downtown Toronto and East York
+2017,164,Wellington Place,Suicide-related,12,Downtown Toronto and East York
+2017,165,Harbourfront-CityPlace,Overdose,3,Downtown Toronto and East York
+2017,165,Harbourfront-CityPlace,Person in Crisis,7,Downtown Toronto and East York
+2017,165,Harbourfront-CityPlace,Suicide-related,9,Downtown Toronto and East York
+2017,166,St Lawrence-East Bayfront-The Islands,Overdose,11,Downtown Toronto and East York
+2017,166,St Lawrence-East Bayfront-The Islands,Person in Crisis,50,Downtown Toronto and East York
+2017,166,St Lawrence-East Bayfront-The Islands,Suicide-related,30,Downtown Toronto and East York
+2017,167,Church-Wellesley,Overdose,9,Downtown Toronto and East York
+2017,167,Church-Wellesley,Person in Crisis,50,Downtown Toronto and East York
+2017,167,Church-Wellesley,Suicide-related,31,Downtown Toronto and East York
+2017,168,Downtown Yonge East,Overdose,15,Downtown Toronto and East York
+2017,168,Downtown Yonge East,Person in Crisis,77,Downtown Toronto and East York
+2017,168,Downtown Yonge East,Suicide-related,34,Downtown Toronto and East York
+2017,169,Bay-Cloverhill,Overdose,6,Downtown Toronto and East York
+2017,169,Bay-Cloverhill,Person in Crisis,34,Downtown Toronto and East York
+2017,169,Bay-Cloverhill,Suicide-related,10,Downtown Toronto and East York
+2017,170,Yonge-Bay Corridor,Overdose,16,Downtown Toronto and East York
+2017,170,Yonge-Bay Corridor,Person in Crisis,110,Downtown Toronto and East York
+2017,170,Yonge-Bay Corridor,Suicide-related,45,Downtown Toronto and East York
+2017,171,Junction-Wallace Emerson,Overdose,4,Downtown Toronto and East York
+2017,171,Junction-Wallace Emerson,Person in Crisis,19,Downtown Toronto and East York
+2017,171,Junction-Wallace Emerson,Suicide-related,7,Downtown Toronto and East York
+2017,172,Dovercourt Village,Overdose,1,Downtown Toronto and East York
+2017,172,Dovercourt Village,Person in Crisis,7,Downtown Toronto and East York
+2017,172,Dovercourt Village,Suicide-related,3,Downtown Toronto and East York
+2017,173,North Toronto,Overdose,2,Downtown Toronto and East York
+2017,173,North Toronto,Person in Crisis,4,Downtown Toronto and East York
+2017,173,North Toronto,Suicide-related,7,Downtown Toronto and East York
+2017,174,South Eglinton-Davisville,Overdose,1,Downtown Toronto and East York
+2017,174,South Eglinton-Davisville,Person in Crisis,13,Downtown Toronto and East York
+2017,174,South Eglinton-Davisville,Suicide-related,12,Downtown Toronto and East York
+2017,NA,NSA,Person in Crisis,6,NA
+2017,NA,NSA,Suicide-related,11,NA
+2018,NA,NSA,Overdose,483,NA
+2018,NA,NSA,Person in Crisis,2967,NA
+2018,NA,NSA,Suicide-related,1682,NA
+2019,NA,NSA,Overdose,513,NA
+2019,NA,NSA,Person in Crisis,2896,NA
+2019,NA,NSA,Suicide-related,1725,NA
+2020,NA,NSA,Overdose,678,NA
+2020,NA,NSA,Person in Crisis,3101,NA
+2020,NA,NSA,Suicide-related,1518,NA
+2021,NA,NSA,Overdose,920,NA
+2021,NA,NSA,Person in Crisis,3074,NA
+2021,NA,NSA,Suicide-related,1656,NA
+2022,NA,NSA,Overdose,696,NA
+2022,NA,NSA,Person in Crisis,3079,NA
+2022,NA,NSA,Suicide-related,1801,NA
+2023,NA,NSA,Overdose,819,NA
+2023,NA,NSA,Person in Crisis,2846,NA
+2023,NA,NSA,Suicide-related,1794,NA
