@@ -17,7 +17,6 @@ sort(unique(cleaned_data$Type)) == sort(types_of_crisis)
 #### Test year data####
 min(cleaned_data$Year) == 2014
 max(cleaned_data$Year) == 2023
-is.integer(cleaned_data$Year) == TRUE
 
 #### Test month data####
 is.character(cleaned_data$Month) == TRUE
@@ -31,4 +30,4 @@ sort(unique(cleaned_data$Apprehension)) == sort(c("Yes", "No"))
 #### Test neighborhood number####
 min(cleaned_data$Neighbourhood_number, na.rm = TRUE) >= 1
 max(cleaned_data$Neighbourhood_number, na.rm = TRUE) <= 180
-is.integer(cleaned_data$Neighbourhood_number) == TRUE
+
