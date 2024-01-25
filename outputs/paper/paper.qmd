@@ -1,12 +1,17 @@
 ---
-title: "A visualized study of crisis in Toronto"
+title: "Numer of Calls from Person In Crisis in Toronto: Commonality and Differentiation of Types"
 author: Yingzhi Zhang
 date: today
 date-format: long
-abstract: "Mental health is one of the most important factor to examine resident's happiness level in the city. In Toronto, people can call for police service when encountering severe situation which is defined as a crisis. ..."
+abstract: "Mental health is crucial to people's life in the city, and has driven more and more attention in the recent years. When people encounter emergency in mental health condition, calling the police is the last method to seek for help and even survival. This study explores the past data of person in crisis call for service attended from 2014 to 2023. The visualization of the dataset suggests that more services and policies are necessary for all types of crisis, but the needs are different among different time periods and locations."
 format: pdf
+header-includes: 
+- \usepackage{float}
+mainfont: Times New Roman
+sansfont: Times New Roman
 number-sections: true
 bibliography: references.bib
+toc: true
 ---
 
 ```{r}
@@ -17,177 +22,142 @@ bibliography: references.bib
 library(tidyverse)
 library(janitor)
 library(lubridate)
-library(ggplot2)
-```
+library(opendatatoronto)
+library(knitr)
+library(kableExtra)
 
+```
 
 # Introduction
 
-Toronto police
+Recently, well-being condition and mental diseases have been brough to the forefront. While people start to pay more attention to their mental health, data suggests that about 29% of the world population would suffer from mental disorders at least once in their life [@steel2014global]. Consequently, the needs for emergency medical service have increased significantly, partially due to the lack of access to daily mental health services [@roggenkamp2018descriptive]. 
 
-Mental health + crisis
-
-Next Step
-
+When people encounter any emergent situation in Toronto, Canada, they can always dial "911" and ask for the help. Crisis regarding to the well-being and mental health is also included in addition to common events such as theft and traffic accidents. From a researcher's perspective, emergency calls provide a comprehensive dataset as a source to study the requests for police service from the residents [@simpson2021re]. Therefore, Understanding the past calls from people in crisis is important for the study of well-being situation in Toronto, and the design of plans and policies in the future. This essay will explore historical data of Persons in Crisis Call in Toronto. In Section2, I will discuss the source and the processing methods of the dataset. Then, I will provide a detailed explanation regarding to the data based on tables and figures. Finally, I will discuss the implications and weakness of this essay in Section3.
 
 # Data {#sec-data}
+## Source and Data Collection
+The dataset used in this study is "Persons in Crisis Calls for Service Attended" dataset retrieved from The City of Toronto’s Open Data Portal [@opendatatoronto]. This is a quarterly refreshed dataset originally provided by Toronto Police Services (TPS) with the latest update on Jan.11, 2024. The dataset include all Persons in Crisis (PIC) calls for service attended (CFSA) cases for the last decade from January 2014 to January 2024.
 
-The data is downloaded and gathered from opendatatoronto.com.
+There are three major limitations regarding to the data. Firstly, it only include cases with involvement of a police officer affliated to Toronto Police Service (TPS) system. If police officer in other departments are engaged in a crisis call, the event would not be recorded in this dataset. Secondly, the dataset re-organizes the 6 types of crisis and combines them into 3 types: Person in Crisis calls include Person in Crisis and Elopee cases; Suicide-related calls include Attempt Suicide, Jumper and Threaten Suicide cases; and Overdose calls are set as an independent type. Thirdly, the neighbourhood information is recorded by the nearest road intersection of the calls for privacy protection. Moreover, neighbourhood information is not updated anymore since 2018, which sets limitations on geographical analysis.
 
-```{r}
-#| label: fig-bills
-#| fig-cap: Bills of penguins
-#| echo: false
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk more about it.
-
-And also planes. (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
+## Data Processing
+The initial dataset has 291,991 observations with 16 total columns introducing the information relative to the crisis calls. The data cleaning procedure uses R[@citeR] and R packages "tidyverse"[@tidyverse], "lubridate"[@lubridate], "janitor"[@janitor], "knitr"[@knitr], "kableExtra"[@kableextra]. Irrelative information, such as event id and police station division, is dropped. Repetitive information is also elimiinated, such as the nighbourhood information recorded using the old 140-neighbourhood classification method. The column names are changed for better understanding, and the "Month" data are switched from the original letter ("January" to "December") to the corresponding number ("01" to "12"). Finally, a cleaned version of the dataset is generated as shown by @tbl-01.
 
 ```{r}
-#| label: fig-planes
-#| fig-cap: Relationship between wing length and width
 #| echo: false
+#| eval: true
 #| warning: false
 #| message: false
+#| label: tbl-01
+#| tbl-cap: "First ten rows of the cleaned crisis call data"
+#| tbl-cap-location: bottom
+#| tbl-pos: H
 
-analysis_data <- read_csv("/Users/zhii/Documents/UofT/3rd year/STA302/sta302paper1/outputs/data/crisis_type_data.csv")
+cleaned_data <- read_csv(paste0(gsub("/paper", "", getwd()), "/data/cleaned_data.csv"))
+table01_data <- head(cleaned_data, 10)
+table_clean <-
+  kable(table01_data, format = "latex", booktabs = TRUE) %>%
+  kable_styling(latex_options = c("striped", "scale_down"))
 
-analysis_data |> 
-  ggplot(aes(x = Year, y = Number)) +
-  geom_point(alpha = 0.8) +
-  theme_minimal() +
+table_clean
+```
+
+## Data Visualisation
+### Crisis type
+The three types of crisis show a common trend among time in the number of correlated calls as shown in @fig-type. Calls regarding to person in crisis are the largest group, with more than 2,000 calls annually. Looking at the tail of the dark blue line in @fig-type, we can observe a declining trend that may happen in the near future. The second largest type is suicide-related emergencies. The number of suicide related calls increased from around 1,000 cases to almost 2,000 cases during the last decade. Though a drop occurred in 2019, the increasing trend re-appears during the COVID-19 pandemic. Overdose cases are the least frequent type as the annual number of calls is less than 1,000. However, the smoothly ncreasing pattern is most obvious in overdose category with a peak in 2021.
+
+While the proportion of the types barely changed in the long term, the most recent trend started to diverge. The data after 2022 shows a clear increasing trend only in overdose type. The number of suicide related calls are constant from 2022 to 2023, but the number of person in crisis calls had a clear sign of decrease last year. The diverging pattern suggests that more policies, services and care should be provided to drug addict in order to prevent overdose.
+
+```{r}
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+#| label: fig-type
+#| fig-cap: "Trend of crisis calls by type over time"
+#| fig-pos: H
+#| fig-width: 7
+#| fig-height: 3
+
+crisis_type_data <- read_csv(paste0(gsub("/paper", "", getwd()), "/data/crisis_type_data.csv"))
+crisis_type_graph <-
+ggplot(crisis_type_data, aes(x = Year, y = Number_of_crisis_call, color = Type)) +
+  geom_line(size = 1) +
+  geom_point(size = 2) +
   labs(x = "Year",
-       y = "Number of crisis")
+       y = "Number of Crisis Calls",
+       color = "Crisis Type") +
+  theme_minimal() +
+  scale_colour_brewer(palette = "Paired")
+
+crisis_type_graph
 ```
 
-Talk way more about it. 
+### Time period
+Analyzing data from time and geography perspective is able to provide guidence to policy design and resource allocation. According to @beiser2003community, current mental health institutions and services are not enough to cover all the population in Toronto, despite the fact that more and more attention has ben driven to this aspect. Therefore, a more detailed analysis in occurrence time and location of historical data can be a great indicator for implementation of more effective and efficient policies. 
 
-
-
-
-
-# Results
-
-Our results are summarized in @tbl-modelresults.
+The original dataset records the time that each call was made. We can furthur classify them into different parts of the day. The "Morning" section includes calls from 7am to noon; the "Afternoon" section include calls from 12 to 17pm; the "Night" section include calls from 18 to 23pm; and "Midnight" section includes calls from 0 to 6am. In @fig-time, the total number of calls made in different time period of the day is illustrated. During the day, midnight has the least calls for all three types. The other three time periods are almost evenly distributed. While overdose and suicide related events mostly happen in night, most crisis calls are made during afternoons. In general, more and more people in emergency need mental health supports as the day gets darker and darker.
 
 ```{r}
 #| echo: false
-#| eval: false
+#| eval: true
 #| warning: false
 #| message: false
+#| label: fig-time
+#| fig-cap: "Distribution of crisis calls over the day by type"
+#| fig-pos: H
+#| fig-width: 7
+#| fig-height: 3
 
-library(rstanarm)
+time_data <- read_csv(paste0(gsub("/paper", "", getwd()), "/data/time_data.csv"))
+time_graph <-
+  ggplot(time_data,
+         mapping = aes(x = time_of_day, fill = Type))+
+  theme_minimal() +
+  geom_bar(position = "dodge2")+
+  labs(x = "Time of the day", y = "Number of Crisis Call", fill = "Type") +
+  scale_fill_brewer(palette = "Paired")
 
-first_model <-
-  readRDS(file = here::here("outputs/models/first_model.rds"))
+time_graph
 ```
+
+### Location
+The geographic study could be furthur explored by grouping the neighbourhoods into downtown division and sub-urban division. Using the council of Toronto, downtown Toronto is defined as old Toronto and East York area. We can extract 5 representative neighbourhoods in the center of Toronto to show the cases in downtown. The 5 representative neighbourhoods for sub-urban area include districts east to Etobiocoke, north to North York and east to Scarborough. @fig-location provides a grid of box plot for a direct understanding of the difference in location. 
+
+There are significantly more calls from downtown neighbourhoods than sub-urban neighbourhoods as can be show from the figure. This difference is shared among all three types of emergency calls. Not only do downtown neighbourhoods have larger median number of calls, they also have larger variance than sub-urban area. More specifically, situation in downtown Toronto is much more volatile. In addition, neighbourhoods in downtown Toronto may have distinct situation while sub-urban area all share the commonality of having only few calls every year. For example, University neighbourhood at downtown Toronto has much fewer suicide-related cases comparing to other downtown neighbourhood.
 
 ```{r}
 #| echo: false
-#| eval: false
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
+#| eval: true
 #| warning: false
+#| message: false
+#| label: fig-location
+#| fig-cap: "Number of crisis calls in different neighbourhoods classified by types"
+#| fig-width: 8
+#| fig-height: 9
+#| fig-pos: H
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+neighbourhood_data <- read_csv(paste0(gsub("/paper", "", getwd()), "/data/neighbourhood_data.csv"))
+
+neighbourhood_figure <-
+  neighbourhood_data %>% 
+  ggplot(mapping = aes(x = Neighbourhood_name, y = Number)) +
+  geom_boxplot() +
+  scale_x_discrete(drop = TRUE) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  labs(x = "Neighbourhood Name", y = "Number of Crisis Calls") +
+  facet_grid(rows = vars(Type), cols = vars(Location), scales = "free")
+
+neighbourhood_figure
+
 ```
-
-
-
 
 # Discussion
+In 2023, more than 5,000 calls were made to request for help with mental health related crisis. As discussed in the previous section, an upward sloping line indicates that more and more crisis are happening. In response, more kinds of easily accessible mental health services should be provided. Historical data also suggest that downtown Toronto area should receive more resources because of the large number of cases happened in the past decade. More specifically, more calll-takers should be hired and ready for the high volumne of calls in afternoon and night. 
 
-## First discussion point {#sec-first-point}
-
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
-
-## Second discussion point
-
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
+One of the major weakness of this result is the limitations on geographic study. As mentioned above, the data with neighbourhood information was not updated after 2018. Besides, the large number of calls in downtown area may be caused by the larger population density. However, the data only records the location of calls instead of the home address of the caller, which may reduce the bias in studying crisis location.
 
 \newpage
-
-\appendix
-
-# Appendix {-}
-
-
-# Additional data details
-
-# Model details {#sec-model-details}
-
-## Posterior predictive check
-
-In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
-
-In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
-
-```{r}
-#| eval: false
-#| echo: false
-#| message: false
-#| warning: false
-#| label: fig-ppcheckandposteriorvsprior
-#| layout-ncol: 2
-#| fig-cap: "Examining how the model fits, and is affected by, the data"
-#| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
-
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
-
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
-```
-
-## Diagnostics
-
-@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
-
-@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
-
-```{r}
-#| echo: false
-#| eval: false
-#| message: false
-#| warning: false
-#| label: fig-stanareyouokay
-#| fig-cap: "Checking the convergence of the MCMC algorithm"
-#| fig-subcap: ["Trace plot", "Rhat plot"]
-#| layout-ncol: 2
-
-plot(first_model, "trace")
-
-plot(first_model, "rhat")
-```
-
-
-
-\newpage
-
 
 # References
-
-
