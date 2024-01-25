@@ -81,6 +81,7 @@ write_csv(crisis_type_data, "outputs/data/crisis_type_data.csv")
 ### Generating data for Neighborhood ###
 neighbourhood_data <-
   cleaned_data %>% 
+  filter(Year <= 2017) %>% 
   group_by(Year, Neighbourhood_number, Neighbourhood_name, Type) %>% 
   summarise(Number = n(), .groups = 'drop') %>% 
   mutate(
